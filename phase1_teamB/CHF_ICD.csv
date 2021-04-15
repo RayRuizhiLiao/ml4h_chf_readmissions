@@ -1,17 +1,30 @@
-icd_code,icd_version
-4280,9
-4281,9
-42820,9
-42821,9
-42822,9
-42823,9
-42830,9
-42831,9
-42832,9
-42833,9
-42840,9
-42841,9
-42842,9
-42843,9
-4289,9
-64511,9
+long_title,icd_code,icd_version
+acute on chronic systolic heart failure,42823,9
+"congestive heart failure, unspecified",4280,9
+acute on chronic diastolic heart failure,42833,9
+acute systolic heart failure,42821,9
+acute on chronic combined systolic and diastolic heart failure,42843,9
+acute combined systolic and diastolic heart failure,42841,9
+"combined systolic and diastolic heart failure, unspecified",42840,9
+acute diastolic heart failure,42831,9
+"diastolic heart failure, unspecified",42830,9
+"systolic heart failure, unspecified",42820,9
+"heart failure, unspecified",4289,9
+left heart failure,4281,9
+unspecified diastolic (congestive) heart failure,I5030,10
+"heart failure, unspecified",I509,10
+acute on chronic diastolic (congestive) heart failure,I5033,10
+acute diastolic (congestive) heart failure,I5031,10
+acute systolic (congestive) heart failure,I5021,10
+unspecified systolic (congestive) heart failure,I5020,10
+acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,I5043,10
+acute on chronic systolic (congestive) heart failure,I5023,10
+acute combined systolic (congestive) and diastolic (congestive) heart failure,I5041,10
+unspecified combined systolic (congestive) and diastolic (congestive) heart failure,I5040,10
+biventricular heart failure,I5082,10
+right heart failure due to left heart failure,I50814,10
+"right heart failure, unspecified",I50810,10
+acute on chronic right heart failure,I50813,10
+acute right heart failure,I50811,10
+high output heart failure,I5083,10
+other heart failure,I5089,10
