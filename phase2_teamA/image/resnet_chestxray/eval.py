@@ -19,7 +19,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--batch_size', default=64, type=int,
 					help='Mini-batch size')
 
-parser.add_argument('--label_key', default='Edema', type=str,
+parser.add_argument('--label_key', default='30d_hf', type=str,
 					help='The label key/classification task')
 
 parser.add_argument('--img_size', default=256, type=int,
@@ -36,10 +36,10 @@ parser.add_argument('--dataset_metadata', type=str,
 					default=os.path.join(current_dir, 'data/test_chexpert.csv'),
 					help='The metadata for the model training ')
 parser.add_argument('--save_dir', type=str,
-					default='/data/vision/polina/scratch/ruizhi/chestxray/experiments/supervised_image/'\
-					'tmp_postmiccai_v2/')
+					default='/data/vision/polina/projects/chestxray/kamineni/'\
+					'image_trial1/')
 parser.add_argument('--checkpoint_name', type=str,
-					default='pytorch_model_epoch300.bin')
+					default='pytorch_model_epoch1.bin')
 
 
 def eval(all_epochs=-1):
@@ -51,7 +51,7 @@ def eval(all_epochs=-1):
 	Check cuda
 	'''
 	device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-	assert torch.cuda.is_available(), "No GPU/CUDA is detected!"
+	#assert torch.cuda.is_available(), "No GPU/CUDA is detected!"
 
 	'''
 	Create a sub-directory under save_dir 
