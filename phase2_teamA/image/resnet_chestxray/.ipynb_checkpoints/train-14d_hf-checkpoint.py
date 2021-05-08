@@ -29,7 +29,7 @@ parser.add_argument('--init_lr', default=5e-4, type=float,
 
 parser.add_argument('--img_size', default=256, type=int,
                     help='The size of the input image')
-parser.add_argument('--output_channels', default=4, type=int,
+parser.add_argument('--output_channels', default=2, type=int,
                     help='The number of ouput channels')
 parser.add_argument('--model_architecture', default='resnet256_6_2_1', type=str,
                     help='Neural network architecture to be used')

@@ -268,16 +268,18 @@ class ModelManager:
 		eval_results = {}
 
 		if args.label_key == '14d_hf':
-			all_onehot_labels = [convert_to_onehot(label) for label in all_labels]
+			aucs = eval_metrics.compute_binary_auc(all_labels, all_preds_prob)
+			eval_results['aucs'] = aucs
+# 			all_onehot_labels = [convert_to_onehot(label) for label in all_labels]
 
-			ordinal_aucs = eval_metrics.compute_ordinal_auc(all_onehot_labels, all_preds_prob)
-			eval_results['ordinal_aucs'] = ordinal_aucs
+# 			ordinal_aucs = eval_metrics.compute_ordinal_auc(all_onehot_labels, all_preds_prob)
+# 			eval_results['ordinal_aucs'] = ordinal_aucs
 
-			ordinal_acc_f1 = eval_metrics.compute_ordinal_acc_f1_metrics(all_onehot_labels, 
-																	     all_preds_prob)
-			eval_results.update(ordinal_acc_f1)
+# 			ordinal_acc_f1 = eval_metrics.compute_ordinal_acc_f1_metrics(all_onehot_labels, 
+# 																	     all_preds_prob)
+# 			eval_results.update(ordinal_acc_f1)
 
-			eval_results['mse'] = eval_metrics.compute_mse(all_labels, all_preds_prob)
+# 			eval_results['mse'] = eval_metrics.compute_mse(all_labels, all_preds_prob)
 
 			results_acc_f1, _, _ = eval_metrics.compute_acc_f1_metrics(all_labels, all_preds_prob)
 			eval_results.update(results_acc_f1)

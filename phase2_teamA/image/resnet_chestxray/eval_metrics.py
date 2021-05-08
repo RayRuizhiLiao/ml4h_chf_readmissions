@@ -49,7 +49,7 @@ def compute_ordinal_auc(labels, preds):
         preds (a batch of predictions as 4-class probabilities)
     '''
 
-    assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
+    #assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
 
     num_datapoints = np.shape(preds)[0]
     num_channels = np.shape(preds)[1]
@@ -73,7 +73,7 @@ def compute_multiclass_auc(labels, preds):
         preds (a batch of predictions as C-class probabilities)
     '''
 
-    assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
+    #assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
 
     num_datapoints = np.shape(preds)[0]
     num_channels = np.shape(preds)[1]
@@ -93,7 +93,7 @@ def compute_ordinal_acc_f1_metrics(labels, preds):
         preds (a batch of predictions as 4-class probabilities)
     '''
 
-    assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
+    #assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
 
     num_datapoints = np.shape(preds)[0]
     num_channels = np.shape(preds)[1]
@@ -128,7 +128,7 @@ def compute_acc_f1_metrics(labels, preds):
         preds (a batch of predictions as 4-class probabilities)
     '''
 
-    assert len(labels) == np.shape(preds)[0] # size(labels)=(N,1);size(preds)=(N,C)
+    #assert len(labels) == np.shape(preds)[0] # size(labels)=(N,1);size(preds)=(N,C)
 
     pred_classes = np.argmax(preds, axis=1)
 
@@ -150,7 +150,7 @@ def compute_mse(labels, preds):
         preds (a batch of predictions as 4-class probabilities)
     '''
 
-    assert len(labels) == np.shape(preds)[0] # size(labels)=(N,1);size(preds)=(N,C)
+    #assert len(labels) == np.shape(preds)[0] # size(labels)=(N,1);size(preds)=(N,C)
 
     num_datapoints = np.shape(preds)[0]
     num_channels = np.shape(preds)[1]
@@ -161,3 +161,26 @@ def compute_mse(labels, preds):
             expect_preds[i] += j * preds[i][j]
 
     return mse(labels, expect_preds)
+
+
+def compute_binary_auc(labels, preds):
+    ''' Compute multiclass AUCs given
+        labels (a batch of C-class one-hot labels) and
+        preds (a batch of predictions as C-class probabilities)
+    '''
+
+    #assert np.shape(labels) == np.shape(preds) # size(labels)=(N,C);size(preds)=(N,C)
+
+    num_datapoints = np.shape(preds)[0]
+    num_channels = np.shape(preds)[1]
+
+    labels = np.array(labels)
+    preds = np.array(preds)
+    aucs = []
+#     for i in range(num_channels):
+    fpr, tpr, thresholds = sklearn.metrics.roc_curve(labels, preds[:,0], pos_label=1)
+    aucs.append(sklearn.metrics.auc(fpr, tpr))
+
+    return aucs
+
+

@@ -16,7 +16,7 @@ from resnet_chestxray.main_utils_14d_hf import ModelManager, build_model
 current_dir = os.path.dirname(__file__)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--batch_size', default=12, type=int,
+parser.add_argument('--batch_size', default=64, type=int,
 					help='Mini-batch size')
 
 parser.add_argument('--label_key', default='14d_hf', type=str,
@@ -24,7 +24,7 @@ parser.add_argument('--label_key', default='14d_hf', type=str,
 
 parser.add_argument('--img_size', default=256, type=int,
                     help='The size of the input image')
-parser.add_argument('--output_channels', default=4, type=int,
+parser.add_argument('--output_channels', default=2, type=int,
                     help='The number of ouput channels')
 parser.add_argument('--model_architecture', default='resnet256_6_2_1', type=str,
                     help='Neural network architecture to be used')
@@ -33,12 +33,12 @@ parser.add_argument('--data_dir', type=str,
 					default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/images/',
 					help='The image data directory')
 parser.add_argument('--dataset_metadata', type=str,
-					default=os.path.join(current_dir, 'data/test_readmission-14d_hf-4k.csv'),
+					default=os.path.join(current_dir, 'data/test_readmission-14d_hf.csv'),
 					help='The metadata for the model training ')
 parser.add_argument('--save_dir', type=str,
 					default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/experiments/')
 parser.add_argument('--checkpoint_name', type=str,
-					default='pytorch_model_epoch3.bin')
+					default='pytorch_model_epoch300.bin')
 
 
 def eval(all_epochs=-1):
@@ -83,8 +83,8 @@ def eval(all_epochs=-1):
 			inference_results, eval_results= model_manager.eval(device=device,
 																args=args,
 																checkpoint_path=checkpoint_path)
-			if args.label_key == 'edema_severity':
-				aucs_all_epochs.append(eval_results['ordinal_aucs'])
+			if args.label_key == '14d_hf':
+				aucs_all_epochs.append(eval_results['aucs'])
 			else:
 				aucs_all_epochs.append(eval_results['aucs'][0])
 
