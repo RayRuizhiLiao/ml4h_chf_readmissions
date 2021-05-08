@@ -15,9 +15,9 @@ from resnet_chestxray.main_utils_14d_hf import ModelManager
 current_dir = os.path.dirname(__file__)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--batch_size', default=64, type=int,
+parser.add_argument('--batch_size', default=128, type=int,
 					help='Mini-batch size')
-parser.add_argument('--num_train_epochs', default=300, type=int,
+parser.add_argument('--num_train_epochs', default=400, type=int,
                     help='Number of training epochs')
 parser.add_argument('--loss_method', type=str,
                     default='CrossEntropyLoss',#
