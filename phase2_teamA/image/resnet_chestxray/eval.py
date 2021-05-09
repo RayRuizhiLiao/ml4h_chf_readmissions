@@ -33,11 +33,11 @@ parser.add_argument('--data_dir', type=str,
 					default='/data/vision/polina/scratch/ruizhi/chestxray/data/png_16bit_256/',
 					help='The image data directory')
 parser.add_argument('--dataset_metadata', type=str,
-					default=os.path.join(current_dir, 'data/test_chexpert.csv'),
+					default=os.path.join(current_dir, 'data/test_30d_hf.csv'),
 					help='The metadata for the model training ')
 parser.add_argument('--save_dir', type=str,
 					default='/data/vision/polina/projects/chestxray/kamineni/'\
-					'image_trial1/')
+					'30d_hf/trial_epoch')
 parser.add_argument('--checkpoint_name', type=str,
 					default='pytorch_model_epoch1.bin')
 

@@ -535,7 +535,7 @@ class ResNet512_6_2_1(nn.Module):
         z = torch.flatten(x, 1)
         y_logits = self.fc1(z)
         y = self.softmax(y_logits)
-
+        
         return y, z, y_logits
 
     # based on 
@@ -669,7 +669,7 @@ class ResNet256_6_2_1(nn.Module):
         self.layer6 = self._make_layer(block, 192, blocks_per_layers[5], stride=2)
         self.avgpool = nn.AvgPool2d((2, 2))
         self.fc1 = nn.Linear(768, output_channels)
-        self.softmax = nn.Softmax(dim=1)
+        self.softmax = nn.Softmax(dim=0)
         
         for m in self.modules():
             if isinstance(m, nn.Conv2d):
@@ -722,7 +722,6 @@ class ResNet256_6_2_1(nn.Module):
         z = torch.flatten(x, 1)
         y_logits = self.fc1(z)
         y = self.softmax(y_logits)
-
         return y, z, y_logits
 
     # based on 
@@ -764,9 +763,8 @@ class ResNet256_6_2_1(nn.Module):
         # in this case it is easier to just use save_pretrained and from_pretrained to read that 
         # saved checkpoint fully
         if state_dict is None:
-            state_dict = torch.load(pretrained_model_path, map_location='cpu')
-
-        # Convert old format to new format if needed from a PyTorch state_dict
+            state_dict = torch.load(str(pretrained_model_path), map_location='cpu')
+        
         old_keys = []
         new_keys = []
         for key in state_dict.keys():

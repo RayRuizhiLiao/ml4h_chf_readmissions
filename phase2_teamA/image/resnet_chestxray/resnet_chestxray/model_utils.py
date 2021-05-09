@@ -110,7 +110,6 @@ class CXRImageDataset(torchvision.datasets.VisionDataset):
             img = self.transform(img)
 
         img = np.expand_dims(img, axis=0)
-
         return img, label, img_id
 
     def select_valid_labels(self):

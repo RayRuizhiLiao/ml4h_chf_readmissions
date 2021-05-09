@@ -44,6 +44,15 @@ print(admissions.head())
 
 # In[110]:
 
+input(metadata.columns)
+input(metadata.ViewPosition.value_counts())
+input(metadata.ViewCodeSequence_CodeMeaning.value_counts())
+#antero-posterior         146448
+#postero-anterior          95858
+
+print(metadata.shape)
+metadata = metadata[metadata.ViewCodeSequence_CodeMeaning.isin(['antero-posterior', 'postero-anterior'])]
+print(metadata.shape)
 
 # convert StudyDate + StudyTime to datetime objects in 'StudyDateTime'
 metadata['StudyTime'] = metadata['StudyTime'].astype(str)

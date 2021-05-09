@@ -17,7 +17,7 @@ current_dir = os.path.dirname(__file__)
 parser = argparse.ArgumentParser()
 parser.add_argument('--batch_size', default=64, type=int,
 					help='Mini-batch size')
-parser.add_argument('--num_train_epochs', default=1, type=int,
+parser.add_argument('--num_train_epochs', default=300, type=int,
                     help='Number of training epochs')
 parser.add_argument('--loss_method', type=str,
                     default='BCEWithLogitsLoss',
@@ -27,7 +27,7 @@ parser.add_argument('--init_lr', default=5e-4, type=float,
 
 parser.add_argument('--img_size', default=256, type=int,
                     help='The size of the input image')
-parser.add_argument('--output_channels', default=2, type=int,
+parser.add_argument('--output_channels', default=1, type=int,
                     help='The number of ouput channels')
 parser.add_argument('--model_architecture', default='resnet256_6_2_1', type=str,
                     help='Neural network architecture to be used')
@@ -46,7 +46,6 @@ parser.add_argument('--label_key', type=str,
                     help='The supervised task (the key of the corresponding label column)')
 
 
-print("hello")
 def train():
         args = parser.parse_args()
         print(args)

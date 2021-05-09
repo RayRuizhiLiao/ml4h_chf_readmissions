@@ -24,7 +24,7 @@ import torch
 import torchvision
 import torch.optim as optim
 import torch.optim.lr_scheduler as lr_scheduler
-from torch.nn import CrossEntropyLoss, BCEWithLogitsLoss, BCELoss
+from torch.nn import CrossEntropyLoss, BCEWithLogitsLoss
 from torch.utils.tensorboard import SummaryWriter
 from torch.utils.data import DataLoader
 
@@ -32,11 +32,10 @@ from .model import build_resnet256_6_2_1, build_resnet512_6_2_1
 from .model import build_resnet1024_7_2_1, build_resnet2048_7_2_1
 from .model_utils import CXRImageDataset, convert_to_onehot
 import eval_metrics
-from PIL import Image
 
-# label = '14d_hf'
-def build_training_dataset(data_dir, img_size: int, dataset_metadata='../data/train_readmission-14d_hf.csv',
-        random_degrees=[-20,20], random_translate=[0.1,0.1], label_key='14d_hf'):
+
+def build_training_dataset(data_dir, img_size: int, dataset_metadata='../data/training.csv',
+        random_degrees=[-20,20], random_translate=[0.1,0.1], label_key='edema_severity'):
     transform=torchvision.transforms.Compose([
         torchvision.transforms.Lambda(lambda img: img.astype(np.int16)),
         torchvision.transforms.ToPILImage(),
@@ -54,7 +53,7 @@ def build_training_dataset(data_dir, img_size: int, dataset_metadata='../data/tr
 
     return training_dataset
 
-def build_evaluation_dataset(data_dir, img_size: int, dataset_metadata='../data/test_readmission-14d_hf.csv', label_key='14d_hf'):
+def build_evaluation_dataset(data_dir, img_size: int, dataset_metadata='../data/test.csv', label_key='edema_severity'):
     transform=torchvision.transforms.Compose([
         torchvision.transforms.Lambda(lambda img: img.astype(np.int16)),
         torchvision.transforms.ToPILImage(),
@@ -123,11 +122,14 @@ class ModelManager:
         '''
         Create an instance of traning data loader
         '''
+        print(args.data_dir)
+        print(args.dataset_metadata)
         print('***** Instantiate a data loader *****')
         dataset = build_training_dataset(data_dir=args.data_dir,
                                                                          img_size=self.img_size,
                                                                          dataset_metadata=args.dataset_metadata,
                                                                          label_key=args.label_key)
+
         data_loader = DataLoader(dataset, batch_size=args.batch_size,
                                                          shuffle=True, num_workers=8,
                                                          pin_memory=True)
@@ -141,8 +143,7 @@ class ModelManager:
                 loss_criterion = CrossEntropyLoss().to(device)
         elif args.loss_method == 'BCEWithLogitsLoss':
                 loss_criterion = BCEWithLogitsLoss().to(device)
-        elif args.loss_method == 'BCELoss':
-                loss_criterion = BCELoss().to(device)
+
         '''
         Create an instance of optimizer and learning rate scheduler
         '''
@@ -172,20 +173,18 @@ class ModelManager:
                         # Forward + backward + optimize
                         outputs = self.model(images)
                         pred_logits = outputs[-1]
+                        # Note that the logits are used here
                         if args.loss_method == 'BCEWithLogitsLoss':
-                            labels = torch.reshape(labels, pred_logits.size())
+                                labels = torch.reshape(labels, pred_logits.size())
 
                         # pred_logits[labels<0] = 0
                         # labels[labels<0] = 0.5
-                        #labels = labels.type_as(outputs)
-                        loss = loss_criterion(pred_logits.float(), labels.float())
-             
+                        loss = loss_criterion(pred_logits, labels)
                         loss.backward()
                         optimizer.step()
 
                         # Record training statistics
                         epoch_loss += loss.item()
-                        print("Epoch loss %s" %str(epoch_loss))
 
                         if not loss.item()>0:
                                 logger.info(f"loss: {loss.item()}")
@@ -246,9 +245,9 @@ class ModelManager:
 
                             preds_prob = outputs[0]
                             preds_logit = outputs[-1]
-                            print(outputs)
-                            #if not args.label_key == 'edema_severity':
-                                    #labels = torch.reshape(labels, preds_logit.size())
+
+                            if not args.label_key == 'edema_severity':
+                                    labels = torch.reshape(labels, preds_logit.size())
 
                             preds_prob = preds_prob.detach().cpu().numpy()
                             preds_logit = preds_logit.detach().cpu().numpy()
@@ -268,21 +267,17 @@ class ModelManager:
                                                      'all_labels': all_labels}
             eval_results = {}
 
-            if args.label_key in ['14d_hf', '30d_hf', '48h_hf']:
-                    all_preds_prob = [1 / (1 + np.exp(-logit)) for logit in all_preds_logit]
-                    #all_preds_prob = all_preds_logit
-                    aucs = eval_metrics.compute_binary_auc(all_labels, all_preds_prob)
-                    eval_results['aucs'] = aucs
-# 			all_onehot_labels = [convert_to_onehot(label) for label in all_labels]
+            if args.label_key == 'edema_severity':
+                    all_onehot_labels = [convert_to_onehot(label) for label in all_labels]
 
-# 			ordinal_aucs = eval_metrics.compute_ordinal_auc(all_onehot_labels, all_preds_prob)
-# 			eval_results['ordinal_aucs'] = ordinal_aucs
+                    ordinal_aucs = eval_metrics.compute_ordinal_auc(all_onehot_labels, all_preds_prob)
+                    eval_results['ordinal_aucs'] = ordinal_aucs
 
-# 			ordinal_acc_f1 = eval_metrics.compute_ordinal_acc_f1_metrics(all_onehot_labels, 
-# 																	     all_preds_prob)
-# 			eval_results.update(ordinal_acc_f1)
+                    ordinal_acc_f1 = eval_metrics.compute_ordinal_acc_f1_metrics(all_onehot_labels, 
+                                                                                                                                         all_preds_prob)
+                    eval_results.update(ordinal_acc_f1)
 
-# 			eval_results['mse'] = eval_metrics.compute_mse(all_labels, all_preds_prob)
+                    eval_results['mse'] = eval_metrics.compute_mse(all_labels, all_preds_prob)
 
                     results_acc_f1, _, _ = eval_metrics.compute_acc_f1_metrics(all_labels, all_preds_prob)
                     eval_results.update(results_acc_f1)
@@ -306,9 +301,6 @@ class ModelManager:
             Load and Preprocess the input image
             '''
             img = cv2.imread(img_path, cv2.IMREAD_ANYDEPTH)
-            #img = cv2.imread(img_path, cv2.IMREAD_COLOR)
-
-    #img = Image.open(img_path)
 
             transform = torchvision.transforms.Compose([
                     torchvision.transforms.Lambda(lambda img: img.astype(np.int16)),
