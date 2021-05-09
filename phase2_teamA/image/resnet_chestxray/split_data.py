@@ -14,7 +14,11 @@ label = '30d_hf'
 labels = cohort[label]
 n=len(cohort)
 <<<<<<< HEAD
+<<<<<<< HEAD
 trains = [0]*int(n*0.7)+[1]*(n- int(0.7*n))
+=======
+trains = [1]*int(n*0.7)+[0]*(n- int(0.7*n))
+>>>>>>> f132e89ef91fdc37183c3fd536be7759ce7e8690
 =======
 trains = [1]*int(n*0.7)+[0]*(n- int(0.7*n))
 >>>>>>> f132e89ef91fdc37183c3fd536be7759ce7e8690
