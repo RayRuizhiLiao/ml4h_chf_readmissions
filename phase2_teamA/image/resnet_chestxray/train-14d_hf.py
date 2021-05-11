@@ -10,18 +10,18 @@ import logging
 
 import torch
 os.environ['CUDA_LAUNCH_BLOCKING'] = "1"
-from resnet_chestxray.main_utils_14d_hf import ModelManager
+from resnet_chestxray.main_utils import ModelManager
 
 current_dir = os.path.dirname(__file__)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--batch_size', default=128, type=int,
+parser.add_argument('--batch_size', default=64, type=int,
 					help='Mini-batch size')
-parser.add_argument('--num_train_epochs', default=400, type=int,
+parser.add_argument('--num_train_epochs', default=100, type=int,
                     help='Number of training epochs')
 parser.add_argument('--loss_method', type=str,
-                    default='CrossEntropyLoss',#
-                   # default='BCEWithLogitsLoss',
+                    #default='CrossEntropyLoss',#
+                   default='BCEWithLogitsLoss',
                     # default='BCELoss',
                     help='Loss function for model training')
 parser.add_argument('--init_lr', default=5e-4, type=float, 
@@ -29,7 +29,7 @@ parser.add_argument('--init_lr', default=5e-4, type=float,
 
 parser.add_argument('--img_size', default=256, type=int,
                     help='The size of the input image')
-parser.add_argument('--output_channels', default=2, type=int,
+parser.add_argument('--output_channels', default=1, type=int,
                     help='The number of ouput channels')
 parser.add_argument('--model_architecture', default='resnet256_6_2_1', type=str,
                     help='Neural network architecture to be used')
