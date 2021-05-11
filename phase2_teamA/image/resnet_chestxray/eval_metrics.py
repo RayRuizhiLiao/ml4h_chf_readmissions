@@ -211,6 +211,10 @@ def compute_binary_auc(labels, preds):
     #results_acc_f1, _, _ = compute_acc_f1_metrics(labels, to_labels(preds, thresholds[ind]))
     precision, recall, f1, _ = precision_recall_fscore_support(labels, to_labels(preds, thresholds[ind]))
     #print(results_acc_f1, _, _)
+    print('precision' % precision)
+    print('recall' % recall)
+    print('f1' % f1)
+    print('support' %_)
     print(precision, recall, f1, _)
     return aucs
 
