@@ -22,17 +22,17 @@ labels = cohort[label]
 input(cohort[label].value_counts())
 n=len(cohort)
 trains = [1]*int(n*0.8)+[0]*(n- int(0.8*n))
-random.Random(4).shuffle(trains)
+#random.Random(4).shuffle(trains)
 cohort['train'] = trains
 print(cohort.columns)
 cohort = cohort.rename({"last_study_id":"study_id", "last_dicom_id": "dicom_id"},axis = 1)
 
 
 print(cohort.columns)
-cohort[cohort.train == 1][['subject_id', 'study_id', 'dicom_id']].to_csv('data/train_metadata.csv')
-cohort[cohort.train == 1][['study_id',label]].to_csv('data/train_'+label+'_labels.csv')
-cohort[cohort.train == 0][['subject_id', 'study_id', 'dicom_id']].to_csv('data/test_metadata.csv')
-cohort[cohort.train == 0][['study_id',label]].to_csv('data/test_'+label+'_labels.csv')
+cohort[cohort.train == 1][['subject_id', 'study_id', 'dicom_id']].to_csv('data/train_metadata.csv', index = False)
+cohort[cohort.train == 1][['study_id',label]].to_csv('data/train_'+label+'_labels.csv', index =False)
+cohort[cohort.train == 0][['subject_id', 'study_id', 'dicom_id']].to_csv('data/test_metadata.csv', index = False)
+cohort[cohort.train == 0][['study_id',label]].to_csv('data/test_'+label+'_labels.csv', index = False)
 
 train_metadata = os.path.join(current_dir, 'data/train_metadata.csv')
 save_path = os.path.join(current_dir, 'data/training_'+label+'.csv')

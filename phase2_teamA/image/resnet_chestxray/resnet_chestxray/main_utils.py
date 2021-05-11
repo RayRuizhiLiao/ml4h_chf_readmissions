@@ -246,7 +246,7 @@ class ModelManager:
 
                             preds_prob = outputs[0]
                             preds_logit = outputs[-1]
-                            print(outputs)
+                            #print(outputs)
                             #if not args.label_key == 'edema_severity':
                                     #labels = torch.reshape(labels, preds_logit.size())
 
