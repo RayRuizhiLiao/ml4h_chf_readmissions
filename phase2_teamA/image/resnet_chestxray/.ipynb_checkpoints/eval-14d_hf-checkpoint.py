@@ -38,7 +38,7 @@ parser.add_argument('--dataset_metadata', type=str,
 parser.add_argument('--save_dir', type=str,
 					default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/experiments/')
 parser.add_argument('--checkpoint_name', type=str,
-					default='pytorch_model_epoch100.bin')
+					default='pytorch_model_epoch30.bin')
 
 
 def eval(all_epochs=-1):

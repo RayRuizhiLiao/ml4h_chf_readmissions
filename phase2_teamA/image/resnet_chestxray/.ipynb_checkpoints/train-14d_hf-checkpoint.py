@@ -17,7 +17,7 @@ current_dir = os.path.dirname(__file__)
 parser = argparse.ArgumentParser()
 parser.add_argument('--batch_size', default=64, type=int,
 					help='Mini-batch size')
-parser.add_argument('--num_train_epochs', default=100, type=int,
+parser.add_argument('--num_train_epochs', default=200, type=int,
                     help='Number of training epochs')
 parser.add_argument('--loss_method', type=str,
                     #default='CrossEntropyLoss',#

@@ -9,6 +9,7 @@ from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import matthews_corrcoef, confusion_matrix
 from sklearn.metrics import mean_squared_error as mse
+from sklearn.metrics import f1_score
 import numpy as np
 import sklearn
 from scipy.special import softmax
@@ -131,7 +132,8 @@ def compute_acc_f1_metrics(labels, preds):
     #assert len(labels) == np.shape(preds)[0] # size(labels)=(N,1);size(preds)=(N,C)
 
     pred_classes = np.argmax(preds, axis=1)
-
+   # print(pred_classes)
+    #pred_classes = preds
     precision, recall, f1, _ = precision_recall_fscore_support(labels, pred_classes)
     accuracy = accuracy_score(labels, pred_classes)
     macro_f1 = np.mean(f1)
@@ -162,6 +164,8 @@ def compute_mse(labels, preds):
 
     return mse(labels, expect_preds)
 
+def to_labels(pos_probs, threshold):
+	return (pos_probs >= threshold).astype('int')
 
 def compute_binary_auc(labels, preds):
     ''' Compute multiclass AUCs given
@@ -177,6 +181,7 @@ def compute_binary_auc(labels, preds):
     labels = np.array(labels)
     preds = np.array(preds)
     aucs = []
+
 #     for i in range(num_channels):
     fpr, tpr, thresholds = sklearn.metrics.roc_curve(labels, preds[:,0], pos_label=1)
     print(fpr,tpr,thresholds)
@@ -191,8 +196,22 @@ def compute_binary_auc(labels, preds):
 #     # show the plot
 #     plt.show()
 
+    #scores = [f1_score(labels, to_labels(preds, thresh)) for thresh in thresholds]
+    # get best threshold
+    #ind = np.argmax(scores)
+    gmeans = np.sqrt(tpr * (1-fpr))
+    gmeans[thresholds < 5e-2] = 0
+    ind = np.argmax(gmeans)
+    print(gmeans)
+    print(ind)
+    print('Threshold=%.3f' % thresholds[ind])
+    print('Accuracy=%.3f' %accuracy_score(labels, to_labels(preds, thresholds[ind])))
     aucs.append(sklearn.metrics.auc(fpr, tpr))
-
+    #results_acc_f1, _, _ = compute_acc_f1_metrics(labels, to_labels(preds, thresholds[ind]))
+    #results_acc_f1, _, _ = compute_acc_f1_metrics(labels, to_labels(preds, thresholds[ind]))
+    precision, recall, f1, _ = precision_recall_fscore_support(labels, to_labels(preds, thresholds[ind]))
+    #print(results_acc_f1, _, _)
+    print(precision, recall, f1, _)
     return aucs
 
 
