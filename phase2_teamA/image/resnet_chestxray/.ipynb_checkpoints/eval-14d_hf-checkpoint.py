@@ -11,7 +11,7 @@ import json
 
 import torch
 
-from resnet_chestxray.main_utils_14d_hf import ModelManager, build_model
+from resnet_chestxray.main_utils import ModelManager, build_model
 
 current_dir = os.path.dirname(__file__)
 
@@ -24,7 +24,7 @@ parser.add_argument('--label_key', default='14d_hf', type=str,
 
 parser.add_argument('--img_size', default=256, type=int,
                     help='The size of the input image')
-parser.add_argument('--output_channels', default=2, type=int,
+parser.add_argument('--output_channels', default=1, type=int,
                     help='The number of ouput channels')
 parser.add_argument('--model_architecture', default='resnet256_6_2_1', type=str,
                     help='Neural network architecture to be used')
@@ -38,7 +38,7 @@ parser.add_argument('--dataset_metadata', type=str,
 parser.add_argument('--save_dir', type=str,
 					default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/experiments/')
 parser.add_argument('--checkpoint_name', type=str,
-					default='pytorch_model_epoch300.bin')
+					default='pytorch_model_epoch100.bin')
 
 
 def eval(all_epochs=-1):
@@ -88,7 +88,7 @@ def eval(all_epochs=-1):
 			else:
 				aucs_all_epochs.append(eval_results['aucs'][0])
 
-		print(f"All epochs AUCs: {aucs_all_epochs}")
+		#print(f"All epochs AUCs: {aucs_all_epochs}")
 
 		eval_results_all={}
 		eval_results_all['ordinal_aucs']=aucs_all_epochs

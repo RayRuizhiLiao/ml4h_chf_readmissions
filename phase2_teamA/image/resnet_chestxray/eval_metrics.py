@@ -12,7 +12,7 @@ from sklearn.metrics import mean_squared_error as mse
 import numpy as np
 import sklearn
 from scipy.special import softmax
-
+import matplotlib.pyplot as plt
 
 def compute_pairwise_auc(labels, preds):
     ''' Compute pariwise AUCs given
@@ -179,6 +179,18 @@ def compute_binary_auc(labels, preds):
     aucs = []
 #     for i in range(num_channels):
     fpr, tpr, thresholds = sklearn.metrics.roc_curve(labels, preds[:,0], pos_label=1)
+    print(fpr,tpr,thresholds)
+    
+    # plot the roc curve for the model
+#     plt.plot(fpr, tpr, marker='.', label='Test')
+#     # axis labels
+#     plt.xlabel('False Positive Rate')
+#     plt.ylabel('True Positive Rate')
+#     # show the legend
+#     plt.legend()
+#     # show the plot
+#     plt.show()
+
     aucs.append(sklearn.metrics.auc(fpr, tpr))
 
     return aucs

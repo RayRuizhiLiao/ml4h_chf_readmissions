@@ -9,22 +9,22 @@ from resnet_chestxray import model_utils
 current_dir = os.path.dirname(__file__)
 
 # cohort = pd.read_csv('data/final_cohort_with_imageids.csv')
-cohort = pd.read_csv(os.path.join(current_dir,'data/final_cohort_with_imageids.csv'))
+#cohort = pd.read_csv(os.path.join(current_dir,'data/final_cohort_with_imageids.csv'))
+correct_mimicids = pd.read_csv('data/final_cohort_with_mimicids.csv')
+cohort = pd.read_csv('../final_cohort_with_imageids.csv')
 label = '14d_hf'
 labels = cohort[label]
 n=len(cohort)
-trains = [1]*int(n*0.7)+[0]*(n- int(0.7*n))
-random.Random(4).shuffle(trains)
+trains = [1]*int(n*0.8)+[0]*(n- int(0.8*n))
+#random.Random(4).shuffle(trains)
 cohort['train'] = trains
 print(cohort.columns)
 cohort = cohort.rename({"last_study_id":"study_id", "last_dicom_id": "dicom_id"},axis = 1)
 
-f"data/{label}.csv"
-print(cohort.columns)
-# cohort[cohort.train == 1][['subject_id', 'study_id', 'dicom_id']].to_csv(f"data/train_metadata-{label}.csv")
-# cohort[cohort.train == 1][['study_id',label]].to_csv(f"data/train_labels-{label}.csv")
-# cohort[cohort.train == 0][['subject_id', 'study_id', 'dicom_id']].to_csv(f"data/test_metadata-{label}.csv")
-# cohort[cohort.train == 0][['study_id',label]].to_csv(f"data/test_labels-{label}.csv")
+cohort[cohort.train == 1][['subject_id', 'study_id', 'dicom_id']].to_csv(f"data/train_metadata-{label}.csv")
+cohort[cohort.train == 1][['study_id',label]].to_csv(f"data/train_labels-{label}.csv")
+cohort[cohort.train == 0][['subject_id', 'study_id', 'dicom_id']].to_csv(f"data/test_metadata-{label}.csv")
+cohort[cohort.train == 0][['study_id',label]].to_csv(f"data/test_labels-{label}.csv")
 
 train_metadata = os.path.join(current_dir, f"data/train_metadata-{label}.csv")
 save_path = os.path.join(current_dir, f"data/train_readmission-{label}.csv")
@@ -36,30 +36,34 @@ model_utils.CXRImageDataset.create_dataset_metadata(mimiccxr_metadata=train_meta
 												        label_key=[label], 
                                                                                                         mimiccxr_selection = None,
                                                                                                         save_path=save_path)
-
-## TODO remove images which cant be found 
 data = pd.read_csv(save_path)
-default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/images/'
-counter_None = 0
-other_counter = 0
-input(len(data.mimic_id))
-bad_mimic_ids = []
-for img_id in data.mimic_id:
-    png_path = os.path.join(default, f'{img_id}.png')
-    print(png_path)
-    img = cv2.imread(png_path, cv2.IMREAD_ANYDEPTH)
-    print(img)
-    if img is None:
-        counter_None += 1
-        bad_mimic_ids.append(img_id)
-    else:
-        other_counter += 1
-print(counter_None)
-print(other_counter)
-data = data[~data.mimic_id.isin(bad_mimic_ids)]
+data = data[data.mimic_id.isin(correct_mimicids.mimic_id)]
 print(data.shape)
 print(data.head())
 data.to_csv(save_path)
+## TODO remove images which cant be found 
+# data = pd.read_csv(save_path)
+# default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/images/'
+# counter_None = 0
+# other_counter = 0
+# input(len(data.mimic_id))
+# bad_mimic_ids = []
+# for img_id in data.mimic_id:
+#     png_path = os.path.join(default, f'{img_id}.png')
+#     print(png_path)
+#     img = cv2.imread(png_path, cv2.IMREAD_ANYDEPTH)
+#     print(img)
+#     if img is None:
+#         counter_None += 1
+#         bad_mimic_ids.append(img_id)
+#     else:
+#         other_counter += 1
+# print(counter_None)
+# print(other_counter)
+# data = data[~data.mimic_id.isin(bad_mimic_ids)]
+# print(data.shape)
+# print(data.head())
+# data.to_csv(save_path)
 
 
 test_metadata = os.path.join(current_dir, f"data/test_metadata-{label}.csv")
@@ -71,7 +75,11 @@ model_utils.CXRImageDataset.create_dataset_metadata(mimiccxr_metadata=test_metad
                                                                                                         label_key=[label],
                                                                                                         mimiccxr_selection = None,
 													save_path=save_path)
-
+data = pd.read_csv(save_path)
+data = data[data.mimic_id.isin(correct_mimicids.mimic_id)]
+print(data.shape)
+print(data.head())
+data.to_csv(save_path)
 # assert 1==2
 '''
 Split data using both chexpert labels and edema severity labels
