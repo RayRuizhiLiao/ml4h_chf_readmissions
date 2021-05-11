@@ -1,0 +1,5510 @@
+icd_code,icd_version,comorbidity
+39891,9,Congestive heart failure
+40201,9,Congestive heart failure
+40211,9,Congestive heart failure
+40291,9,Congestive heart failure
+40401,9,Congestive heart failure
+40403,9,Congestive heart failure
+40411,9,Congestive heart failure
+40413,9,Congestive heart failure
+40491,9,Congestive heart failure
+40493,9,Congestive heart failure
+4280,9,Congestive heart failure
+4281,9,Congestive heart failure
+42820,9,Congestive heart failure
+42821,9,Congestive heart failure
+42822,9,Congestive heart failure
+42823,9,Congestive heart failure
+42830,9,Congestive heart failure
+42831,9,Congestive heart failure
+42832,9,Congestive heart failure
+42833,9,Congestive heart failure
+42840,9,Congestive heart failure
+42841,9,Congestive heart failure
+42842,9,Congestive heart failure
+42843,9,Congestive heart failure
+4289,9,Congestive heart failure
+4254,9,Congestive heart failure
+4255,9,Congestive heart failure
+4257,9,Congestive heart failure
+4258,9,Congestive heart failure
+4259,9,Congestive heart failure
+I099,10,Congestive heart failure
+I110,10,Congestive heart failure
+I130,10,Congestive heart failure
+I132,10,Congestive heart failure
+I255,10,Congestive heart failure
+I420,10,Congestive heart failure
+I425,10,Congestive heart failure
+I426,10,Congestive heart failure
+I427,10,Congestive heart failure
+I428,10,Congestive heart failure
+I429,10,Congestive heart failure
+I43,10,Congestive heart failure
+I50,10,Congestive heart failure
+I501,10,Congestive heart failure
+I502,10,Congestive heart failure
+I5020,10,Congestive heart failure
+I5021,10,Congestive heart failure
+I5022,10,Congestive heart failure
+I5023,10,Congestive heart failure
+I503,10,Congestive heart failure
+I5030,10,Congestive heart failure
+I5031,10,Congestive heart failure
+I5032,10,Congestive heart failure
+I5033,10,Congestive heart failure
+I504,10,Congestive heart failure
+I5040,10,Congestive heart failure
+I5041,10,Congestive heart failure
+I5042,10,Congestive heart failure
+I5043,10,Congestive heart failure
+I508,10,Congestive heart failure
+I5081,10,Congestive heart failure
+I50810,10,Congestive heart failure
+I50811,10,Congestive heart failure
+I50812,10,Congestive heart failure
+I50813,10,Congestive heart failure
+I50814,10,Congestive heart failure
+I5082,10,Congestive heart failure
+I5083,10,Congestive heart failure
+I5084,10,Congestive heart failure
+I5089,10,Congestive heart failure
+I509,10,Congestive heart failure
+P290,10,Congestive heart failure
+4260,9,Cardiac arrhythmias
+42613,9,Cardiac arrhythmias
+4267,9,Cardiac arrhythmias
+4269,9,Cardiac arrhythmias
+42610,9,Cardiac arrhythmias
+42612,9,Cardiac arrhythmias
+4270,9,Cardiac arrhythmias
+4271,9,Cardiac arrhythmias
+4272,9,Cardiac arrhythmias
+42731,9,Cardiac arrhythmias
+42732,9,Cardiac arrhythmias
+42741,9,Cardiac arrhythmias
+42742,9,Cardiac arrhythmias
+42760,9,Cardiac arrhythmias
+42761,9,Cardiac arrhythmias
+42769,9,Cardiac arrhythmias
+42781,9,Cardiac arrhythmias
+42789,9,Cardiac arrhythmias
+4279,9,Cardiac arrhythmias
+7850,9,Cardiac arrhythmias
+99601,9,Cardiac arrhythmias
+99604,9,Cardiac arrhythmias
+V450,9,Cardiac arrhythmias
+V533,9,Cardiac arrhythmias
+I441,10,Cardiac arrhythmias
+I442,10,Cardiac arrhythmias
+I443,10,Cardiac arrhythmias
+I4430,10,Cardiac arrhythmias
+I4439,10,Cardiac arrhythmias
+I456,10,Cardiac arrhythmias
+I459,10,Cardiac arrhythmias
+I47,10,Cardiac arrhythmias
+I470,10,Cardiac arrhythmias
+I471,10,Cardiac arrhythmias
+I472,10,Cardiac arrhythmias
+I479,10,Cardiac arrhythmias
+I48,10,Cardiac arrhythmias
+I480,10,Cardiac arrhythmias
+I481,10,Cardiac arrhythmias
+I4811,10,Cardiac arrhythmias
+I4819,10,Cardiac arrhythmias
+I482,10,Cardiac arrhythmias
+I4820,10,Cardiac arrhythmias
+I4821,10,Cardiac arrhythmias
+I483,10,Cardiac arrhythmias
+I484,10,Cardiac arrhythmias
+I489,10,Cardiac arrhythmias
+I4891,10,Cardiac arrhythmias
+I4892,10,Cardiac arrhythmias
+I49,10,Cardiac arrhythmias
+I490,10,Cardiac arrhythmias
+I4901,10,Cardiac arrhythmias
+I4902,10,Cardiac arrhythmias
+I491,10,Cardiac arrhythmias
+I492,10,Cardiac arrhythmias
+I493,10,Cardiac arrhythmias
+I494,10,Cardiac arrhythmias
+I4940,10,Cardiac arrhythmias
+I4949,10,Cardiac arrhythmias
+I495,10,Cardiac arrhythmias
+I498,10,Cardiac arrhythmias
+I499,10,Cardiac arrhythmias
+R000,10,Cardiac arrhythmias
+R001,10,Cardiac arrhythmias
+R008,10,Cardiac arrhythmias
+T821,10,Cardiac arrhythmias
+T8211,10,Cardiac arrhythmias
+T82110,10,Cardiac arrhythmias
+T82110A,10,Cardiac arrhythmias
+T82110D,10,Cardiac arrhythmias
+T82110S,10,Cardiac arrhythmias
+T82111,10,Cardiac arrhythmias
+T82111A,10,Cardiac arrhythmias
+T82111D,10,Cardiac arrhythmias
+T82111S,10,Cardiac arrhythmias
+T82118,10,Cardiac arrhythmias
+T82118A,10,Cardiac arrhythmias
+T82118D,10,Cardiac arrhythmias
+T82118S,10,Cardiac arrhythmias
+T82119,10,Cardiac arrhythmias
+T82119A,10,Cardiac arrhythmias
+T82119D,10,Cardiac arrhythmias
+T82119S,10,Cardiac arrhythmias
+T8212,10,Cardiac arrhythmias
+T82120,10,Cardiac arrhythmias
+T82120A,10,Cardiac arrhythmias
+T82120D,10,Cardiac arrhythmias
+T82120S,10,Cardiac arrhythmias
+T82121,10,Cardiac arrhythmias
+T82121A,10,Cardiac arrhythmias
+T82121D,10,Cardiac arrhythmias
+T82121S,10,Cardiac arrhythmias
+T82128,10,Cardiac arrhythmias
+T82128A,10,Cardiac arrhythmias
+T82128D,10,Cardiac arrhythmias
+T82128S,10,Cardiac arrhythmias
+T82129,10,Cardiac arrhythmias
+T82129A,10,Cardiac arrhythmias
+T82129D,10,Cardiac arrhythmias
+T82129S,10,Cardiac arrhythmias
+T8219,10,Cardiac arrhythmias
+T82190,10,Cardiac arrhythmias
+T82190A,10,Cardiac arrhythmias
+T82190D,10,Cardiac arrhythmias
+T82190S,10,Cardiac arrhythmias
+T82191,10,Cardiac arrhythmias
+T82191A,10,Cardiac arrhythmias
+T82191D,10,Cardiac arrhythmias
+T82191S,10,Cardiac arrhythmias
+T82198,10,Cardiac arrhythmias
+T82198A,10,Cardiac arrhythmias
+T82198D,10,Cardiac arrhythmias
+T82198S,10,Cardiac arrhythmias
+T82199,10,Cardiac arrhythmias
+T82199A,10,Cardiac arrhythmias
+T82199D,10,Cardiac arrhythmias
+T82199S,10,Cardiac arrhythmias
+Z450,10,Cardiac arrhythmias
+Z4501,10,Cardiac arrhythmias
+Z45010,10,Cardiac arrhythmias
+Z45018,10,Cardiac arrhythmias
+Z4502,10,Cardiac arrhythmias
+Z950,10,Cardiac arrhythmias
+09320,9,Valvular disease
+09321,9,Valvular disease
+09322,9,Valvular disease
+09323,9,Valvular disease
+09324,9,Valvular disease
+3940,9,Valvular disease
+3941,9,Valvular disease
+3942,9,Valvular disease
+3949,9,Valvular disease
+3950,9,Valvular disease
+3951,9,Valvular disease
+3952,9,Valvular disease
+3959,9,Valvular disease
+3960,9,Valvular disease
+3961,9,Valvular disease
+3962,9,Valvular disease
+3963,9,Valvular disease
+3968,9,Valvular disease
+3969,9,Valvular disease
+3970,9,Valvular disease
+3971,9,Valvular disease
+3979,9,Valvular disease
+4240,9,Valvular disease
+4241,9,Valvular disease
+4242,9,Valvular disease
+4243,9,Valvular disease
+42490,9,Valvular disease
+42491,9,Valvular disease
+42499,9,Valvular disease
+7463,9,Valvular disease
+7464,9,Valvular disease
+7465,9,Valvular disease
+7466,9,Valvular disease
+V422,9,Valvular disease
+V433,9,Valvular disease
+A520,10,Valvular disease
+A5200,10,Valvular disease
+A5201,10,Valvular disease
+A5202,10,Valvular disease
+A5203,10,Valvular disease
+A5204,10,Valvular disease
+A5205,10,Valvular disease
+A5206,10,Valvular disease
+A5209,10,Valvular disease
+I05,10,Valvular disease
+I050,10,Valvular disease
+I051,10,Valvular disease
+I052,10,Valvular disease
+I058,10,Valvular disease
+I059,10,Valvular disease
+I06,10,Valvular disease
+I060,10,Valvular disease
+I061,10,Valvular disease
+I062,10,Valvular disease
+I068,10,Valvular disease
+I069,10,Valvular disease
+I07,10,Valvular disease
+I070,10,Valvular disease
+I071,10,Valvular disease
+I072,10,Valvular disease
+I078,10,Valvular disease
+I079,10,Valvular disease
+I08,10,Valvular disease
+I080,10,Valvular disease
+I081,10,Valvular disease
+I082,10,Valvular disease
+I083,10,Valvular disease
+I088,10,Valvular disease
+I089,10,Valvular disease
+I091,10,Valvular disease
+I098,10,Valvular disease
+I0981,10,Valvular disease
+I0989,10,Valvular disease
+I34,10,Valvular disease
+I340,10,Valvular disease
+I341,10,Valvular disease
+I342,10,Valvular disease
+I348,10,Valvular disease
+I349,10,Valvular disease
+I35,10,Valvular disease
+I350,10,Valvular disease
+I351,10,Valvular disease
+I352,10,Valvular disease
+I358,10,Valvular disease
+I359,10,Valvular disease
+I36,10,Valvular disease
+I360,10,Valvular disease
+I361,10,Valvular disease
+I362,10,Valvular disease
+I368,10,Valvular disease
+I369,10,Valvular disease
+I37,10,Valvular disease
+I370,10,Valvular disease
+I371,10,Valvular disease
+I372,10,Valvular disease
+I378,10,Valvular disease
+I379,10,Valvular disease
+I38,10,Valvular disease
+I39,10,Valvular disease
+Q23,10,Valvular disease
+Q230,10,Valvular disease
+Q231,10,Valvular disease
+Q232,10,Valvular disease
+Q233,10,Valvular disease
+Z952,10,Valvular disease
+Z953,10,Valvular disease
+Z954,10,Valvular disease
+4150,9,Pulmonary circulation disorders
+41511,9,Pulmonary circulation disorders
+41512,9,Pulmonary circulation disorders
+41513,9,Pulmonary circulation disorders
+41519,9,Pulmonary circulation disorders
+4160,9,Pulmonary circulation disorders
+4161,9,Pulmonary circulation disorders
+4162,9,Pulmonary circulation disorders
+4168,9,Pulmonary circulation disorders
+4169,9,Pulmonary circulation disorders
+4170,9,Pulmonary circulation disorders
+4178,9,Pulmonary circulation disorders
+4179,9,Pulmonary circulation disorders
+I26,10,Pulmonary circulation disorders
+I260,10,Pulmonary circulation disorders
+I2601,10,Pulmonary circulation disorders
+I2602,10,Pulmonary circulation disorders
+I2609,10,Pulmonary circulation disorders
+I269,10,Pulmonary circulation disorders
+I2690,10,Pulmonary circulation disorders
+I2692,10,Pulmonary circulation disorders
+I2693,10,Pulmonary circulation disorders
+I2694,10,Pulmonary circulation disorders
+I2699,10,Pulmonary circulation disorders
+I27,10,Pulmonary circulation disorders
+I270,10,Pulmonary circulation disorders
+I271,10,Pulmonary circulation disorders
+I272,10,Pulmonary circulation disorders
+I2720,10,Pulmonary circulation disorders
+I2721,10,Pulmonary circulation disorders
+I2722,10,Pulmonary circulation disorders
+I2723,10,Pulmonary circulation disorders
+I2724,10,Pulmonary circulation disorders
+I2729,10,Pulmonary circulation disorders
+I278,10,Pulmonary circulation disorders
+I2781,10,Pulmonary circulation disorders
+I2782,10,Pulmonary circulation disorders
+I2783,10,Pulmonary circulation disorders
+I2789,10,Pulmonary circulation disorders
+I279,10,Pulmonary circulation disorders
+I280,10,Pulmonary circulation disorders
+I288,10,Pulmonary circulation disorders
+I289,10,Pulmonary circulation disorders
+0930,9,Peripheral vascular disorders
+4373,9,Peripheral vascular disorders
+4400,9,Peripheral vascular disorders
+4401,9,Peripheral vascular disorders
+44020,9,Peripheral vascular disorders
+44021,9,Peripheral vascular disorders
+44022,9,Peripheral vascular disorders
+44023,9,Peripheral vascular disorders
+44024,9,Peripheral vascular disorders
+44029,9,Peripheral vascular disorders
+44030,9,Peripheral vascular disorders
+44031,9,Peripheral vascular disorders
+44032,9,Peripheral vascular disorders
+4404,9,Peripheral vascular disorders
+4408,9,Peripheral vascular disorders
+4409,9,Peripheral vascular disorders
+44100,9,Peripheral vascular disorders
+44101,9,Peripheral vascular disorders
+44102,9,Peripheral vascular disorders
+44103,9,Peripheral vascular disorders
+4411,9,Peripheral vascular disorders
+4412,9,Peripheral vascular disorders
+4413,9,Peripheral vascular disorders
+4414,9,Peripheral vascular disorders
+4415,9,Peripheral vascular disorders
+4416,9,Peripheral vascular disorders
+4417,9,Peripheral vascular disorders
+4419,9,Peripheral vascular disorders
+4431,9,Peripheral vascular disorders
+44321,9,Peripheral vascular disorders
+44322,9,Peripheral vascular disorders
+44323,9,Peripheral vascular disorders
+44324,9,Peripheral vascular disorders
+44329,9,Peripheral vascular disorders
+44381,9,Peripheral vascular disorders
+44382,9,Peripheral vascular disorders
+44389,9,Peripheral vascular disorders
+4439,9,Peripheral vascular disorders
+4471,9,Peripheral vascular disorders
+5571,9,Peripheral vascular disorders
+5579,9,Peripheral vascular disorders
+V434,9,Peripheral vascular disorders
+I70,10,Peripheral vascular disorders
+I700,10,Peripheral vascular disorders
+I701,10,Peripheral vascular disorders
+I702,10,Peripheral vascular disorders
+I7020,10,Peripheral vascular disorders
+I70201,10,Peripheral vascular disorders
+I70202,10,Peripheral vascular disorders
+I70203,10,Peripheral vascular disorders
+I70208,10,Peripheral vascular disorders
+I70209,10,Peripheral vascular disorders
+I7021,10,Peripheral vascular disorders
+I70211,10,Peripheral vascular disorders
+I70212,10,Peripheral vascular disorders
+I70213,10,Peripheral vascular disorders
+I70218,10,Peripheral vascular disorders
+I70219,10,Peripheral vascular disorders
+I7022,10,Peripheral vascular disorders
+I70221,10,Peripheral vascular disorders
+I70222,10,Peripheral vascular disorders
+I70223,10,Peripheral vascular disorders
+I70228,10,Peripheral vascular disorders
+I70229,10,Peripheral vascular disorders
+I7023,10,Peripheral vascular disorders
+I70231,10,Peripheral vascular disorders
+I70232,10,Peripheral vascular disorders
+I70233,10,Peripheral vascular disorders
+I70234,10,Peripheral vascular disorders
+I70235,10,Peripheral vascular disorders
+I70238,10,Peripheral vascular disorders
+I70239,10,Peripheral vascular disorders
+I7024,10,Peripheral vascular disorders
+I70241,10,Peripheral vascular disorders
+I70242,10,Peripheral vascular disorders
+I70243,10,Peripheral vascular disorders
+I70244,10,Peripheral vascular disorders
+I70245,10,Peripheral vascular disorders
+I70248,10,Peripheral vascular disorders
+I70249,10,Peripheral vascular disorders
+I7025,10,Peripheral vascular disorders
+I7026,10,Peripheral vascular disorders
+I70261,10,Peripheral vascular disorders
+I70262,10,Peripheral vascular disorders
+I70263,10,Peripheral vascular disorders
+I70268,10,Peripheral vascular disorders
+I70269,10,Peripheral vascular disorders
+I7029,10,Peripheral vascular disorders
+I70291,10,Peripheral vascular disorders
+I70292,10,Peripheral vascular disorders
+I70293,10,Peripheral vascular disorders
+I70298,10,Peripheral vascular disorders
+I70299,10,Peripheral vascular disorders
+I703,10,Peripheral vascular disorders
+I7030,10,Peripheral vascular disorders
+I70301,10,Peripheral vascular disorders
+I70302,10,Peripheral vascular disorders
+I70303,10,Peripheral vascular disorders
+I70308,10,Peripheral vascular disorders
+I70309,10,Peripheral vascular disorders
+I7031,10,Peripheral vascular disorders
+I70311,10,Peripheral vascular disorders
+I70312,10,Peripheral vascular disorders
+I70313,10,Peripheral vascular disorders
+I70318,10,Peripheral vascular disorders
+I70319,10,Peripheral vascular disorders
+I7032,10,Peripheral vascular disorders
+I70321,10,Peripheral vascular disorders
+I70322,10,Peripheral vascular disorders
+I70323,10,Peripheral vascular disorders
+I70328,10,Peripheral vascular disorders
+I70329,10,Peripheral vascular disorders
+I7033,10,Peripheral vascular disorders
+I70331,10,Peripheral vascular disorders
+I70332,10,Peripheral vascular disorders
+I70333,10,Peripheral vascular disorders
+I70334,10,Peripheral vascular disorders
+I70335,10,Peripheral vascular disorders
+I70338,10,Peripheral vascular disorders
+I70339,10,Peripheral vascular disorders
+I7034,10,Peripheral vascular disorders
+I740,10,Peripheral vascular disorders
+I70341,10,Peripheral vascular disorders
+I70342,10,Peripheral vascular disorders
+I70343,10,Peripheral vascular disorders
+I70344,10,Peripheral vascular disorders
+I70345,10,Peripheral vascular disorders
+I70348,10,Peripheral vascular disorders
+I70349,10,Peripheral vascular disorders
+I7035,10,Peripheral vascular disorders
+I7036,10,Peripheral vascular disorders
+I70361,10,Peripheral vascular disorders
+I70362,10,Peripheral vascular disorders
+I70363,10,Peripheral vascular disorders
+I70368,10,Peripheral vascular disorders
+I70369,10,Peripheral vascular disorders
+I7039,10,Peripheral vascular disorders
+I70391,10,Peripheral vascular disorders
+I70392,10,Peripheral vascular disorders
+I70393,10,Peripheral vascular disorders
+I70398,10,Peripheral vascular disorders
+I70399,10,Peripheral vascular disorders
+I704,10,Peripheral vascular disorders
+I7040,10,Peripheral vascular disorders
+I70401,10,Peripheral vascular disorders
+I70402,10,Peripheral vascular disorders
+I70403,10,Peripheral vascular disorders
+I70408,10,Peripheral vascular disorders
+I70409,10,Peripheral vascular disorders
+I7041,10,Peripheral vascular disorders
+I70411,10,Peripheral vascular disorders
+I70412,10,Peripheral vascular disorders
+I70413,10,Peripheral vascular disorders
+I70418,10,Peripheral vascular disorders
+I70419,10,Peripheral vascular disorders
+I7042,10,Peripheral vascular disorders
+I70421,10,Peripheral vascular disorders
+I70422,10,Peripheral vascular disorders
+I70423,10,Peripheral vascular disorders
+I70428,10,Peripheral vascular disorders
+I70429,10,Peripheral vascular disorders
+I7043,10,Peripheral vascular disorders
+I70431,10,Peripheral vascular disorders
+I70432,10,Peripheral vascular disorders
+I70433,10,Peripheral vascular disorders
+I70434,10,Peripheral vascular disorders
+I70435,10,Peripheral vascular disorders
+I70438,10,Peripheral vascular disorders
+I70439,10,Peripheral vascular disorders
+I7044,10,Peripheral vascular disorders
+I70441,10,Peripheral vascular disorders
+I70442,10,Peripheral vascular disorders
+I70443,10,Peripheral vascular disorders
+I70444,10,Peripheral vascular disorders
+I70445,10,Peripheral vascular disorders
+I70448,10,Peripheral vascular disorders
+I70449,10,Peripheral vascular disorders
+I7045,10,Peripheral vascular disorders
+I7046,10,Peripheral vascular disorders
+I70461,10,Peripheral vascular disorders
+I70462,10,Peripheral vascular disorders
+I70463,10,Peripheral vascular disorders
+I70468,10,Peripheral vascular disorders
+I70469,10,Peripheral vascular disorders
+I7049,10,Peripheral vascular disorders
+I70491,10,Peripheral vascular disorders
+I70492,10,Peripheral vascular disorders
+I70493,10,Peripheral vascular disorders
+I70498,10,Peripheral vascular disorders
+I70499,10,Peripheral vascular disorders
+I705,10,Peripheral vascular disorders
+I7050,10,Peripheral vascular disorders
+I70501,10,Peripheral vascular disorders
+I70502,10,Peripheral vascular disorders
+I70503,10,Peripheral vascular disorders
+I70508,10,Peripheral vascular disorders
+I70509,10,Peripheral vascular disorders
+I7051,10,Peripheral vascular disorders
+I70511,10,Peripheral vascular disorders
+I70512,10,Peripheral vascular disorders
+I70513,10,Peripheral vascular disorders
+I70518,10,Peripheral vascular disorders
+I70519,10,Peripheral vascular disorders
+I7052,10,Peripheral vascular disorders
+I70521,10,Peripheral vascular disorders
+I70522,10,Peripheral vascular disorders
+I70523,10,Peripheral vascular disorders
+I70528,10,Peripheral vascular disorders
+I70529,10,Peripheral vascular disorders
+I7053,10,Peripheral vascular disorders
+I70531,10,Peripheral vascular disorders
+I70532,10,Peripheral vascular disorders
+I70533,10,Peripheral vascular disorders
+I70534,10,Peripheral vascular disorders
+I70535,10,Peripheral vascular disorders
+I70538,10,Peripheral vascular disorders
+I70539,10,Peripheral vascular disorders
+I7054,10,Peripheral vascular disorders
+I70541,10,Peripheral vascular disorders
+I70542,10,Peripheral vascular disorders
+I70543,10,Peripheral vascular disorders
+I70544,10,Peripheral vascular disorders
+I70545,10,Peripheral vascular disorders
+I70548,10,Peripheral vascular disorders
+I70549,10,Peripheral vascular disorders
+I7055,10,Peripheral vascular disorders
+I7056,10,Peripheral vascular disorders
+I70561,10,Peripheral vascular disorders
+I70562,10,Peripheral vascular disorders
+I70563,10,Peripheral vascular disorders
+I70568,10,Peripheral vascular disorders
+I70569,10,Peripheral vascular disorders
+I7059,10,Peripheral vascular disorders
+I70591,10,Peripheral vascular disorders
+I70592,10,Peripheral vascular disorders
+I70593,10,Peripheral vascular disorders
+I70598,10,Peripheral vascular disorders
+I70599,10,Peripheral vascular disorders
+I706,10,Peripheral vascular disorders
+I7060,10,Peripheral vascular disorders
+I70601,10,Peripheral vascular disorders
+I70602,10,Peripheral vascular disorders
+I70603,10,Peripheral vascular disorders
+I70608,10,Peripheral vascular disorders
+I70609,10,Peripheral vascular disorders
+I7061,10,Peripheral vascular disorders
+I70611,10,Peripheral vascular disorders
+I70612,10,Peripheral vascular disorders
+I70613,10,Peripheral vascular disorders
+I70618,10,Peripheral vascular disorders
+I70619,10,Peripheral vascular disorders
+I7062,10,Peripheral vascular disorders
+I70621,10,Peripheral vascular disorders
+I70622,10,Peripheral vascular disorders
+I70623,10,Peripheral vascular disorders
+I70628,10,Peripheral vascular disorders
+I70629,10,Peripheral vascular disorders
+I7063,10,Peripheral vascular disorders
+I70631,10,Peripheral vascular disorders
+I70632,10,Peripheral vascular disorders
+I70633,10,Peripheral vascular disorders
+I70634,10,Peripheral vascular disorders
+I70635,10,Peripheral vascular disorders
+I70638,10,Peripheral vascular disorders
+I70639,10,Peripheral vascular disorders
+I7064,10,Peripheral vascular disorders
+I70641,10,Peripheral vascular disorders
+I70642,10,Peripheral vascular disorders
+I70643,10,Peripheral vascular disorders
+I70644,10,Peripheral vascular disorders
+I70645,10,Peripheral vascular disorders
+I70648,10,Peripheral vascular disorders
+I70649,10,Peripheral vascular disorders
+I7065,10,Peripheral vascular disorders
+I7066,10,Peripheral vascular disorders
+I70661,10,Peripheral vascular disorders
+I70662,10,Peripheral vascular disorders
+I70663,10,Peripheral vascular disorders
+I70668,10,Peripheral vascular disorders
+I70669,10,Peripheral vascular disorders
+I7069,10,Peripheral vascular disorders
+I70691,10,Peripheral vascular disorders
+I70692,10,Peripheral vascular disorders
+I70693,10,Peripheral vascular disorders
+I70698,10,Peripheral vascular disorders
+I70699,10,Peripheral vascular disorders
+I707,10,Peripheral vascular disorders
+I7070,10,Peripheral vascular disorders
+I70701,10,Peripheral vascular disorders
+I70702,10,Peripheral vascular disorders
+I70703,10,Peripheral vascular disorders
+I70708,10,Peripheral vascular disorders
+I70709,10,Peripheral vascular disorders
+I7071,10,Peripheral vascular disorders
+I70711,10,Peripheral vascular disorders
+I739,10,Peripheral vascular disorders
+I70712,10,Peripheral vascular disorders
+I70713,10,Peripheral vascular disorders
+I70718,10,Peripheral vascular disorders
+I70719,10,Peripheral vascular disorders
+I7072,10,Peripheral vascular disorders
+I70721,10,Peripheral vascular disorders
+I70722,10,Peripheral vascular disorders
+I70723,10,Peripheral vascular disorders
+I70728,10,Peripheral vascular disorders
+I70729,10,Peripheral vascular disorders
+I7073,10,Peripheral vascular disorders
+I70731,10,Peripheral vascular disorders
+I70732,10,Peripheral vascular disorders
+I70733,10,Peripheral vascular disorders
+I70734,10,Peripheral vascular disorders
+I70735,10,Peripheral vascular disorders
+I70738,10,Peripheral vascular disorders
+I70739,10,Peripheral vascular disorders
+I7074,10,Peripheral vascular disorders
+I70741,10,Peripheral vascular disorders
+I70742,10,Peripheral vascular disorders
+I70743,10,Peripheral vascular disorders
+I70744,10,Peripheral vascular disorders
+I70745,10,Peripheral vascular disorders
+I70748,10,Peripheral vascular disorders
+I70749,10,Peripheral vascular disorders
+I7075,10,Peripheral vascular disorders
+I7076,10,Peripheral vascular disorders
+I70761,10,Peripheral vascular disorders
+I70762,10,Peripheral vascular disorders
+I70763,10,Peripheral vascular disorders
+I70768,10,Peripheral vascular disorders
+I70769,10,Peripheral vascular disorders
+I7079,10,Peripheral vascular disorders
+I70791,10,Peripheral vascular disorders
+I70792,10,Peripheral vascular disorders
+I70793,10,Peripheral vascular disorders
+I70798,10,Peripheral vascular disorders
+I70799,10,Peripheral vascular disorders
+I708,10,Peripheral vascular disorders
+I709,10,Peripheral vascular disorders
+I7090,10,Peripheral vascular disorders
+I7091,10,Peripheral vascular disorders
+I7092,10,Peripheral vascular disorders
+I71,10,Peripheral vascular disorders
+I710,10,Peripheral vascular disorders
+I7100,10,Peripheral vascular disorders
+I7101,10,Peripheral vascular disorders
+I7102,10,Peripheral vascular disorders
+I7103,10,Peripheral vascular disorders
+I711,10,Peripheral vascular disorders
+I712,10,Peripheral vascular disorders
+I713,10,Peripheral vascular disorders
+I714,10,Peripheral vascular disorders
+I715,10,Peripheral vascular disorders
+I716,10,Peripheral vascular disorders
+I718,10,Peripheral vascular disorders
+I719,10,Peripheral vascular disorders
+I731,10,Peripheral vascular disorders
+I738,10,Peripheral vascular disorders
+I7381,10,Peripheral vascular disorders
+I7389,10,Peripheral vascular disorders
+I771,10,Peripheral vascular disorders
+I79,10,Peripheral vascular disorders
+I790,10,Peripheral vascular disorders
+I792,10,Peripheral vascular disorders
+K551,10,Peripheral vascular disorders
+K558,10,Peripheral vascular disorders
+K559,10,Peripheral vascular disorders
+Z958,10,Peripheral vascular disorders
+Z9581,10,Peripheral vascular disorders
+Z95810,10,Peripheral vascular disorders
+Z95811,10,Peripheral vascular disorders
+Z95812,10,Peripheral vascular disorders
+Z95818,10,Peripheral vascular disorders
+Z9582,10,Peripheral vascular disorders
+Z95820,10,Peripheral vascular disorders
+Z95828,10,Peripheral vascular disorders
+Z959,10,Peripheral vascular disorders
+4010,9,"Hypertension, uncomplicated"
+4011,9,"Hypertension, uncomplicated"
+4019,9,"Hypertension, uncomplicated"
+I10,10,"Hypertension, uncomplicated"
+40200,9,"Hypertension, complicated"
+40201,9,"Hypertension, complicated"
+40210,9,"Hypertension, complicated"
+40211,9,"Hypertension, complicated"
+40290,9,"Hypertension, complicated"
+40291,9,"Hypertension, complicated"
+40300,9,"Hypertension, complicated"
+40301,9,"Hypertension, complicated"
+40310,9,"Hypertension, complicated"
+40311,9,"Hypertension, complicated"
+40390,9,"Hypertension, complicated"
+40391,9,"Hypertension, complicated"
+40400,9,"Hypertension, complicated"
+40401,9,"Hypertension, complicated"
+40402,9,"Hypertension, complicated"
+40403,9,"Hypertension, complicated"
+40410,9,"Hypertension, complicated"
+40411,9,"Hypertension, complicated"
+40412,9,"Hypertension, complicated"
+40413,9,"Hypertension, complicated"
+40490,9,"Hypertension, complicated"
+40491,9,"Hypertension, complicated"
+40492,9,"Hypertension, complicated"
+40493,9,"Hypertension, complicated"
+40501,9,"Hypertension, complicated"
+40509,9,"Hypertension, complicated"
+40511,9,"Hypertension, complicated"
+40519,9,"Hypertension, complicated"
+40591,9,"Hypertension, complicated"
+40599,9,"Hypertension, complicated"
+I11,10,"Hypertension, complicated"
+I110,10,"Hypertension, complicated"
+I119,10,"Hypertension, complicated"
+I13,10,"Hypertension, complicated"
+I130,10,"Hypertension, complicated"
+I131,10,"Hypertension, complicated"
+I1310,10,"Hypertension, complicated"
+I1311,10,"Hypertension, complicated"
+I132,10,"Hypertension, complicated"
+I15,10,"Hypertension, complicated"
+I150,10,"Hypertension, complicated"
+I151,10,"Hypertension, complicated"
+I152,10,"Hypertension, complicated"
+I158,10,"Hypertension, complicated"
+I159,10,"Hypertension, complicated"
+3341,9,Paralysis
+34200,9,Paralysis
+34201,9,Paralysis
+34202,9,Paralysis
+34210,9,Paralysis
+34211,9,Paralysis
+34212,9,Paralysis
+34280,9,Paralysis
+34281,9,Paralysis
+34282,9,Paralysis
+34290,9,Paralysis
+34291,9,Paralysis
+34292,9,Paralysis
+3430,9,Paralysis
+3431,9,Paralysis
+3432,9,Paralysis
+3433,9,Paralysis
+3434,9,Paralysis
+3438,9,Paralysis
+3439,9,Paralysis
+34400,9,Paralysis
+34401,9,Paralysis
+34402,9,Paralysis
+34403,9,Paralysis
+34404,9,Paralysis
+34409,9,Paralysis
+3441,9,Paralysis
+3442,9,Paralysis
+34430,9,Paralysis
+34431,9,Paralysis
+34432,9,Paralysis
+34440,9,Paralysis
+34441,9,Paralysis
+34442,9,Paralysis
+3445,9,Paralysis
+34460,9,Paralysis
+34461,9,Paralysis
+3449,9,Paralysis
+G041,10,Paralysis
+G114,10,Paralysis
+G801,10,Paralysis
+G802,10,Paralysis
+G81,10,Paralysis
+G810,10,Paralysis
+G8100,10,Paralysis
+G8101,10,Paralysis
+G8102,10,Paralysis
+G8103,10,Paralysis
+G8104,10,Paralysis
+G811,10,Paralysis
+G8110,10,Paralysis
+G8111,10,Paralysis
+G8112,10,Paralysis
+G8113,10,Paralysis
+G8114,10,Paralysis
+G819,10,Paralysis
+G8190,10,Paralysis
+G8191,10,Paralysis
+G8192,10,Paralysis
+G8193,10,Paralysis
+G8194,10,Paralysis
+G82,10,Paralysis
+G822,10,Paralysis
+G8220,10,Paralysis
+G8221,10,Paralysis
+G8222,10,Paralysis
+G825,10,Paralysis
+G8250,10,Paralysis
+G8251,10,Paralysis
+G8252,10,Paralysis
+G8253,10,Paralysis
+G8254,10,Paralysis
+G831,10,Paralysis
+G83,10,Paralysis
+G830,10,Paralysis
+G8310,10,Paralysis
+G8311,10,Paralysis
+G8312,10,Paralysis
+G8313,10,Paralysis
+G8314,10,Paralysis
+G832,10,Paralysis
+G8320,10,Paralysis
+G8321,10,Paralysis
+G8322,10,Paralysis
+G8323,10,Paralysis
+G8324,10,Paralysis
+G833,10,Paralysis
+G8330,10,Paralysis
+G8331,10,Paralysis
+G8332,10,Paralysis
+G8333,10,Paralysis
+G8334,10,Paralysis
+G834,10,Paralysis
+G839,10,Paralysis
+3319,9,Other neurological disorders
+3320,9,Other neurological disorders
+3321,9,Other neurological disorders
+3334,9,Other neurological disorders
+3335,9,Other neurological disorders
+33392,9,Other neurological disorders
+3340,9,Other neurological disorders
+3341,9,Other neurological disorders
+3342,9,Other neurological disorders
+3343,9,Other neurological disorders
+3344,9,Other neurological disorders
+3348,9,Other neurological disorders
+3349,9,Other neurological disorders
+3350,9,Other neurological disorders
+33510,9,Other neurological disorders
+33511,9,Other neurological disorders
+33519,9,Other neurological disorders
+33520,9,Other neurological disorders
+33521,9,Other neurological disorders
+33522,9,Other neurological disorders
+33523,9,Other neurological disorders
+33524,9,Other neurological disorders
+33529,9,Other neurological disorders
+3358,9,Other neurological disorders
+3359,9,Other neurological disorders
+3362,9,Other neurological disorders
+340,9,Other neurological disorders
+3410,9,Other neurological disorders
+3411,9,Other neurological disorders
+34120,9,Other neurological disorders
+34121,9,Other neurological disorders
+34122,9,Other neurological disorders
+3418,9,Other neurological disorders
+3419,9,Other neurological disorders
+34500,9,Other neurological disorders
+34501,9,Other neurological disorders
+34510,9,Other neurological disorders
+34511,9,Other neurological disorders
+3452,9,Other neurological disorders
+3453,9,Other neurological disorders
+34540,9,Other neurological disorders
+34541,9,Other neurological disorders
+34550,9,Other neurological disorders
+34551,9,Other neurological disorders
+34560,9,Other neurological disorders
+34561,9,Other neurological disorders
+34570,9,Other neurological disorders
+34571,9,Other neurological disorders
+34580,9,Other neurological disorders
+34581,9,Other neurological disorders
+34590,9,Other neurological disorders
+34591,9,Other neurological disorders
+3481,9,Other neurological disorders
+34830,9,Other neurological disorders
+34831,9,Other neurological disorders
+34839,9,Other neurological disorders
+78031,9,Other neurological disorders
+78032,9,Other neurological disorders
+78033,9,Other neurological disorders
+78039,9,Other neurological disorders
+7843,9,Other neurological disorders
+G10,10,Other neurological disorders
+G11,10,Other neurological disorders
+G110,10,Other neurological disorders
+G111,10,Other neurological disorders
+G112,10,Other neurological disorders
+G113,10,Other neurological disorders
+G114,10,Other neurological disorders
+G118,10,Other neurological disorders
+G119,10,Other neurological disorders
+G12,10,Other neurological disorders
+G120,10,Other neurological disorders
+G121,10,Other neurological disorders
+G122,10,Other neurological disorders
+G1220,10,Other neurological disorders
+G1221,10,Other neurological disorders
+G1222,10,Other neurological disorders
+G1223,10,Other neurological disorders
+G1224,10,Other neurological disorders
+G1225,10,Other neurological disorders
+G1229,10,Other neurological disorders
+G128,10,Other neurological disorders
+G129,10,Other neurological disorders
+G13,10,Other neurological disorders
+G130,10,Other neurological disorders
+G131,10,Other neurological disorders
+G132,10,Other neurological disorders
+G138,10,Other neurological disorders
+G20,10,Other neurological disorders
+G21,10,Other neurological disorders
+G210,10,Other neurological disorders
+G211,10,Other neurological disorders
+G2111,10,Other neurological disorders
+G2119,10,Other neurological disorders
+G212,10,Other neurological disorders
+G213,10,Other neurological disorders
+G214,10,Other neurological disorders
+G218,10,Other neurological disorders
+G219,10,Other neurological disorders
+G254,10,Other neurological disorders
+G255,10,Other neurological disorders
+G312,10,Other neurological disorders
+G318,10,Other neurological disorders
+G3181,10,Other neurological disorders
+G3182,10,Other neurological disorders
+G3183,10,Other neurological disorders
+G3184,10,Other neurological disorders
+G3185,10,Other neurological disorders
+G3189,10,Other neurological disorders
+G319,10,Other neurological disorders
+G32,10,Other neurological disorders
+G320,10,Other neurological disorders
+G328,10,Other neurological disorders
+G3281,10,Other neurological disorders
+G3289,10,Other neurological disorders
+G35,10,Other neurological disorders
+G36,10,Other neurological disorders
+G360,10,Other neurological disorders
+G361,10,Other neurological disorders
+G368,10,Other neurological disorders
+G369,10,Other neurological disorders
+G37,10,Other neurological disorders
+G370,10,Other neurological disorders
+G371,10,Other neurological disorders
+G372,10,Other neurological disorders
+G373,10,Other neurological disorders
+G374,10,Other neurological disorders
+G375,10,Other neurological disorders
+G378,10,Other neurological disorders
+G379,10,Other neurological disorders
+G40,10,Other neurological disorders
+G400,10,Other neurological disorders
+G4000,10,Other neurological disorders
+G40001,10,Other neurological disorders
+G40009,10,Other neurological disorders
+G4001,10,Other neurological disorders
+G40011,10,Other neurological disorders
+G40019,10,Other neurological disorders
+G401,10,Other neurological disorders
+G4010,10,Other neurological disorders
+G40101,10,Other neurological disorders
+G40109,10,Other neurological disorders
+G4011,10,Other neurological disorders
+G40111,10,Other neurological disorders
+G40119,10,Other neurological disorders
+G402,10,Other neurological disorders
+G4020,10,Other neurological disorders
+G40201,10,Other neurological disorders
+G40209,10,Other neurological disorders
+G4021,10,Other neurological disorders
+G40211,10,Other neurological disorders
+G40219,10,Other neurological disorders
+G403,10,Other neurological disorders
+G4030,10,Other neurological disorders
+G40301,10,Other neurological disorders
+G40309,10,Other neurological disorders
+G4031,10,Other neurological disorders
+G40311,10,Other neurological disorders
+G40319,10,Other neurological disorders
+G404,10,Other neurological disorders
+G4040,10,Other neurological disorders
+G40401,10,Other neurological disorders
+G40409,10,Other neurological disorders
+G4041,10,Other neurological disorders
+G40411,10,Other neurological disorders
+G40419,10,Other neurological disorders
+G405,10,Other neurological disorders
+G4050,10,Other neurological disorders
+G40501,10,Other neurological disorders
+G40509,10,Other neurological disorders
+G408,10,Other neurological disorders
+G4080,10,Other neurological disorders
+G40801,10,Other neurological disorders
+G40802,10,Other neurological disorders
+G40803,10,Other neurological disorders
+G40804,10,Other neurological disorders
+G4081,10,Other neurological disorders
+G40811,10,Other neurological disorders
+G40812,10,Other neurological disorders
+G40813,10,Other neurological disorders
+G40814,10,Other neurological disorders
+G4082,10,Other neurological disorders
+G40821,10,Other neurological disorders
+G40822,10,Other neurological disorders
+G40823,10,Other neurological disorders
+G40824,10,Other neurological disorders
+G4089,10,Other neurological disorders
+G409,10,Other neurological disorders
+G4090,10,Other neurological disorders
+G40901,10,Other neurological disorders
+G40909,10,Other neurological disorders
+G4091,10,Other neurological disorders
+G40911,10,Other neurological disorders
+G40919,10,Other neurological disorders
+G40A,10,Other neurological disorders
+G40A0,10,Other neurological disorders
+G40A01,10,Other neurological disorders
+G40A09,10,Other neurological disorders
+G40A1,10,Other neurological disorders
+G40A11,10,Other neurological disorders
+G40A19,10,Other neurological disorders
+G40B,10,Other neurological disorders
+G40B0,10,Other neurological disorders
+G40B01,10,Other neurological disorders
+G40B09,10,Other neurological disorders
+G40B1,10,Other neurological disorders
+G40B11,10,Other neurological disorders
+G40B19,10,Other neurological disorders
+G931,10,Other neurological disorders
+G934,10,Other neurological disorders
+G9340,10,Other neurological disorders
+G9341,10,Other neurological disorders
+G9349,10,Other neurological disorders
+R470,10,Other neurological disorders
+R4701,10,Other neurological disorders
+R4702,10,Other neurological disorders
+R56,10,Other neurological disorders
+R560,10,Other neurological disorders
+R5600,10,Other neurological disorders
+R5601,10,Other neurological disorders
+R561,10,Other neurological disorders
+R569,10,Other neurological disorders
+4168,9,Chronic pulmonary disease
+4169,9,Chronic pulmonary disease
+490,9,Chronic pulmonary disease
+4910,9,Chronic pulmonary disease
+4911,9,Chronic pulmonary disease
+49120,9,Chronic pulmonary disease
+49121,9,Chronic pulmonary disease
+49122,9,Chronic pulmonary disease
+4918,9,Chronic pulmonary disease
+4919,9,Chronic pulmonary disease
+4920,9,Chronic pulmonary disease
+4928,9,Chronic pulmonary disease
+49300,9,Chronic pulmonary disease
+49301,9,Chronic pulmonary disease
+49302,9,Chronic pulmonary disease
+49310,9,Chronic pulmonary disease
+49311,9,Chronic pulmonary disease
+49312,9,Chronic pulmonary disease
+49320,9,Chronic pulmonary disease
+49321,9,Chronic pulmonary disease
+49322,9,Chronic pulmonary disease
+49381,9,Chronic pulmonary disease
+49382,9,Chronic pulmonary disease
+49390,9,Chronic pulmonary disease
+49391,9,Chronic pulmonary disease
+49392,9,Chronic pulmonary disease
+4940,9,Chronic pulmonary disease
+4941,9,Chronic pulmonary disease
+4950,9,Chronic pulmonary disease
+4951,9,Chronic pulmonary disease
+4952,9,Chronic pulmonary disease
+4953,9,Chronic pulmonary disease
+4954,9,Chronic pulmonary disease
+4955,9,Chronic pulmonary disease
+4956,9,Chronic pulmonary disease
+4957,9,Chronic pulmonary disease
+4958,9,Chronic pulmonary disease
+4959,9,Chronic pulmonary disease
+496,9,Chronic pulmonary disease
+500,9,Chronic pulmonary disease
+501,9,Chronic pulmonary disease
+502,9,Chronic pulmonary disease
+503,9,Chronic pulmonary disease
+504,9,Chronic pulmonary disease
+505,9,Chronic pulmonary disease
+5064,9,Chronic pulmonary disease
+5081,9,Chronic pulmonary disease
+5088,9,Chronic pulmonary disease
+I278,10,Chronic pulmonary disease
+I2781,10,Chronic pulmonary disease
+I2782,10,Chronic pulmonary disease
+I2783,10,Chronic pulmonary disease
+I2789,10,Chronic pulmonary disease
+I279,10,Chronic pulmonary disease
+J40,10,Chronic pulmonary disease
+J41,10,Chronic pulmonary disease
+J410,10,Chronic pulmonary disease
+J411,10,Chronic pulmonary disease
+J418,10,Chronic pulmonary disease
+J42,10,Chronic pulmonary disease
+J43,10,Chronic pulmonary disease
+J430,10,Chronic pulmonary disease
+J431,10,Chronic pulmonary disease
+J432,10,Chronic pulmonary disease
+J438,10,Chronic pulmonary disease
+J439,10,Chronic pulmonary disease
+J44,10,Chronic pulmonary disease
+J440,10,Chronic pulmonary disease
+J441,10,Chronic pulmonary disease
+J449,10,Chronic pulmonary disease
+J45,10,Chronic pulmonary disease
+J452,10,Chronic pulmonary disease
+J4520,10,Chronic pulmonary disease
+J4521,10,Chronic pulmonary disease
+J4522,10,Chronic pulmonary disease
+J453,10,Chronic pulmonary disease
+J4530,10,Chronic pulmonary disease
+J4531,10,Chronic pulmonary disease
+J4532,10,Chronic pulmonary disease
+J454,10,Chronic pulmonary disease
+J4540,10,Chronic pulmonary disease
+J4541,10,Chronic pulmonary disease
+J4542,10,Chronic pulmonary disease
+J455,10,Chronic pulmonary disease
+J4550,10,Chronic pulmonary disease
+J4551,10,Chronic pulmonary disease
+J4552,10,Chronic pulmonary disease
+J459,10,Chronic pulmonary disease
+J4590,10,Chronic pulmonary disease
+J45901,10,Chronic pulmonary disease
+J45902,10,Chronic pulmonary disease
+J45909,10,Chronic pulmonary disease
+J4599,10,Chronic pulmonary disease
+J45990,10,Chronic pulmonary disease
+J45991,10,Chronic pulmonary disease
+J45998,10,Chronic pulmonary disease
+J47,10,Chronic pulmonary disease
+J470,10,Chronic pulmonary disease
+J471,10,Chronic pulmonary disease
+J479,10,Chronic pulmonary disease
+J60,10,Chronic pulmonary disease
+J61,10,Chronic pulmonary disease
+J62,10,Chronic pulmonary disease
+J620,10,Chronic pulmonary disease
+J628,10,Chronic pulmonary disease
+J63,10,Chronic pulmonary disease
+J630,10,Chronic pulmonary disease
+J631,10,Chronic pulmonary disease
+J632,10,Chronic pulmonary disease
+J633,10,Chronic pulmonary disease
+J634,10,Chronic pulmonary disease
+J635,10,Chronic pulmonary disease
+J636,10,Chronic pulmonary disease
+J64,10,Chronic pulmonary disease
+J65,10,Chronic pulmonary disease
+J66,10,Chronic pulmonary disease
+J660,10,Chronic pulmonary disease
+J661,10,Chronic pulmonary disease
+J662,10,Chronic pulmonary disease
+J668,10,Chronic pulmonary disease
+J67,10,Chronic pulmonary disease
+J670,10,Chronic pulmonary disease
+J671,10,Chronic pulmonary disease
+J672,10,Chronic pulmonary disease
+J673,10,Chronic pulmonary disease
+J674,10,Chronic pulmonary disease
+J675,10,Chronic pulmonary disease
+J676,10,Chronic pulmonary disease
+J677,10,Chronic pulmonary disease
+J678,10,Chronic pulmonary disease
+J679,10,Chronic pulmonary disease
+J701,10,Chronic pulmonary disease
+J703,10,Chronic pulmonary disease
+25000,9,"Diabetes, uncomplicated"
+25001,9,"Diabetes, uncomplicated"
+25002,9,"Diabetes, uncomplicated"
+25003,9,"Diabetes, uncomplicated"
+25010,9,"Diabetes, uncomplicated"
+25011,9,"Diabetes, uncomplicated"
+25012,9,"Diabetes, uncomplicated"
+25013,9,"Diabetes, uncomplicated"
+25020,9,"Diabetes, uncomplicated"
+25021,9,"Diabetes, uncomplicated"
+25022,9,"Diabetes, uncomplicated"
+25023,9,"Diabetes, uncomplicated"
+25030,9,"Diabetes, uncomplicated"
+25031,9,"Diabetes, uncomplicated"
+25032,9,"Diabetes, uncomplicated"
+25033,9,"Diabetes, uncomplicated"
+E10,10,"Diabetes, uncomplicated"
+E101,10,"Diabetes, uncomplicated"
+E1010,10,"Diabetes, uncomplicated"
+E1011,10,"Diabetes, uncomplicated"
+E109,10,"Diabetes, uncomplicated"
+E11,10,"Diabetes, uncomplicated"
+E110,10,"Diabetes, uncomplicated"
+E1100,10,"Diabetes, uncomplicated"
+E1101,10,"Diabetes, uncomplicated"
+E111,10,"Diabetes, uncomplicated"
+E1110,10,"Diabetes, uncomplicated"
+E1111,10,"Diabetes, uncomplicated"
+E119,10,"Diabetes, uncomplicated"
+E120,10,"Diabetes, uncomplicated"
+E121,10,"Diabetes, uncomplicated"
+E129,10,"Diabetes, uncomplicated"
+E13,10,"Diabetes, uncomplicated"
+E130,10,"Diabetes, uncomplicated"
+E1300,10,"Diabetes, uncomplicated"
+E1301,10,"Diabetes, uncomplicated"
+E131,10,"Diabetes, uncomplicated"
+E1310,10,"Diabetes, uncomplicated"
+E1311,10,"Diabetes, uncomplicated"
+E139,10,"Diabetes, uncomplicated"
+E140,10,"Diabetes, uncomplicated"
+E141,10,"Diabetes, uncomplicated"
+E149,10,"Diabetes, uncomplicated"
+25040,9,"Diabetes, complicated"
+25041,9,"Diabetes, complicated"
+25042,9,"Diabetes, complicated"
+25043,9,"Diabetes, complicated"
+25050,9,"Diabetes, complicated"
+25051,9,"Diabetes, complicated"
+25052,9,"Diabetes, complicated"
+25053,9,"Diabetes, complicated"
+25060,9,"Diabetes, complicated"
+25061,9,"Diabetes, complicated"
+25062,9,"Diabetes, complicated"
+25063,9,"Diabetes, complicated"
+25070,9,"Diabetes, complicated"
+25071,9,"Diabetes, complicated"
+25072,9,"Diabetes, complicated"
+25073,9,"Diabetes, complicated"
+25080,9,"Diabetes, complicated"
+25081,9,"Diabetes, complicated"
+25082,9,"Diabetes, complicated"
+25083,9,"Diabetes, complicated"
+25090,9,"Diabetes, complicated"
+25091,9,"Diabetes, complicated"
+25092,9,"Diabetes, complicated"
+25093,9,"Diabetes, complicated"
+E102,10,"Diabetes, complicated"
+E1021,10,"Diabetes, complicated"
+E1029,10,"Diabetes, complicated"
+E103,10,"Diabetes, complicated"
+E1031,10,"Diabetes, complicated"
+E10311,10,"Diabetes, complicated"
+E10319,10,"Diabetes, complicated"
+E1032,10,"Diabetes, complicated"
+E10321,10,"Diabetes, complicated"
+E103211,10,"Diabetes, complicated"
+E103212,10,"Diabetes, complicated"
+E103213,10,"Diabetes, complicated"
+E103219,10,"Diabetes, complicated"
+E10329,10,"Diabetes, complicated"
+E103291,10,"Diabetes, complicated"
+E103292,10,"Diabetes, complicated"
+E103293,10,"Diabetes, complicated"
+E103299,10,"Diabetes, complicated"
+E1033,10,"Diabetes, complicated"
+E10331,10,"Diabetes, complicated"
+E103311,10,"Diabetes, complicated"
+E103312,10,"Diabetes, complicated"
+E103313,10,"Diabetes, complicated"
+E103319,10,"Diabetes, complicated"
+E10339,10,"Diabetes, complicated"
+E103391,10,"Diabetes, complicated"
+E103392,10,"Diabetes, complicated"
+E103393,10,"Diabetes, complicated"
+E103399,10,"Diabetes, complicated"
+E1034,10,"Diabetes, complicated"
+E10341,10,"Diabetes, complicated"
+E103411,10,"Diabetes, complicated"
+E103412,10,"Diabetes, complicated"
+E103413,10,"Diabetes, complicated"
+E103419,10,"Diabetes, complicated"
+E10349,10,"Diabetes, complicated"
+E103491,10,"Diabetes, complicated"
+E103492,10,"Diabetes, complicated"
+E103493,10,"Diabetes, complicated"
+E103499,10,"Diabetes, complicated"
+E1035,10,"Diabetes, complicated"
+E10351,10,"Diabetes, complicated"
+E103511,10,"Diabetes, complicated"
+E103512,10,"Diabetes, complicated"
+E103513,10,"Diabetes, complicated"
+E103519,10,"Diabetes, complicated"
+E10352,10,"Diabetes, complicated"
+E103521,10,"Diabetes, complicated"
+E103522,10,"Diabetes, complicated"
+E103523,10,"Diabetes, complicated"
+E103529,10,"Diabetes, complicated"
+E10353,10,"Diabetes, complicated"
+E103531,10,"Diabetes, complicated"
+E103532,10,"Diabetes, complicated"
+E103533,10,"Diabetes, complicated"
+E103539,10,"Diabetes, complicated"
+E10354,10,"Diabetes, complicated"
+E103541,10,"Diabetes, complicated"
+E103542,10,"Diabetes, complicated"
+E103543,10,"Diabetes, complicated"
+E103549,10,"Diabetes, complicated"
+E10355,10,"Diabetes, complicated"
+E103551,10,"Diabetes, complicated"
+E103552,10,"Diabetes, complicated"
+E103553,10,"Diabetes, complicated"
+E103559,10,"Diabetes, complicated"
+E10359,10,"Diabetes, complicated"
+E103591,10,"Diabetes, complicated"
+E103592,10,"Diabetes, complicated"
+E103593,10,"Diabetes, complicated"
+E103599,10,"Diabetes, complicated"
+E1036,10,"Diabetes, complicated"
+E1037,10,"Diabetes, complicated"
+E1037X1,10,"Diabetes, complicated"
+E1037X2,10,"Diabetes, complicated"
+E1037X3,10,"Diabetes, complicated"
+E1037X9,10,"Diabetes, complicated"
+E1039,10,"Diabetes, complicated"
+E104,10,"Diabetes, complicated"
+E1040,10,"Diabetes, complicated"
+E1041,10,"Diabetes, complicated"
+E1042,10,"Diabetes, complicated"
+E1043,10,"Diabetes, complicated"
+E1044,10,"Diabetes, complicated"
+E1049,10,"Diabetes, complicated"
+E105,10,"Diabetes, complicated"
+E1051,10,"Diabetes, complicated"
+E1052,10,"Diabetes, complicated"
+E1059,10,"Diabetes, complicated"
+E106,10,"Diabetes, complicated"
+E1061,10,"Diabetes, complicated"
+E10610,10,"Diabetes, complicated"
+E10618,10,"Diabetes, complicated"
+E1062,10,"Diabetes, complicated"
+E10620,10,"Diabetes, complicated"
+E10621,10,"Diabetes, complicated"
+E10622,10,"Diabetes, complicated"
+E10628,10,"Diabetes, complicated"
+E1063,10,"Diabetes, complicated"
+E10630,10,"Diabetes, complicated"
+E10638,10,"Diabetes, complicated"
+E1064,10,"Diabetes, complicated"
+E10641,10,"Diabetes, complicated"
+E10649,10,"Diabetes, complicated"
+E1065,10,"Diabetes, complicated"
+E1069,10,"Diabetes, complicated"
+E108,10,"Diabetes, complicated"
+E112,10,"Diabetes, complicated"
+E1121,10,"Diabetes, complicated"
+E1122,10,"Diabetes, complicated"
+E1129,10,"Diabetes, complicated"
+E113,10,"Diabetes, complicated"
+E1131,10,"Diabetes, complicated"
+E11311,10,"Diabetes, complicated"
+E11319,10,"Diabetes, complicated"
+E1132,10,"Diabetes, complicated"
+E11321,10,"Diabetes, complicated"
+E113211,10,"Diabetes, complicated"
+E113212,10,"Diabetes, complicated"
+E113213,10,"Diabetes, complicated"
+E113219,10,"Diabetes, complicated"
+E11329,10,"Diabetes, complicated"
+E113291,10,"Diabetes, complicated"
+E113292,10,"Diabetes, complicated"
+E113293,10,"Diabetes, complicated"
+E113299,10,"Diabetes, complicated"
+E1133,10,"Diabetes, complicated"
+E11331,10,"Diabetes, complicated"
+E113311,10,"Diabetes, complicated"
+E113312,10,"Diabetes, complicated"
+E113313,10,"Diabetes, complicated"
+E113319,10,"Diabetes, complicated"
+E11339,10,"Diabetes, complicated"
+E113391,10,"Diabetes, complicated"
+E113392,10,"Diabetes, complicated"
+E113393,10,"Diabetes, complicated"
+E113399,10,"Diabetes, complicated"
+E1134,10,"Diabetes, complicated"
+E11341,10,"Diabetes, complicated"
+E113411,10,"Diabetes, complicated"
+E113412,10,"Diabetes, complicated"
+E113413,10,"Diabetes, complicated"
+E113419,10,"Diabetes, complicated"
+E11349,10,"Diabetes, complicated"
+E113491,10,"Diabetes, complicated"
+E113492,10,"Diabetes, complicated"
+E113493,10,"Diabetes, complicated"
+E113499,10,"Diabetes, complicated"
+E1135,10,"Diabetes, complicated"
+E11351,10,"Diabetes, complicated"
+E113511,10,"Diabetes, complicated"
+E113512,10,"Diabetes, complicated"
+E113513,10,"Diabetes, complicated"
+E113519,10,"Diabetes, complicated"
+E11352,10,"Diabetes, complicated"
+E113521,10,"Diabetes, complicated"
+E113522,10,"Diabetes, complicated"
+E113523,10,"Diabetes, complicated"
+E113529,10,"Diabetes, complicated"
+E11353,10,"Diabetes, complicated"
+E113531,10,"Diabetes, complicated"
+E113532,10,"Diabetes, complicated"
+E113533,10,"Diabetes, complicated"
+E113539,10,"Diabetes, complicated"
+E11354,10,"Diabetes, complicated"
+E113541,10,"Diabetes, complicated"
+E113542,10,"Diabetes, complicated"
+E113543,10,"Diabetes, complicated"
+E113549,10,"Diabetes, complicated"
+E11355,10,"Diabetes, complicated"
+E113551,10,"Diabetes, complicated"
+E113552,10,"Diabetes, complicated"
+E113553,10,"Diabetes, complicated"
+E113559,10,"Diabetes, complicated"
+E11359,10,"Diabetes, complicated"
+E113591,10,"Diabetes, complicated"
+E113592,10,"Diabetes, complicated"
+E113593,10,"Diabetes, complicated"
+E113599,10,"Diabetes, complicated"
+E1136,10,"Diabetes, complicated"
+E1137,10,"Diabetes, complicated"
+E1137X1,10,"Diabetes, complicated"
+E1137X2,10,"Diabetes, complicated"
+E1137X3,10,"Diabetes, complicated"
+E1137X9,10,"Diabetes, complicated"
+E1139,10,"Diabetes, complicated"
+E114,10,"Diabetes, complicated"
+E1140,10,"Diabetes, complicated"
+E1141,10,"Diabetes, complicated"
+E1142,10,"Diabetes, complicated"
+E1143,10,"Diabetes, complicated"
+E1144,10,"Diabetes, complicated"
+E1149,10,"Diabetes, complicated"
+E115,10,"Diabetes, complicated"
+E1151,10,"Diabetes, complicated"
+E1152,10,"Diabetes, complicated"
+E1159,10,"Diabetes, complicated"
+E116,10,"Diabetes, complicated"
+E1161,10,"Diabetes, complicated"
+E11610,10,"Diabetes, complicated"
+E11618,10,"Diabetes, complicated"
+E1162,10,"Diabetes, complicated"
+E11620,10,"Diabetes, complicated"
+E11621,10,"Diabetes, complicated"
+E11622,10,"Diabetes, complicated"
+E11628,10,"Diabetes, complicated"
+E1163,10,"Diabetes, complicated"
+E11630,10,"Diabetes, complicated"
+E11638,10,"Diabetes, complicated"
+E1164,10,"Diabetes, complicated"
+E11641,10,"Diabetes, complicated"
+E11649,10,"Diabetes, complicated"
+E1165,10,"Diabetes, complicated"
+E1169,10,"Diabetes, complicated"
+E118,10,"Diabetes, complicated"
+E122,10,"Diabetes, complicated"
+E123,10,"Diabetes, complicated"
+E124,10,"Diabetes, complicated"
+E125,10,"Diabetes, complicated"
+E126,10,"Diabetes, complicated"
+E127,10,"Diabetes, complicated"
+E128,10,"Diabetes, complicated"
+E132,10,"Diabetes, complicated"
+E1321,10,"Diabetes, complicated"
+E1322,10,"Diabetes, complicated"
+E1329,10,"Diabetes, complicated"
+E133,10,"Diabetes, complicated"
+E1331,10,"Diabetes, complicated"
+E13311,10,"Diabetes, complicated"
+E13319,10,"Diabetes, complicated"
+E1332,10,"Diabetes, complicated"
+E13321,10,"Diabetes, complicated"
+E133211,10,"Diabetes, complicated"
+E133212,10,"Diabetes, complicated"
+E133213,10,"Diabetes, complicated"
+E133219,10,"Diabetes, complicated"
+E13329,10,"Diabetes, complicated"
+E133291,10,"Diabetes, complicated"
+E133292,10,"Diabetes, complicated"
+E133293,10,"Diabetes, complicated"
+E133299,10,"Diabetes, complicated"
+E1333,10,"Diabetes, complicated"
+E13331,10,"Diabetes, complicated"
+E133311,10,"Diabetes, complicated"
+E133312,10,"Diabetes, complicated"
+E133313,10,"Diabetes, complicated"
+E133319,10,"Diabetes, complicated"
+E13339,10,"Diabetes, complicated"
+E133391,10,"Diabetes, complicated"
+E133392,10,"Diabetes, complicated"
+E133393,10,"Diabetes, complicated"
+E133399,10,"Diabetes, complicated"
+E1334,10,"Diabetes, complicated"
+E13341,10,"Diabetes, complicated"
+E133411,10,"Diabetes, complicated"
+E133412,10,"Diabetes, complicated"
+E133413,10,"Diabetes, complicated"
+E133419,10,"Diabetes, complicated"
+E13349,10,"Diabetes, complicated"
+E133491,10,"Diabetes, complicated"
+E133492,10,"Diabetes, complicated"
+E133493,10,"Diabetes, complicated"
+E133499,10,"Diabetes, complicated"
+E1335,10,"Diabetes, complicated"
+E13351,10,"Diabetes, complicated"
+E133511,10,"Diabetes, complicated"
+E133512,10,"Diabetes, complicated"
+E133513,10,"Diabetes, complicated"
+E133519,10,"Diabetes, complicated"
+E13352,10,"Diabetes, complicated"
+E133521,10,"Diabetes, complicated"
+E133522,10,"Diabetes, complicated"
+E133523,10,"Diabetes, complicated"
+E133529,10,"Diabetes, complicated"
+E13353,10,"Diabetes, complicated"
+E133531,10,"Diabetes, complicated"
+E133532,10,"Diabetes, complicated"
+E133533,10,"Diabetes, complicated"
+E133539,10,"Diabetes, complicated"
+E13354,10,"Diabetes, complicated"
+E133541,10,"Diabetes, complicated"
+E133542,10,"Diabetes, complicated"
+E133543,10,"Diabetes, complicated"
+E133549,10,"Diabetes, complicated"
+E13355,10,"Diabetes, complicated"
+E133551,10,"Diabetes, complicated"
+E133552,10,"Diabetes, complicated"
+E133553,10,"Diabetes, complicated"
+E133559,10,"Diabetes, complicated"
+E13359,10,"Diabetes, complicated"
+E133591,10,"Diabetes, complicated"
+E133592,10,"Diabetes, complicated"
+E133593,10,"Diabetes, complicated"
+E133599,10,"Diabetes, complicated"
+E1336,10,"Diabetes, complicated"
+E1337,10,"Diabetes, complicated"
+E1337X1,10,"Diabetes, complicated"
+E1337X2,10,"Diabetes, complicated"
+E1337X3,10,"Diabetes, complicated"
+E1337X9,10,"Diabetes, complicated"
+E1339,10,"Diabetes, complicated"
+E134,10,"Diabetes, complicated"
+E1340,10,"Diabetes, complicated"
+E1341,10,"Diabetes, complicated"
+E1342,10,"Diabetes, complicated"
+E1343,10,"Diabetes, complicated"
+E1344,10,"Diabetes, complicated"
+E1349,10,"Diabetes, complicated"
+E135,10,"Diabetes, complicated"
+E1351,10,"Diabetes, complicated"
+E1352,10,"Diabetes, complicated"
+E1359,10,"Diabetes, complicated"
+E136,10,"Diabetes, complicated"
+E1361,10,"Diabetes, complicated"
+E13610,10,"Diabetes, complicated"
+E13618,10,"Diabetes, complicated"
+E1362,10,"Diabetes, complicated"
+E13620,10,"Diabetes, complicated"
+E13621,10,"Diabetes, complicated"
+E13622,10,"Diabetes, complicated"
+E13628,10,"Diabetes, complicated"
+E1363,10,"Diabetes, complicated"
+E13630,10,"Diabetes, complicated"
+E13638,10,"Diabetes, complicated"
+E1364,10,"Diabetes, complicated"
+E13641,10,"Diabetes, complicated"
+E13649,10,"Diabetes, complicated"
+E1365,10,"Diabetes, complicated"
+E1369,10,"Diabetes, complicated"
+E138,10,"Diabetes, complicated"
+E142,10,"Diabetes, complicated"
+E143,10,"Diabetes, complicated"
+E144,10,"Diabetes, complicated"
+E145,10,"Diabetes, complicated"
+E146,10,"Diabetes, complicated"
+E147,10,"Diabetes, complicated"
+E148,10,"Diabetes, complicated"
+2409,9,Hypothyroidism
+243,9,Hypothyroidism
+2440,9,Hypothyroidism
+2441,9,Hypothyroidism
+2442,9,Hypothyroidism
+2443,9,Hypothyroidism
+2448,9,Hypothyroidism
+2449,9,Hypothyroidism
+2461,9,Hypothyroidism
+2468,9,Hypothyroidism
+E00,10,Hypothyroidism
+E000,10,Hypothyroidism
+E001,10,Hypothyroidism
+E002,10,Hypothyroidism
+E009,10,Hypothyroidism
+E01,10,Hypothyroidism
+E010,10,Hypothyroidism
+E011,10,Hypothyroidism
+E012,10,Hypothyroidism
+E018,10,Hypothyroidism
+E02,10,Hypothyroidism
+E03,10,Hypothyroidism
+E030,10,Hypothyroidism
+E031,10,Hypothyroidism
+E032,10,Hypothyroidism
+E033,10,Hypothyroidism
+E034,10,Hypothyroidism
+E035,10,Hypothyroidism
+E038,10,Hypothyroidism
+E039,10,Hypothyroidism
+E890,10,Hypothyroidism
+40301,9,Renal failure
+40311,9,Renal failure
+40391,9,Renal failure
+40402,9,Renal failure
+40403,9,Renal failure
+40412,9,Renal failure
+40413,9,Renal failure
+40492,9,Renal failure
+40493,9,Renal failure
+5851,9,Renal failure
+5852,9,Renal failure
+5853,9,Renal failure
+5854,9,Renal failure
+5855,9,Renal failure
+5856,9,Renal failure
+5859,9,Renal failure
+586,9,Renal failure
+5880,9,Renal failure
+V420,9,Renal failure
+V451,9,Renal failure
+V4511,9,Renal failure
+V4512,9,Renal failure
+V560,9,Renal failure
+V561,9,Renal failure
+V562,9,Renal failure
+V5631,9,Renal failure
+V5632,9,Renal failure
+V568,9,Renal failure
+I120,10,Renal failure
+I131,10,Renal failure
+I1310,10,Renal failure
+I1311,10,Renal failure
+N18,10,Renal failure
+N181,10,Renal failure
+N182,10,Renal failure
+N183,10,Renal failure
+N184,10,Renal failure
+N185,10,Renal failure
+N186,10,Renal failure
+N189,10,Renal failure
+N19,10,Renal failure
+N250,10,Renal failure
+Z490,10,Renal failure
+Z4901,10,Renal failure
+Z4902,10,Renal failure
+Z940,10,Renal failure
+Z992,10,Renal failure
+07022,9,Liver disease
+07023,9,Liver disease
+07032,9,Liver disease
+07033,9,Liver disease
+07044,9,Liver disease
+07054,9,Liver disease
+0706,9,Liver disease
+0709,9,Liver disease
+4560,9,Liver disease
+4561,9,Liver disease
+45620,9,Liver disease
+45621,9,Liver disease
+570,9,Liver disease
+5710,9,Liver disease
+5711,9,Liver disease
+5712,9,Liver disease
+5713,9,Liver disease
+57140,9,Liver disease
+57141,9,Liver disease
+57142,9,Liver disease
+57149,9,Liver disease
+5715,9,Liver disease
+5716,9,Liver disease
+5718,9,Liver disease
+5719,9,Liver disease
+5722,9,Liver disease
+5723,9,Liver disease
+5724,9,Liver disease
+5728,9,Liver disease
+5733,9,Liver disease
+5734,9,Liver disease
+5738,9,Liver disease
+5739,9,Liver disease
+V427,9,Liver disease
+B18,10,Liver disease
+B180,10,Liver disease
+B181,10,Liver disease
+B182,10,Liver disease
+B188,10,Liver disease
+B189,10,Liver disease
+I85,10,Liver disease
+I850,10,Liver disease
+I8500,10,Liver disease
+I8501,10,Liver disease
+I851,10,Liver disease
+I8510,10,Liver disease
+I8511,10,Liver disease
+I864,10,Liver disease
+I982,10,Liver disease
+K704,10,Liver disease
+K7040,10,Liver disease
+K7041,10,Liver disease
+K70,10,Liver disease
+K700,10,Liver disease
+K701,10,Liver disease
+K7010,10,Liver disease
+K7011,10,Liver disease
+K702,10,Liver disease
+K703,10,Liver disease
+K7030,10,Liver disease
+K7031,10,Liver disease
+K709,10,Liver disease
+K711,10,Liver disease
+K7110,10,Liver disease
+K7111,10,Liver disease
+K713,10,Liver disease
+K714,10,Liver disease
+K715,10,Liver disease
+K7150,10,Liver disease
+K7151,10,Liver disease
+K717,10,Liver disease
+K72,10,Liver disease
+K720,10,Liver disease
+K7200,10,Liver disease
+K7201,10,Liver disease
+K721,10,Liver disease
+K7210,10,Liver disease
+K7211,10,Liver disease
+K729,10,Liver disease
+K7290,10,Liver disease
+K7291,10,Liver disease
+K73,10,Liver disease
+K730,10,Liver disease
+K731,10,Liver disease
+K732,10,Liver disease
+K738,10,Liver disease
+K739,10,Liver disease
+K74,10,Liver disease
+K740,10,Liver disease
+K741,10,Liver disease
+K742,10,Liver disease
+K743,10,Liver disease
+K744,10,Liver disease
+K745,10,Liver disease
+K746,10,Liver disease
+K7460,10,Liver disease
+K7469,10,Liver disease
+K760,10,Liver disease
+K762,10,Liver disease
+K763,10,Liver disease
+K764,10,Liver disease
+K765,10,Liver disease
+K766,10,Liver disease
+K767,10,Liver disease
+K768,10,Liver disease
+K7681,10,Liver disease
+K7689,10,Liver disease
+K769,10,Liver disease
+Z944,10,Liver disease
+53170,9,"Peptic ulcer disease, excluding bleeding"
+53171,9,"Peptic ulcer disease, excluding bleeding"
+53190,9,"Peptic ulcer disease, excluding bleeding"
+53191,9,"Peptic ulcer disease, excluding bleeding"
+53270,9,"Peptic ulcer disease, excluding bleeding"
+53271,9,"Peptic ulcer disease, excluding bleeding"
+53290,9,"Peptic ulcer disease, excluding bleeding"
+53291,9,"Peptic ulcer disease, excluding bleeding"
+53370,9,"Peptic ulcer disease, excluding bleeding"
+53371,9,"Peptic ulcer disease, excluding bleeding"
+53390,9,"Peptic ulcer disease, excluding bleeding"
+53391,9,"Peptic ulcer disease, excluding bleeding"
+53470,9,"Peptic ulcer disease, excluding bleeding"
+53471,9,"Peptic ulcer disease, excluding bleeding"
+53490,9,"Peptic ulcer disease, excluding bleeding"
+53491,9,"Peptic ulcer disease, excluding bleeding"
+K257,10,"Peptic ulcer disease, excluding bleeding"
+K259,10,"Peptic ulcer disease, excluding bleeding"
+K267,10,"Peptic ulcer disease, excluding bleeding"
+K269,10,"Peptic ulcer disease, excluding bleeding"
+K277,10,"Peptic ulcer disease, excluding bleeding"
+K279,10,"Peptic ulcer disease, excluding bleeding"
+K287,10,"Peptic ulcer disease, excluding bleeding"
+K289,10,"Peptic ulcer disease, excluding bleeding"
+042,9,AIDS/HIV
+B20,10,AIDS/HIV
+20237,9,Lymphoma
+20000,9,Lymphoma
+20001,9,Lymphoma
+20002,9,Lymphoma
+20003,9,Lymphoma
+20004,9,Lymphoma
+20005,9,Lymphoma
+20006,9,Lymphoma
+20007,9,Lymphoma
+20008,9,Lymphoma
+20010,9,Lymphoma
+20011,9,Lymphoma
+20012,9,Lymphoma
+20013,9,Lymphoma
+20014,9,Lymphoma
+20015,9,Lymphoma
+20016,9,Lymphoma
+20017,9,Lymphoma
+20018,9,Lymphoma
+20020,9,Lymphoma
+20021,9,Lymphoma
+20022,9,Lymphoma
+20023,9,Lymphoma
+20024,9,Lymphoma
+20025,9,Lymphoma
+20026,9,Lymphoma
+20027,9,Lymphoma
+20028,9,Lymphoma
+20030,9,Lymphoma
+20031,9,Lymphoma
+20032,9,Lymphoma
+20033,9,Lymphoma
+20034,9,Lymphoma
+20035,9,Lymphoma
+20036,9,Lymphoma
+20037,9,Lymphoma
+20038,9,Lymphoma
+20040,9,Lymphoma
+20041,9,Lymphoma
+20042,9,Lymphoma
+20043,9,Lymphoma
+20044,9,Lymphoma
+20045,9,Lymphoma
+20046,9,Lymphoma
+20047,9,Lymphoma
+20048,9,Lymphoma
+20050,9,Lymphoma
+20051,9,Lymphoma
+20052,9,Lymphoma
+20053,9,Lymphoma
+20054,9,Lymphoma
+20055,9,Lymphoma
+20056,9,Lymphoma
+20057,9,Lymphoma
+20058,9,Lymphoma
+20060,9,Lymphoma
+20061,9,Lymphoma
+20062,9,Lymphoma
+20063,9,Lymphoma
+20064,9,Lymphoma
+20065,9,Lymphoma
+20066,9,Lymphoma
+20067,9,Lymphoma
+20068,9,Lymphoma
+20070,9,Lymphoma
+20071,9,Lymphoma
+20072,9,Lymphoma
+20073,9,Lymphoma
+20074,9,Lymphoma
+20075,9,Lymphoma
+20076,9,Lymphoma
+20077,9,Lymphoma
+20078,9,Lymphoma
+20080,9,Lymphoma
+20081,9,Lymphoma
+20082,9,Lymphoma
+20083,9,Lymphoma
+20084,9,Lymphoma
+20085,9,Lymphoma
+20086,9,Lymphoma
+20087,9,Lymphoma
+20088,9,Lymphoma
+20100,9,Lymphoma
+20101,9,Lymphoma
+20102,9,Lymphoma
+20103,9,Lymphoma
+20104,9,Lymphoma
+20105,9,Lymphoma
+20106,9,Lymphoma
+20107,9,Lymphoma
+20108,9,Lymphoma
+20110,9,Lymphoma
+20111,9,Lymphoma
+20112,9,Lymphoma
+20113,9,Lymphoma
+20114,9,Lymphoma
+20115,9,Lymphoma
+20116,9,Lymphoma
+20117,9,Lymphoma
+20118,9,Lymphoma
+20120,9,Lymphoma
+20121,9,Lymphoma
+20122,9,Lymphoma
+20123,9,Lymphoma
+20124,9,Lymphoma
+20125,9,Lymphoma
+20126,9,Lymphoma
+20127,9,Lymphoma
+20128,9,Lymphoma
+20236,9,Lymphoma
+20140,9,Lymphoma
+20141,9,Lymphoma
+20142,9,Lymphoma
+20143,9,Lymphoma
+20144,9,Lymphoma
+20145,9,Lymphoma
+20146,9,Lymphoma
+20147,9,Lymphoma
+20148,9,Lymphoma
+20150,9,Lymphoma
+20151,9,Lymphoma
+20152,9,Lymphoma
+20153,9,Lymphoma
+20154,9,Lymphoma
+20155,9,Lymphoma
+20156,9,Lymphoma
+20157,9,Lymphoma
+20158,9,Lymphoma
+20160,9,Lymphoma
+20161,9,Lymphoma
+20162,9,Lymphoma
+20163,9,Lymphoma
+20164,9,Lymphoma
+20165,9,Lymphoma
+20166,9,Lymphoma
+20167,9,Lymphoma
+20168,9,Lymphoma
+20170,9,Lymphoma
+20171,9,Lymphoma
+20172,9,Lymphoma
+20173,9,Lymphoma
+20174,9,Lymphoma
+20175,9,Lymphoma
+20176,9,Lymphoma
+20177,9,Lymphoma
+20178,9,Lymphoma
+20190,9,Lymphoma
+20191,9,Lymphoma
+20192,9,Lymphoma
+20193,9,Lymphoma
+20194,9,Lymphoma
+20195,9,Lymphoma
+20196,9,Lymphoma
+20197,9,Lymphoma
+20198,9,Lymphoma
+20200,9,Lymphoma
+20201,9,Lymphoma
+20202,9,Lymphoma
+20203,9,Lymphoma
+20204,9,Lymphoma
+20205,9,Lymphoma
+20206,9,Lymphoma
+20207,9,Lymphoma
+20208,9,Lymphoma
+20210,9,Lymphoma
+20211,9,Lymphoma
+20212,9,Lymphoma
+20213,9,Lymphoma
+20214,9,Lymphoma
+20215,9,Lymphoma
+20216,9,Lymphoma
+20217,9,Lymphoma
+20218,9,Lymphoma
+20220,9,Lymphoma
+20221,9,Lymphoma
+20222,9,Lymphoma
+20223,9,Lymphoma
+20224,9,Lymphoma
+20225,9,Lymphoma
+20226,9,Lymphoma
+20227,9,Lymphoma
+20228,9,Lymphoma
+20230,9,Lymphoma
+20231,9,Lymphoma
+20232,9,Lymphoma
+20233,9,Lymphoma
+20234,9,Lymphoma
+20235,9,Lymphoma
+20238,9,Lymphoma
+20240,9,Lymphoma
+20241,9,Lymphoma
+20242,9,Lymphoma
+20243,9,Lymphoma
+20244,9,Lymphoma
+20245,9,Lymphoma
+20246,9,Lymphoma
+20247,9,Lymphoma
+20248,9,Lymphoma
+20250,9,Lymphoma
+20251,9,Lymphoma
+20252,9,Lymphoma
+20253,9,Lymphoma
+20254,9,Lymphoma
+20255,9,Lymphoma
+20256,9,Lymphoma
+20257,9,Lymphoma
+20258,9,Lymphoma
+20260,9,Lymphoma
+20261,9,Lymphoma
+20262,9,Lymphoma
+20263,9,Lymphoma
+20264,9,Lymphoma
+20265,9,Lymphoma
+20266,9,Lymphoma
+20267,9,Lymphoma
+20268,9,Lymphoma
+20270,9,Lymphoma
+20271,9,Lymphoma
+20272,9,Lymphoma
+20273,9,Lymphoma
+20274,9,Lymphoma
+20275,9,Lymphoma
+20276,9,Lymphoma
+20277,9,Lymphoma
+20278,9,Lymphoma
+20280,9,Lymphoma
+20281,9,Lymphoma
+20282,9,Lymphoma
+20283,9,Lymphoma
+20284,9,Lymphoma
+20285,9,Lymphoma
+20286,9,Lymphoma
+20287,9,Lymphoma
+20288,9,Lymphoma
+20290,9,Lymphoma
+20291,9,Lymphoma
+20292,9,Lymphoma
+20293,9,Lymphoma
+20294,9,Lymphoma
+20295,9,Lymphoma
+20296,9,Lymphoma
+20297,9,Lymphoma
+20298,9,Lymphoma
+20300,9,Lymphoma
+20301,9,Lymphoma
+20302,9,Lymphoma
+2386,9,Lymphoma
+C81,10,Lymphoma
+C810,10,Lymphoma
+C8100,10,Lymphoma
+C8101,10,Lymphoma
+C8102,10,Lymphoma
+C8103,10,Lymphoma
+C8104,10,Lymphoma
+C8105,10,Lymphoma
+C8106,10,Lymphoma
+C8107,10,Lymphoma
+C8108,10,Lymphoma
+C8109,10,Lymphoma
+C811,10,Lymphoma
+C8110,10,Lymphoma
+C8111,10,Lymphoma
+C8112,10,Lymphoma
+C8113,10,Lymphoma
+C8114,10,Lymphoma
+C8115,10,Lymphoma
+C8116,10,Lymphoma
+C8117,10,Lymphoma
+C8118,10,Lymphoma
+C8119,10,Lymphoma
+C812,10,Lymphoma
+C8120,10,Lymphoma
+C8121,10,Lymphoma
+C8122,10,Lymphoma
+C8123,10,Lymphoma
+C8124,10,Lymphoma
+C8125,10,Lymphoma
+C8126,10,Lymphoma
+C8127,10,Lymphoma
+C8128,10,Lymphoma
+C8129,10,Lymphoma
+C813,10,Lymphoma
+C8130,10,Lymphoma
+C8131,10,Lymphoma
+C8132,10,Lymphoma
+C8133,10,Lymphoma
+C8134,10,Lymphoma
+C8135,10,Lymphoma
+C8136,10,Lymphoma
+C8137,10,Lymphoma
+C8138,10,Lymphoma
+C8139,10,Lymphoma
+C814,10,Lymphoma
+C8140,10,Lymphoma
+C8141,10,Lymphoma
+C8142,10,Lymphoma
+C8143,10,Lymphoma
+C8144,10,Lymphoma
+C8145,10,Lymphoma
+C8146,10,Lymphoma
+C8147,10,Lymphoma
+C8148,10,Lymphoma
+C8149,10,Lymphoma
+C817,10,Lymphoma
+C8170,10,Lymphoma
+C8171,10,Lymphoma
+C8172,10,Lymphoma
+C8173,10,Lymphoma
+C8174,10,Lymphoma
+C8175,10,Lymphoma
+C8176,10,Lymphoma
+C8177,10,Lymphoma
+C8178,10,Lymphoma
+C8179,10,Lymphoma
+C819,10,Lymphoma
+C8190,10,Lymphoma
+C8191,10,Lymphoma
+C8192,10,Lymphoma
+C8193,10,Lymphoma
+C8194,10,Lymphoma
+C8195,10,Lymphoma
+C8196,10,Lymphoma
+C8197,10,Lymphoma
+C8198,10,Lymphoma
+C8199,10,Lymphoma
+C82,10,Lymphoma
+C820,10,Lymphoma
+C8200,10,Lymphoma
+C8201,10,Lymphoma
+C8202,10,Lymphoma
+C8203,10,Lymphoma
+C8204,10,Lymphoma
+C8205,10,Lymphoma
+C8206,10,Lymphoma
+C8207,10,Lymphoma
+C8208,10,Lymphoma
+C8209,10,Lymphoma
+C821,10,Lymphoma
+C8210,10,Lymphoma
+C8211,10,Lymphoma
+C8212,10,Lymphoma
+C8213,10,Lymphoma
+C8214,10,Lymphoma
+C8215,10,Lymphoma
+C8216,10,Lymphoma
+C8217,10,Lymphoma
+C8218,10,Lymphoma
+C8219,10,Lymphoma
+C822,10,Lymphoma
+C8220,10,Lymphoma
+C8221,10,Lymphoma
+C8222,10,Lymphoma
+C8223,10,Lymphoma
+C8224,10,Lymphoma
+C8225,10,Lymphoma
+C8226,10,Lymphoma
+C8227,10,Lymphoma
+C8228,10,Lymphoma
+C8229,10,Lymphoma
+C823,10,Lymphoma
+C8230,10,Lymphoma
+C8231,10,Lymphoma
+C8232,10,Lymphoma
+C8233,10,Lymphoma
+C8234,10,Lymphoma
+C8235,10,Lymphoma
+C8236,10,Lymphoma
+C8237,10,Lymphoma
+C8238,10,Lymphoma
+C8239,10,Lymphoma
+C824,10,Lymphoma
+C8240,10,Lymphoma
+C8241,10,Lymphoma
+C8242,10,Lymphoma
+C8243,10,Lymphoma
+C8244,10,Lymphoma
+C8245,10,Lymphoma
+C8246,10,Lymphoma
+C8247,10,Lymphoma
+C8248,10,Lymphoma
+C8249,10,Lymphoma
+C825,10,Lymphoma
+C8250,10,Lymphoma
+C8251,10,Lymphoma
+C8252,10,Lymphoma
+C8253,10,Lymphoma
+C8254,10,Lymphoma
+C8255,10,Lymphoma
+C8256,10,Lymphoma
+C8257,10,Lymphoma
+C8258,10,Lymphoma
+C8259,10,Lymphoma
+C826,10,Lymphoma
+C8260,10,Lymphoma
+C8261,10,Lymphoma
+C8262,10,Lymphoma
+C8263,10,Lymphoma
+C8264,10,Lymphoma
+C8265,10,Lymphoma
+C8266,10,Lymphoma
+C8267,10,Lymphoma
+C8268,10,Lymphoma
+C8269,10,Lymphoma
+C828,10,Lymphoma
+C8280,10,Lymphoma
+C8281,10,Lymphoma
+C8282,10,Lymphoma
+C8283,10,Lymphoma
+C8284,10,Lymphoma
+C8285,10,Lymphoma
+C8286,10,Lymphoma
+C8287,10,Lymphoma
+C8288,10,Lymphoma
+C8289,10,Lymphoma
+C829,10,Lymphoma
+C8290,10,Lymphoma
+C8291,10,Lymphoma
+C8292,10,Lymphoma
+C8293,10,Lymphoma
+C8294,10,Lymphoma
+C8295,10,Lymphoma
+C8296,10,Lymphoma
+C8297,10,Lymphoma
+C8298,10,Lymphoma
+C8299,10,Lymphoma
+C83,10,Lymphoma
+C830,10,Lymphoma
+C8300,10,Lymphoma
+C8301,10,Lymphoma
+C8302,10,Lymphoma
+C8303,10,Lymphoma
+C8304,10,Lymphoma
+C8305,10,Lymphoma
+C8306,10,Lymphoma
+C8307,10,Lymphoma
+C8308,10,Lymphoma
+C8309,10,Lymphoma
+C831,10,Lymphoma
+C8310,10,Lymphoma
+C8311,10,Lymphoma
+C8312,10,Lymphoma
+C8313,10,Lymphoma
+C8314,10,Lymphoma
+C8315,10,Lymphoma
+C8316,10,Lymphoma
+C8317,10,Lymphoma
+C8318,10,Lymphoma
+C8319,10,Lymphoma
+C833,10,Lymphoma
+C8330,10,Lymphoma
+C8331,10,Lymphoma
+C8332,10,Lymphoma
+C8333,10,Lymphoma
+C8334,10,Lymphoma
+C8335,10,Lymphoma
+C8336,10,Lymphoma
+C8337,10,Lymphoma
+C8338,10,Lymphoma
+C8339,10,Lymphoma
+C835,10,Lymphoma
+C8350,10,Lymphoma
+C8351,10,Lymphoma
+C8352,10,Lymphoma
+C8353,10,Lymphoma
+C8354,10,Lymphoma
+C8355,10,Lymphoma
+C8356,10,Lymphoma
+C8357,10,Lymphoma
+C8358,10,Lymphoma
+C8359,10,Lymphoma
+C837,10,Lymphoma
+C8370,10,Lymphoma
+C8371,10,Lymphoma
+C8372,10,Lymphoma
+C8373,10,Lymphoma
+C8374,10,Lymphoma
+C8375,10,Lymphoma
+C8376,10,Lymphoma
+C8377,10,Lymphoma
+C8378,10,Lymphoma
+C8379,10,Lymphoma
+C838,10,Lymphoma
+C8380,10,Lymphoma
+C8381,10,Lymphoma
+C8382,10,Lymphoma
+C8383,10,Lymphoma
+C8384,10,Lymphoma
+C8385,10,Lymphoma
+C8386,10,Lymphoma
+C8387,10,Lymphoma
+C8388,10,Lymphoma
+C8389,10,Lymphoma
+C839,10,Lymphoma
+C8390,10,Lymphoma
+C8391,10,Lymphoma
+C8392,10,Lymphoma
+C8393,10,Lymphoma
+C8394,10,Lymphoma
+C8395,10,Lymphoma
+C8396,10,Lymphoma
+C8397,10,Lymphoma
+C8398,10,Lymphoma
+C8399,10,Lymphoma
+C84,10,Lymphoma
+C840,10,Lymphoma
+C8400,10,Lymphoma
+C8401,10,Lymphoma
+C8402,10,Lymphoma
+C8403,10,Lymphoma
+C8404,10,Lymphoma
+C8405,10,Lymphoma
+C8406,10,Lymphoma
+C8407,10,Lymphoma
+C8408,10,Lymphoma
+C8409,10,Lymphoma
+C841,10,Lymphoma
+C8410,10,Lymphoma
+C8411,10,Lymphoma
+C8412,10,Lymphoma
+C8413,10,Lymphoma
+C8414,10,Lymphoma
+C8415,10,Lymphoma
+C8416,10,Lymphoma
+C8417,10,Lymphoma
+C8418,10,Lymphoma
+C8419,10,Lymphoma
+C844,10,Lymphoma
+C8440,10,Lymphoma
+C8441,10,Lymphoma
+C8442,10,Lymphoma
+C8443,10,Lymphoma
+C8444,10,Lymphoma
+C8445,10,Lymphoma
+C8446,10,Lymphoma
+C8447,10,Lymphoma
+C8448,10,Lymphoma
+C8449,10,Lymphoma
+C846,10,Lymphoma
+C8460,10,Lymphoma
+C8461,10,Lymphoma
+C8462,10,Lymphoma
+C8463,10,Lymphoma
+C8464,10,Lymphoma
+C8465,10,Lymphoma
+C8466,10,Lymphoma
+C8467,10,Lymphoma
+C8468,10,Lymphoma
+C8469,10,Lymphoma
+C847,10,Lymphoma
+C8470,10,Lymphoma
+C8471,10,Lymphoma
+C8472,10,Lymphoma
+C8473,10,Lymphoma
+C8474,10,Lymphoma
+C8475,10,Lymphoma
+C8476,10,Lymphoma
+C8477,10,Lymphoma
+C8478,10,Lymphoma
+C8479,10,Lymphoma
+C849,10,Lymphoma
+C8490,10,Lymphoma
+C8491,10,Lymphoma
+C8492,10,Lymphoma
+C8493,10,Lymphoma
+C8494,10,Lymphoma
+C8495,10,Lymphoma
+C8496,10,Lymphoma
+C8497,10,Lymphoma
+C8498,10,Lymphoma
+C8499,10,Lymphoma
+C84A,10,Lymphoma
+C84A0,10,Lymphoma
+C84A1,10,Lymphoma
+C84A2,10,Lymphoma
+C84A3,10,Lymphoma
+C84A4,10,Lymphoma
+C84A5,10,Lymphoma
+C84A6,10,Lymphoma
+C84A7,10,Lymphoma
+C84A8,10,Lymphoma
+C84A9,10,Lymphoma
+C84Z,10,Lymphoma
+C84Z0,10,Lymphoma
+C84Z1,10,Lymphoma
+C84Z2,10,Lymphoma
+C84Z3,10,Lymphoma
+C84Z4,10,Lymphoma
+C84Z5,10,Lymphoma
+C84Z6,10,Lymphoma
+C84Z7,10,Lymphoma
+C84Z8,10,Lymphoma
+C84Z9,10,Lymphoma
+C85,10,Lymphoma
+C851,10,Lymphoma
+C8510,10,Lymphoma
+C8511,10,Lymphoma
+C8512,10,Lymphoma
+C8513,10,Lymphoma
+C8514,10,Lymphoma
+C8515,10,Lymphoma
+C8516,10,Lymphoma
+C8517,10,Lymphoma
+C8518,10,Lymphoma
+C8519,10,Lymphoma
+C852,10,Lymphoma
+C8520,10,Lymphoma
+C8521,10,Lymphoma
+C8522,10,Lymphoma
+C8523,10,Lymphoma
+C8524,10,Lymphoma
+C8525,10,Lymphoma
+C8526,10,Lymphoma
+C8527,10,Lymphoma
+C8528,10,Lymphoma
+C8529,10,Lymphoma
+C858,10,Lymphoma
+C8580,10,Lymphoma
+C8581,10,Lymphoma
+C8582,10,Lymphoma
+C8583,10,Lymphoma
+C8584,10,Lymphoma
+C8585,10,Lymphoma
+C8586,10,Lymphoma
+C8587,10,Lymphoma
+C8588,10,Lymphoma
+C8589,10,Lymphoma
+C859,10,Lymphoma
+C8590,10,Lymphoma
+C8591,10,Lymphoma
+C8592,10,Lymphoma
+C8593,10,Lymphoma
+C8594,10,Lymphoma
+C8595,10,Lymphoma
+C8596,10,Lymphoma
+C8597,10,Lymphoma
+C8598,10,Lymphoma
+C8599,10,Lymphoma
+C88,10,Lymphoma
+C880,10,Lymphoma
+C882,10,Lymphoma
+C883,10,Lymphoma
+C884,10,Lymphoma
+C888,10,Lymphoma
+C889,10,Lymphoma
+C96,10,Lymphoma
+C960,10,Lymphoma
+C962,10,Lymphoma
+C9620,10,Lymphoma
+C9621,10,Lymphoma
+C9622,10,Lymphoma
+C9629,10,Lymphoma
+C964,10,Lymphoma
+C965,10,Lymphoma
+C966,10,Lymphoma
+C969,10,Lymphoma
+C96A,10,Lymphoma
+C96Z,10,Lymphoma
+C900,10,Lymphoma
+C9000,10,Lymphoma
+C9001,10,Lymphoma
+C9002,10,Lymphoma
+C902,10,Lymphoma
+C9020,10,Lymphoma
+C9021,10,Lymphoma
+C9022,10,Lymphoma
+1960,9,Metastatic cancer
+1961,9,Metastatic cancer
+1962,9,Metastatic cancer
+1963,9,Metastatic cancer
+1965,9,Metastatic cancer
+1966,9,Metastatic cancer
+1968,9,Metastatic cancer
+1969,9,Metastatic cancer
+1970,9,Metastatic cancer
+1971,9,Metastatic cancer
+1972,9,Metastatic cancer
+1973,9,Metastatic cancer
+1974,9,Metastatic cancer
+1975,9,Metastatic cancer
+1976,9,Metastatic cancer
+1977,9,Metastatic cancer
+1978,9,Metastatic cancer
+1980,9,Metastatic cancer
+1981,9,Metastatic cancer
+1982,9,Metastatic cancer
+1983,9,Metastatic cancer
+1984,9,Metastatic cancer
+1985,9,Metastatic cancer
+1986,9,Metastatic cancer
+1987,9,Metastatic cancer
+19881,9,Metastatic cancer
+19882,9,Metastatic cancer
+19889,9,Metastatic cancer
+1990,9,Metastatic cancer
+1991,9,Metastatic cancer
+1992,9,Metastatic cancer
+C77,10,Metastatic cancer
+C770,10,Metastatic cancer
+C771,10,Metastatic cancer
+C772,10,Metastatic cancer
+C773,10,Metastatic cancer
+C774,10,Metastatic cancer
+C775,10,Metastatic cancer
+C778,10,Metastatic cancer
+C779,10,Metastatic cancer
+C78,10,Metastatic cancer
+C780,10,Metastatic cancer
+C7800,10,Metastatic cancer
+C7801,10,Metastatic cancer
+C7802,10,Metastatic cancer
+C781,10,Metastatic cancer
+C782,10,Metastatic cancer
+C783,10,Metastatic cancer
+C7830,10,Metastatic cancer
+C7839,10,Metastatic cancer
+C784,10,Metastatic cancer
+C785,10,Metastatic cancer
+C786,10,Metastatic cancer
+C787,10,Metastatic cancer
+C788,10,Metastatic cancer
+C7880,10,Metastatic cancer
+C7889,10,Metastatic cancer
+C79,10,Metastatic cancer
+C790,10,Metastatic cancer
+C7900,10,Metastatic cancer
+C7901,10,Metastatic cancer
+C7902,10,Metastatic cancer
+C791,10,Metastatic cancer
+C7910,10,Metastatic cancer
+C7911,10,Metastatic cancer
+C7919,10,Metastatic cancer
+C792,10,Metastatic cancer
+C793,10,Metastatic cancer
+C7931,10,Metastatic cancer
+C7932,10,Metastatic cancer
+C794,10,Metastatic cancer
+C7940,10,Metastatic cancer
+C7949,10,Metastatic cancer
+C795,10,Metastatic cancer
+C7951,10,Metastatic cancer
+C7952,10,Metastatic cancer
+C796,10,Metastatic cancer
+C7960,10,Metastatic cancer
+C7961,10,Metastatic cancer
+C7962,10,Metastatic cancer
+C797,10,Metastatic cancer
+C7970,10,Metastatic cancer
+C7971,10,Metastatic cancer
+C7972,10,Metastatic cancer
+C798,10,Metastatic cancer
+C7981,10,Metastatic cancer
+C7982,10,Metastatic cancer
+C7989,10,Metastatic cancer
+C799,10,Metastatic cancer
+C7A,10,Metastatic cancer
+C7A0,10,Metastatic cancer
+C7A00,10,Metastatic cancer
+C7A01,10,Metastatic cancer
+C7A010,10,Metastatic cancer
+C7A011,10,Metastatic cancer
+C7A012,10,Metastatic cancer
+C7A019,10,Metastatic cancer
+C7A02,10,Metastatic cancer
+C7A020,10,Metastatic cancer
+C7A021,10,Metastatic cancer
+C7A022,10,Metastatic cancer
+C7A023,10,Metastatic cancer
+C7A024,10,Metastatic cancer
+C7A025,10,Metastatic cancer
+C7A026,10,Metastatic cancer
+C7A029,10,Metastatic cancer
+C7A09,10,Metastatic cancer
+C7A090,10,Metastatic cancer
+C7A091,10,Metastatic cancer
+C7A092,10,Metastatic cancer
+C7A093,10,Metastatic cancer
+C7A094,10,Metastatic cancer
+C7A095,10,Metastatic cancer
+C7A096,10,Metastatic cancer
+C7A098,10,Metastatic cancer
+C7A1,10,Metastatic cancer
+C7A8,10,Metastatic cancer
+C7B,10,Metastatic cancer
+C7B0,10,Metastatic cancer
+C7B00,10,Metastatic cancer
+C7B01,10,Metastatic cancer
+C7B02,10,Metastatic cancer
+C7B03,10,Metastatic cancer
+C7B04,10,Metastatic cancer
+C7B09,10,Metastatic cancer
+C7B1,10,Metastatic cancer
+C7B8,10,Metastatic cancer
+C80,10,Metastatic cancer
+C800,10,Metastatic cancer
+C801,10,Metastatic cancer
+C802,10,Metastatic cancer
+1400,9,Solid tumour without metastasis
+1401,9,Solid tumour without metastasis
+1403,9,Solid tumour without metastasis
+1404,9,Solid tumour without metastasis
+1405,9,Solid tumour without metastasis
+1406,9,Solid tumour without metastasis
+1408,9,Solid tumour without metastasis
+1409,9,Solid tumour without metastasis
+1410,9,Solid tumour without metastasis
+1411,9,Solid tumour without metastasis
+1412,9,Solid tumour without metastasis
+1413,9,Solid tumour without metastasis
+1414,9,Solid tumour without metastasis
+1415,9,Solid tumour without metastasis
+1416,9,Solid tumour without metastasis
+1418,9,Solid tumour without metastasis
+1419,9,Solid tumour without metastasis
+1420,9,Solid tumour without metastasis
+1421,9,Solid tumour without metastasis
+1422,9,Solid tumour without metastasis
+1428,9,Solid tumour without metastasis
+1429,9,Solid tumour without metastasis
+1430,9,Solid tumour without metastasis
+1431,9,Solid tumour without metastasis
+1438,9,Solid tumour without metastasis
+1439,9,Solid tumour without metastasis
+1440,9,Solid tumour without metastasis
+1441,9,Solid tumour without metastasis
+1448,9,Solid tumour without metastasis
+1449,9,Solid tumour without metastasis
+1450,9,Solid tumour without metastasis
+1451,9,Solid tumour without metastasis
+1452,9,Solid tumour without metastasis
+1453,9,Solid tumour without metastasis
+1454,9,Solid tumour without metastasis
+1455,9,Solid tumour without metastasis
+1456,9,Solid tumour without metastasis
+1458,9,Solid tumour without metastasis
+1459,9,Solid tumour without metastasis
+1460,9,Solid tumour without metastasis
+1461,9,Solid tumour without metastasis
+1462,9,Solid tumour without metastasis
+1463,9,Solid tumour without metastasis
+1464,9,Solid tumour without metastasis
+1465,9,Solid tumour without metastasis
+1466,9,Solid tumour without metastasis
+1467,9,Solid tumour without metastasis
+1468,9,Solid tumour without metastasis
+1469,9,Solid tumour without metastasis
+1470,9,Solid tumour without metastasis
+1471,9,Solid tumour without metastasis
+1472,9,Solid tumour without metastasis
+1473,9,Solid tumour without metastasis
+1478,9,Solid tumour without metastasis
+1479,9,Solid tumour without metastasis
+1480,9,Solid tumour without metastasis
+1481,9,Solid tumour without metastasis
+1482,9,Solid tumour without metastasis
+1483,9,Solid tumour without metastasis
+1488,9,Solid tumour without metastasis
+1489,9,Solid tumour without metastasis
+1490,9,Solid tumour without metastasis
+1491,9,Solid tumour without metastasis
+1498,9,Solid tumour without metastasis
+1499,9,Solid tumour without metastasis
+1500,9,Solid tumour without metastasis
+1501,9,Solid tumour without metastasis
+1502,9,Solid tumour without metastasis
+1503,9,Solid tumour without metastasis
+1504,9,Solid tumour without metastasis
+1505,9,Solid tumour without metastasis
+1508,9,Solid tumour without metastasis
+1509,9,Solid tumour without metastasis
+1510,9,Solid tumour without metastasis
+1511,9,Solid tumour without metastasis
+1512,9,Solid tumour without metastasis
+1513,9,Solid tumour without metastasis
+1514,9,Solid tumour without metastasis
+1515,9,Solid tumour without metastasis
+1516,9,Solid tumour without metastasis
+1518,9,Solid tumour without metastasis
+1519,9,Solid tumour without metastasis
+1520,9,Solid tumour without metastasis
+1521,9,Solid tumour without metastasis
+1522,9,Solid tumour without metastasis
+1523,9,Solid tumour without metastasis
+1528,9,Solid tumour without metastasis
+1529,9,Solid tumour without metastasis
+1530,9,Solid tumour without metastasis
+1531,9,Solid tumour without metastasis
+1532,9,Solid tumour without metastasis
+1533,9,Solid tumour without metastasis
+1534,9,Solid tumour without metastasis
+1535,9,Solid tumour without metastasis
+1536,9,Solid tumour without metastasis
+1537,9,Solid tumour without metastasis
+1538,9,Solid tumour without metastasis
+1539,9,Solid tumour without metastasis
+1540,9,Solid tumour without metastasis
+1541,9,Solid tumour without metastasis
+1542,9,Solid tumour without metastasis
+1543,9,Solid tumour without metastasis
+1548,9,Solid tumour without metastasis
+1550,9,Solid tumour without metastasis
+1551,9,Solid tumour without metastasis
+1552,9,Solid tumour without metastasis
+1560,9,Solid tumour without metastasis
+1561,9,Solid tumour without metastasis
+1562,9,Solid tumour without metastasis
+1568,9,Solid tumour without metastasis
+1569,9,Solid tumour without metastasis
+1570,9,Solid tumour without metastasis
+1571,9,Solid tumour without metastasis
+1572,9,Solid tumour without metastasis
+1573,9,Solid tumour without metastasis
+1574,9,Solid tumour without metastasis
+1578,9,Solid tumour without metastasis
+1579,9,Solid tumour without metastasis
+1580,9,Solid tumour without metastasis
+1588,9,Solid tumour without metastasis
+1589,9,Solid tumour without metastasis
+1590,9,Solid tumour without metastasis
+1591,9,Solid tumour without metastasis
+1598,9,Solid tumour without metastasis
+1599,9,Solid tumour without metastasis
+1600,9,Solid tumour without metastasis
+1601,9,Solid tumour without metastasis
+1602,9,Solid tumour without metastasis
+1603,9,Solid tumour without metastasis
+1604,9,Solid tumour without metastasis
+1605,9,Solid tumour without metastasis
+1608,9,Solid tumour without metastasis
+1609,9,Solid tumour without metastasis
+1610,9,Solid tumour without metastasis
+1611,9,Solid tumour without metastasis
+1612,9,Solid tumour without metastasis
+1613,9,Solid tumour without metastasis
+1618,9,Solid tumour without metastasis
+1619,9,Solid tumour without metastasis
+1620,9,Solid tumour without metastasis
+1622,9,Solid tumour without metastasis
+1623,9,Solid tumour without metastasis
+1624,9,Solid tumour without metastasis
+1625,9,Solid tumour without metastasis
+1628,9,Solid tumour without metastasis
+1629,9,Solid tumour without metastasis
+1630,9,Solid tumour without metastasis
+1631,9,Solid tumour without metastasis
+1638,9,Solid tumour without metastasis
+1639,9,Solid tumour without metastasis
+1640,9,Solid tumour without metastasis
+1641,9,Solid tumour without metastasis
+1642,9,Solid tumour without metastasis
+1643,9,Solid tumour without metastasis
+1648,9,Solid tumour without metastasis
+1649,9,Solid tumour without metastasis
+1650,9,Solid tumour without metastasis
+1658,9,Solid tumour without metastasis
+1659,9,Solid tumour without metastasis
+1700,9,Solid tumour without metastasis
+1701,9,Solid tumour without metastasis
+1702,9,Solid tumour without metastasis
+1703,9,Solid tumour without metastasis
+1704,9,Solid tumour without metastasis
+1705,9,Solid tumour without metastasis
+1706,9,Solid tumour without metastasis
+1707,9,Solid tumour without metastasis
+1708,9,Solid tumour without metastasis
+1709,9,Solid tumour without metastasis
+1710,9,Solid tumour without metastasis
+1712,9,Solid tumour without metastasis
+1713,9,Solid tumour without metastasis
+1714,9,Solid tumour without metastasis
+1715,9,Solid tumour without metastasis
+1716,9,Solid tumour without metastasis
+1717,9,Solid tumour without metastasis
+1718,9,Solid tumour without metastasis
+1719,9,Solid tumour without metastasis
+1720,9,Solid tumour without metastasis
+1721,9,Solid tumour without metastasis
+1722,9,Solid tumour without metastasis
+1723,9,Solid tumour without metastasis
+1724,9,Solid tumour without metastasis
+1725,9,Solid tumour without metastasis
+1726,9,Solid tumour without metastasis
+1727,9,Solid tumour without metastasis
+1728,9,Solid tumour without metastasis
+1729,9,Solid tumour without metastasis
+1740,9,Solid tumour without metastasis
+1741,9,Solid tumour without metastasis
+1742,9,Solid tumour without metastasis
+1743,9,Solid tumour without metastasis
+1744,9,Solid tumour without metastasis
+1745,9,Solid tumour without metastasis
+1746,9,Solid tumour without metastasis
+1748,9,Solid tumour without metastasis
+1749,9,Solid tumour without metastasis
+1750,9,Solid tumour without metastasis
+1759,9,Solid tumour without metastasis
+1760,9,Solid tumour without metastasis
+1761,9,Solid tumour without metastasis
+1762,9,Solid tumour without metastasis
+1763,9,Solid tumour without metastasis
+1764,9,Solid tumour without metastasis
+1765,9,Solid tumour without metastasis
+1768,9,Solid tumour without metastasis
+1769,9,Solid tumour without metastasis
+179,9,Solid tumour without metastasis
+1800,9,Solid tumour without metastasis
+1801,9,Solid tumour without metastasis
+1808,9,Solid tumour without metastasis
+1809,9,Solid tumour without metastasis
+181,9,Solid tumour without metastasis
+1820,9,Solid tumour without metastasis
+1821,9,Solid tumour without metastasis
+1828,9,Solid tumour without metastasis
+1830,9,Solid tumour without metastasis
+1832,9,Solid tumour without metastasis
+1833,9,Solid tumour without metastasis
+1834,9,Solid tumour without metastasis
+1835,9,Solid tumour without metastasis
+1838,9,Solid tumour without metastasis
+1839,9,Solid tumour without metastasis
+1840,9,Solid tumour without metastasis
+1841,9,Solid tumour without metastasis
+1842,9,Solid tumour without metastasis
+1843,9,Solid tumour without metastasis
+1844,9,Solid tumour without metastasis
+1848,9,Solid tumour without metastasis
+1849,9,Solid tumour without metastasis
+185,9,Solid tumour without metastasis
+1860,9,Solid tumour without metastasis
+1869,9,Solid tumour without metastasis
+1871,9,Solid tumour without metastasis
+1872,9,Solid tumour without metastasis
+1873,9,Solid tumour without metastasis
+1874,9,Solid tumour without metastasis
+1875,9,Solid tumour without metastasis
+1876,9,Solid tumour without metastasis
+1877,9,Solid tumour without metastasis
+1878,9,Solid tumour without metastasis
+1879,9,Solid tumour without metastasis
+1880,9,Solid tumour without metastasis
+1881,9,Solid tumour without metastasis
+1882,9,Solid tumour without metastasis
+1883,9,Solid tumour without metastasis
+1884,9,Solid tumour without metastasis
+1885,9,Solid tumour without metastasis
+1886,9,Solid tumour without metastasis
+1887,9,Solid tumour without metastasis
+1888,9,Solid tumour without metastasis
+1889,9,Solid tumour without metastasis
+1890,9,Solid tumour without metastasis
+1891,9,Solid tumour without metastasis
+1892,9,Solid tumour without metastasis
+1893,9,Solid tumour without metastasis
+1894,9,Solid tumour without metastasis
+1898,9,Solid tumour without metastasis
+1899,9,Solid tumour without metastasis
+1900,9,Solid tumour without metastasis
+1901,9,Solid tumour without metastasis
+1902,9,Solid tumour without metastasis
+1903,9,Solid tumour without metastasis
+1904,9,Solid tumour without metastasis
+1905,9,Solid tumour without metastasis
+1906,9,Solid tumour without metastasis
+1907,9,Solid tumour without metastasis
+1908,9,Solid tumour without metastasis
+1909,9,Solid tumour without metastasis
+1910,9,Solid tumour without metastasis
+1911,9,Solid tumour without metastasis
+1912,9,Solid tumour without metastasis
+1913,9,Solid tumour without metastasis
+1914,9,Solid tumour without metastasis
+1915,9,Solid tumour without metastasis
+1916,9,Solid tumour without metastasis
+1917,9,Solid tumour without metastasis
+1918,9,Solid tumour without metastasis
+1919,9,Solid tumour without metastasis
+1920,9,Solid tumour without metastasis
+1921,9,Solid tumour without metastasis
+1922,9,Solid tumour without metastasis
+1923,9,Solid tumour without metastasis
+1928,9,Solid tumour without metastasis
+1929,9,Solid tumour without metastasis
+193,9,Solid tumour without metastasis
+1940,9,Solid tumour without metastasis
+1941,9,Solid tumour without metastasis
+1943,9,Solid tumour without metastasis
+1944,9,Solid tumour without metastasis
+1945,9,Solid tumour without metastasis
+1946,9,Solid tumour without metastasis
+1948,9,Solid tumour without metastasis
+1949,9,Solid tumour without metastasis
+1950,9,Solid tumour without metastasis
+1951,9,Solid tumour without metastasis
+1952,9,Solid tumour without metastasis
+1953,9,Solid tumour without metastasis
+1954,9,Solid tumour without metastasis
+1955,9,Solid tumour without metastasis
+1958,9,Solid tumour without metastasis
+C00,10,Solid tumour without metastasis
+C000,10,Solid tumour without metastasis
+C001,10,Solid tumour without metastasis
+C002,10,Solid tumour without metastasis
+C003,10,Solid tumour without metastasis
+C004,10,Solid tumour without metastasis
+C005,10,Solid tumour without metastasis
+C006,10,Solid tumour without metastasis
+C008,10,Solid tumour without metastasis
+C009,10,Solid tumour without metastasis
+C01,10,Solid tumour without metastasis
+C02,10,Solid tumour without metastasis
+C020,10,Solid tumour without metastasis
+C021,10,Solid tumour without metastasis
+C022,10,Solid tumour without metastasis
+C023,10,Solid tumour without metastasis
+C024,10,Solid tumour without metastasis
+C028,10,Solid tumour without metastasis
+C029,10,Solid tumour without metastasis
+C03,10,Solid tumour without metastasis
+C030,10,Solid tumour without metastasis
+C031,10,Solid tumour without metastasis
+C039,10,Solid tumour without metastasis
+C04,10,Solid tumour without metastasis
+C040,10,Solid tumour without metastasis
+C041,10,Solid tumour without metastasis
+C048,10,Solid tumour without metastasis
+C049,10,Solid tumour without metastasis
+C05,10,Solid tumour without metastasis
+C050,10,Solid tumour without metastasis
+C051,10,Solid tumour without metastasis
+C052,10,Solid tumour without metastasis
+C058,10,Solid tumour without metastasis
+C059,10,Solid tumour without metastasis
+C06,10,Solid tumour without metastasis
+C060,10,Solid tumour without metastasis
+C061,10,Solid tumour without metastasis
+C062,10,Solid tumour without metastasis
+C068,10,Solid tumour without metastasis
+C0680,10,Solid tumour without metastasis
+C0689,10,Solid tumour without metastasis
+C069,10,Solid tumour without metastasis
+C07,10,Solid tumour without metastasis
+C08,10,Solid tumour without metastasis
+C080,10,Solid tumour without metastasis
+C081,10,Solid tumour without metastasis
+C089,10,Solid tumour without metastasis
+C09,10,Solid tumour without metastasis
+C090,10,Solid tumour without metastasis
+C091,10,Solid tumour without metastasis
+C098,10,Solid tumour without metastasis
+C099,10,Solid tumour without metastasis
+C10,10,Solid tumour without metastasis
+C100,10,Solid tumour without metastasis
+C101,10,Solid tumour without metastasis
+C102,10,Solid tumour without metastasis
+C103,10,Solid tumour without metastasis
+C104,10,Solid tumour without metastasis
+C108,10,Solid tumour without metastasis
+C109,10,Solid tumour without metastasis
+C11,10,Solid tumour without metastasis
+C110,10,Solid tumour without metastasis
+C111,10,Solid tumour without metastasis
+C112,10,Solid tumour without metastasis
+C113,10,Solid tumour without metastasis
+C118,10,Solid tumour without metastasis
+C119,10,Solid tumour without metastasis
+C12,10,Solid tumour without metastasis
+C13,10,Solid tumour without metastasis
+C130,10,Solid tumour without metastasis
+C131,10,Solid tumour without metastasis
+C132,10,Solid tumour without metastasis
+C138,10,Solid tumour without metastasis
+C139,10,Solid tumour without metastasis
+C14,10,Solid tumour without metastasis
+C140,10,Solid tumour without metastasis
+C142,10,Solid tumour without metastasis
+C148,10,Solid tumour without metastasis
+C15,10,Solid tumour without metastasis
+C153,10,Solid tumour without metastasis
+C154,10,Solid tumour without metastasis
+C155,10,Solid tumour without metastasis
+C158,10,Solid tumour without metastasis
+C159,10,Solid tumour without metastasis
+C16,10,Solid tumour without metastasis
+C160,10,Solid tumour without metastasis
+C161,10,Solid tumour without metastasis
+C162,10,Solid tumour without metastasis
+C163,10,Solid tumour without metastasis
+C164,10,Solid tumour without metastasis
+C165,10,Solid tumour without metastasis
+C166,10,Solid tumour without metastasis
+C168,10,Solid tumour without metastasis
+C169,10,Solid tumour without metastasis
+C17,10,Solid tumour without metastasis
+C170,10,Solid tumour without metastasis
+C171,10,Solid tumour without metastasis
+C172,10,Solid tumour without metastasis
+C173,10,Solid tumour without metastasis
+C178,10,Solid tumour without metastasis
+C179,10,Solid tumour without metastasis
+C18,10,Solid tumour without metastasis
+C180,10,Solid tumour without metastasis
+C181,10,Solid tumour without metastasis
+C182,10,Solid tumour without metastasis
+C183,10,Solid tumour without metastasis
+C184,10,Solid tumour without metastasis
+C185,10,Solid tumour without metastasis
+C186,10,Solid tumour without metastasis
+C187,10,Solid tumour without metastasis
+C188,10,Solid tumour without metastasis
+C189,10,Solid tumour without metastasis
+C19,10,Solid tumour without metastasis
+C20,10,Solid tumour without metastasis
+C21,10,Solid tumour without metastasis
+C210,10,Solid tumour without metastasis
+C211,10,Solid tumour without metastasis
+C212,10,Solid tumour without metastasis
+C218,10,Solid tumour without metastasis
+C22,10,Solid tumour without metastasis
+C220,10,Solid tumour without metastasis
+C221,10,Solid tumour without metastasis
+C222,10,Solid tumour without metastasis
+C223,10,Solid tumour without metastasis
+C224,10,Solid tumour without metastasis
+C227,10,Solid tumour without metastasis
+C228,10,Solid tumour without metastasis
+C229,10,Solid tumour without metastasis
+C23,10,Solid tumour without metastasis
+C24,10,Solid tumour without metastasis
+C240,10,Solid tumour without metastasis
+C241,10,Solid tumour without metastasis
+C248,10,Solid tumour without metastasis
+C249,10,Solid tumour without metastasis
+C25,10,Solid tumour without metastasis
+C250,10,Solid tumour without metastasis
+C251,10,Solid tumour without metastasis
+C252,10,Solid tumour without metastasis
+C253,10,Solid tumour without metastasis
+C254,10,Solid tumour without metastasis
+C257,10,Solid tumour without metastasis
+C258,10,Solid tumour without metastasis
+C259,10,Solid tumour without metastasis
+C26,10,Solid tumour without metastasis
+C260,10,Solid tumour without metastasis
+C261,10,Solid tumour without metastasis
+C269,10,Solid tumour without metastasis
+C30,10,Solid tumour without metastasis
+C300,10,Solid tumour without metastasis
+C301,10,Solid tumour without metastasis
+C31,10,Solid tumour without metastasis
+C310,10,Solid tumour without metastasis
+C311,10,Solid tumour without metastasis
+C312,10,Solid tumour without metastasis
+C313,10,Solid tumour without metastasis
+C318,10,Solid tumour without metastasis
+C319,10,Solid tumour without metastasis
+C32,10,Solid tumour without metastasis
+C320,10,Solid tumour without metastasis
+C321,10,Solid tumour without metastasis
+C322,10,Solid tumour without metastasis
+C323,10,Solid tumour without metastasis
+C328,10,Solid tumour without metastasis
+C329,10,Solid tumour without metastasis
+C33,10,Solid tumour without metastasis
+C34,10,Solid tumour without metastasis
+C340,10,Solid tumour without metastasis
+C3400,10,Solid tumour without metastasis
+C3401,10,Solid tumour without metastasis
+C3402,10,Solid tumour without metastasis
+C341,10,Solid tumour without metastasis
+C3410,10,Solid tumour without metastasis
+C3411,10,Solid tumour without metastasis
+C3412,10,Solid tumour without metastasis
+C342,10,Solid tumour without metastasis
+C343,10,Solid tumour without metastasis
+C3430,10,Solid tumour without metastasis
+C3431,10,Solid tumour without metastasis
+C3432,10,Solid tumour without metastasis
+C348,10,Solid tumour without metastasis
+C3480,10,Solid tumour without metastasis
+C3481,10,Solid tumour without metastasis
+C3482,10,Solid tumour without metastasis
+C349,10,Solid tumour without metastasis
+C3490,10,Solid tumour without metastasis
+C3491,10,Solid tumour without metastasis
+C3492,10,Solid tumour without metastasis
+C37,10,Solid tumour without metastasis
+C38,10,Solid tumour without metastasis
+C380,10,Solid tumour without metastasis
+C381,10,Solid tumour without metastasis
+C382,10,Solid tumour without metastasis
+C383,10,Solid tumour without metastasis
+C384,10,Solid tumour without metastasis
+C388,10,Solid tumour without metastasis
+C39,10,Solid tumour without metastasis
+C390,10,Solid tumour without metastasis
+C399,10,Solid tumour without metastasis
+C40,10,Solid tumour without metastasis
+C400,10,Solid tumour without metastasis
+C4000,10,Solid tumour without metastasis
+C4001,10,Solid tumour without metastasis
+C4002,10,Solid tumour without metastasis
+C401,10,Solid tumour without metastasis
+C4010,10,Solid tumour without metastasis
+C4011,10,Solid tumour without metastasis
+C4012,10,Solid tumour without metastasis
+C402,10,Solid tumour without metastasis
+C4020,10,Solid tumour without metastasis
+C4021,10,Solid tumour without metastasis
+C4022,10,Solid tumour without metastasis
+C403,10,Solid tumour without metastasis
+C4030,10,Solid tumour without metastasis
+C4031,10,Solid tumour without metastasis
+C4032,10,Solid tumour without metastasis
+C408,10,Solid tumour without metastasis
+C4080,10,Solid tumour without metastasis
+C4081,10,Solid tumour without metastasis
+C4082,10,Solid tumour without metastasis
+C409,10,Solid tumour without metastasis
+C4090,10,Solid tumour without metastasis
+C4091,10,Solid tumour without metastasis
+C4092,10,Solid tumour without metastasis
+C41,10,Solid tumour without metastasis
+C410,10,Solid tumour without metastasis
+C411,10,Solid tumour without metastasis
+C412,10,Solid tumour without metastasis
+C413,10,Solid tumour without metastasis
+C414,10,Solid tumour without metastasis
+C419,10,Solid tumour without metastasis
+C43,10,Solid tumour without metastasis
+C430,10,Solid tumour without metastasis
+C431,10,Solid tumour without metastasis
+C4310,10,Solid tumour without metastasis
+C4311,10,Solid tumour without metastasis
+C43111,10,Solid tumour without metastasis
+C43112,10,Solid tumour without metastasis
+C4312,10,Solid tumour without metastasis
+C43121,10,Solid tumour without metastasis
+C43122,10,Solid tumour without metastasis
+C432,10,Solid tumour without metastasis
+C4320,10,Solid tumour without metastasis
+C4321,10,Solid tumour without metastasis
+C4322,10,Solid tumour without metastasis
+C433,10,Solid tumour without metastasis
+C4330,10,Solid tumour without metastasis
+C4331,10,Solid tumour without metastasis
+C4339,10,Solid tumour without metastasis
+C434,10,Solid tumour without metastasis
+C435,10,Solid tumour without metastasis
+C4351,10,Solid tumour without metastasis
+C4352,10,Solid tumour without metastasis
+C4359,10,Solid tumour without metastasis
+C436,10,Solid tumour without metastasis
+C4360,10,Solid tumour without metastasis
+C4361,10,Solid tumour without metastasis
+C4362,10,Solid tumour without metastasis
+C437,10,Solid tumour without metastasis
+C4370,10,Solid tumour without metastasis
+C4371,10,Solid tumour without metastasis
+C4372,10,Solid tumour without metastasis
+C438,10,Solid tumour without metastasis
+C439,10,Solid tumour without metastasis
+C45,10,Solid tumour without metastasis
+C450,10,Solid tumour without metastasis
+C451,10,Solid tumour without metastasis
+C452,10,Solid tumour without metastasis
+C457,10,Solid tumour without metastasis
+C459,10,Solid tumour without metastasis
+C46,10,Solid tumour without metastasis
+C460,10,Solid tumour without metastasis
+C461,10,Solid tumour without metastasis
+C462,10,Solid tumour without metastasis
+C463,10,Solid tumour without metastasis
+C464,10,Solid tumour without metastasis
+C465,10,Solid tumour without metastasis
+C4650,10,Solid tumour without metastasis
+C4651,10,Solid tumour without metastasis
+C4652,10,Solid tumour without metastasis
+C467,10,Solid tumour without metastasis
+C469,10,Solid tumour without metastasis
+C47,10,Solid tumour without metastasis
+C470,10,Solid tumour without metastasis
+C471,10,Solid tumour without metastasis
+C4710,10,Solid tumour without metastasis
+C4711,10,Solid tumour without metastasis
+C4712,10,Solid tumour without metastasis
+C472,10,Solid tumour without metastasis
+C4720,10,Solid tumour without metastasis
+C4721,10,Solid tumour without metastasis
+C4722,10,Solid tumour without metastasis
+C473,10,Solid tumour without metastasis
+C474,10,Solid tumour without metastasis
+C475,10,Solid tumour without metastasis
+C476,10,Solid tumour without metastasis
+C478,10,Solid tumour without metastasis
+C479,10,Solid tumour without metastasis
+C48,10,Solid tumour without metastasis
+C480,10,Solid tumour without metastasis
+C481,10,Solid tumour without metastasis
+C482,10,Solid tumour without metastasis
+C488,10,Solid tumour without metastasis
+C49,10,Solid tumour without metastasis
+C490,10,Solid tumour without metastasis
+C491,10,Solid tumour without metastasis
+C4910,10,Solid tumour without metastasis
+C4911,10,Solid tumour without metastasis
+C4912,10,Solid tumour without metastasis
+C492,10,Solid tumour without metastasis
+C4920,10,Solid tumour without metastasis
+C4921,10,Solid tumour without metastasis
+C4922,10,Solid tumour without metastasis
+C493,10,Solid tumour without metastasis
+C494,10,Solid tumour without metastasis
+C495,10,Solid tumour without metastasis
+C496,10,Solid tumour without metastasis
+C498,10,Solid tumour without metastasis
+C499,10,Solid tumour without metastasis
+C49A,10,Solid tumour without metastasis
+C49A0,10,Solid tumour without metastasis
+C49A1,10,Solid tumour without metastasis
+C49A2,10,Solid tumour without metastasis
+C49A3,10,Solid tumour without metastasis
+C49A4,10,Solid tumour without metastasis
+C49A5,10,Solid tumour without metastasis
+C49A9,10,Solid tumour without metastasis
+C4A,10,Solid tumour without metastasis
+C4A0,10,Solid tumour without metastasis
+C4A1,10,Solid tumour without metastasis
+C4A10,10,Solid tumour without metastasis
+C4A11,10,Solid tumour without metastasis
+C4A111,10,Solid tumour without metastasis
+C4A112,10,Solid tumour without metastasis
+C4A12,10,Solid tumour without metastasis
+C4A121,10,Solid tumour without metastasis
+C4A122,10,Solid tumour without metastasis
+C4A2,10,Solid tumour without metastasis
+C4A20,10,Solid tumour without metastasis
+C4A21,10,Solid tumour without metastasis
+C4A22,10,Solid tumour without metastasis
+C4A3,10,Solid tumour without metastasis
+C4A30,10,Solid tumour without metastasis
+C4A31,10,Solid tumour without metastasis
+C4A39,10,Solid tumour without metastasis
+C4A4,10,Solid tumour without metastasis
+C4A5,10,Solid tumour without metastasis
+C4A51,10,Solid tumour without metastasis
+C4A52,10,Solid tumour without metastasis
+C4A59,10,Solid tumour without metastasis
+C4A6,10,Solid tumour without metastasis
+C4A60,10,Solid tumour without metastasis
+C4A61,10,Solid tumour without metastasis
+C4A62,10,Solid tumour without metastasis
+C4A7,10,Solid tumour without metastasis
+C4A70,10,Solid tumour without metastasis
+C4A71,10,Solid tumour without metastasis
+C4A72,10,Solid tumour without metastasis
+C4A8,10,Solid tumour without metastasis
+C4A9,10,Solid tumour without metastasis
+C50,10,Solid tumour without metastasis
+C500,10,Solid tumour without metastasis
+C5001,10,Solid tumour without metastasis
+C50011,10,Solid tumour without metastasis
+C50012,10,Solid tumour without metastasis
+C50019,10,Solid tumour without metastasis
+C5002,10,Solid tumour without metastasis
+C50021,10,Solid tumour without metastasis
+C50022,10,Solid tumour without metastasis
+C50029,10,Solid tumour without metastasis
+C501,10,Solid tumour without metastasis
+C5011,10,Solid tumour without metastasis
+C50111,10,Solid tumour without metastasis
+C50112,10,Solid tumour without metastasis
+C50119,10,Solid tumour without metastasis
+C5012,10,Solid tumour without metastasis
+C50121,10,Solid tumour without metastasis
+C50122,10,Solid tumour without metastasis
+C50129,10,Solid tumour without metastasis
+C502,10,Solid tumour without metastasis
+C5021,10,Solid tumour without metastasis
+C50211,10,Solid tumour without metastasis
+C50212,10,Solid tumour without metastasis
+C50219,10,Solid tumour without metastasis
+C5022,10,Solid tumour without metastasis
+C50221,10,Solid tumour without metastasis
+C50222,10,Solid tumour without metastasis
+C50229,10,Solid tumour without metastasis
+C503,10,Solid tumour without metastasis
+C5031,10,Solid tumour without metastasis
+C50311,10,Solid tumour without metastasis
+C50312,10,Solid tumour without metastasis
+C50319,10,Solid tumour without metastasis
+C5032,10,Solid tumour without metastasis
+C50321,10,Solid tumour without metastasis
+C50322,10,Solid tumour without metastasis
+C50329,10,Solid tumour without metastasis
+C504,10,Solid tumour without metastasis
+C5041,10,Solid tumour without metastasis
+C50411,10,Solid tumour without metastasis
+C50412,10,Solid tumour without metastasis
+C50419,10,Solid tumour without metastasis
+C5042,10,Solid tumour without metastasis
+C50421,10,Solid tumour without metastasis
+C50422,10,Solid tumour without metastasis
+C50429,10,Solid tumour without metastasis
+C505,10,Solid tumour without metastasis
+C5051,10,Solid tumour without metastasis
+C50511,10,Solid tumour without metastasis
+C50512,10,Solid tumour without metastasis
+C50519,10,Solid tumour without metastasis
+C5052,10,Solid tumour without metastasis
+C50521,10,Solid tumour without metastasis
+C50522,10,Solid tumour without metastasis
+C50529,10,Solid tumour without metastasis
+C506,10,Solid tumour without metastasis
+C5061,10,Solid tumour without metastasis
+C50611,10,Solid tumour without metastasis
+C50612,10,Solid tumour without metastasis
+C50619,10,Solid tumour without metastasis
+C5062,10,Solid tumour without metastasis
+C50621,10,Solid tumour without metastasis
+C50622,10,Solid tumour without metastasis
+C50629,10,Solid tumour without metastasis
+C508,10,Solid tumour without metastasis
+C5081,10,Solid tumour without metastasis
+C50811,10,Solid tumour without metastasis
+C50812,10,Solid tumour without metastasis
+C50819,10,Solid tumour without metastasis
+C5082,10,Solid tumour without metastasis
+C50821,10,Solid tumour without metastasis
+C50822,10,Solid tumour without metastasis
+C50829,10,Solid tumour without metastasis
+C509,10,Solid tumour without metastasis
+C5091,10,Solid tumour without metastasis
+C50911,10,Solid tumour without metastasis
+C50912,10,Solid tumour without metastasis
+C50919,10,Solid tumour without metastasis
+C5092,10,Solid tumour without metastasis
+C50921,10,Solid tumour without metastasis
+C50922,10,Solid tumour without metastasis
+C50929,10,Solid tumour without metastasis
+C51,10,Solid tumour without metastasis
+C510,10,Solid tumour without metastasis
+C511,10,Solid tumour without metastasis
+C512,10,Solid tumour without metastasis
+C518,10,Solid tumour without metastasis
+C519,10,Solid tumour without metastasis
+C52,10,Solid tumour without metastasis
+C53,10,Solid tumour without metastasis
+C530,10,Solid tumour without metastasis
+C531,10,Solid tumour without metastasis
+C538,10,Solid tumour without metastasis
+C539,10,Solid tumour without metastasis
+C54,10,Solid tumour without metastasis
+C540,10,Solid tumour without metastasis
+C541,10,Solid tumour without metastasis
+C542,10,Solid tumour without metastasis
+C543,10,Solid tumour without metastasis
+C548,10,Solid tumour without metastasis
+C549,10,Solid tumour without metastasis
+C55,10,Solid tumour without metastasis
+C56,10,Solid tumour without metastasis
+C561,10,Solid tumour without metastasis
+C562,10,Solid tumour without metastasis
+C569,10,Solid tumour without metastasis
+C57,10,Solid tumour without metastasis
+C570,10,Solid tumour without metastasis
+C5700,10,Solid tumour without metastasis
+C5701,10,Solid tumour without metastasis
+C5702,10,Solid tumour without metastasis
+C571,10,Solid tumour without metastasis
+C5710,10,Solid tumour without metastasis
+C5711,10,Solid tumour without metastasis
+C5712,10,Solid tumour without metastasis
+C572,10,Solid tumour without metastasis
+C5720,10,Solid tumour without metastasis
+C5721,10,Solid tumour without metastasis
+C5722,10,Solid tumour without metastasis
+C573,10,Solid tumour without metastasis
+C574,10,Solid tumour without metastasis
+C577,10,Solid tumour without metastasis
+C578,10,Solid tumour without metastasis
+C579,10,Solid tumour without metastasis
+C58,10,Solid tumour without metastasis
+C60,10,Solid tumour without metastasis
+C600,10,Solid tumour without metastasis
+C601,10,Solid tumour without metastasis
+C602,10,Solid tumour without metastasis
+C608,10,Solid tumour without metastasis
+C609,10,Solid tumour without metastasis
+C61,10,Solid tumour without metastasis
+C62,10,Solid tumour without metastasis
+C620,10,Solid tumour without metastasis
+C6200,10,Solid tumour without metastasis
+C6201,10,Solid tumour without metastasis
+C6202,10,Solid tumour without metastasis
+C621,10,Solid tumour without metastasis
+C6210,10,Solid tumour without metastasis
+C6211,10,Solid tumour without metastasis
+C6212,10,Solid tumour without metastasis
+C629,10,Solid tumour without metastasis
+C6290,10,Solid tumour without metastasis
+C6291,10,Solid tumour without metastasis
+C6292,10,Solid tumour without metastasis
+C63,10,Solid tumour without metastasis
+C630,10,Solid tumour without metastasis
+C6300,10,Solid tumour without metastasis
+C6301,10,Solid tumour without metastasis
+C6302,10,Solid tumour without metastasis
+C631,10,Solid tumour without metastasis
+C6310,10,Solid tumour without metastasis
+C6311,10,Solid tumour without metastasis
+C6312,10,Solid tumour without metastasis
+C632,10,Solid tumour without metastasis
+C637,10,Solid tumour without metastasis
+C638,10,Solid tumour without metastasis
+C639,10,Solid tumour without metastasis
+C64,10,Solid tumour without metastasis
+C641,10,Solid tumour without metastasis
+C642,10,Solid tumour without metastasis
+C649,10,Solid tumour without metastasis
+C65,10,Solid tumour without metastasis
+C651,10,Solid tumour without metastasis
+C652,10,Solid tumour without metastasis
+C659,10,Solid tumour without metastasis
+C66,10,Solid tumour without metastasis
+C661,10,Solid tumour without metastasis
+C662,10,Solid tumour without metastasis
+C669,10,Solid tumour without metastasis
+C67,10,Solid tumour without metastasis
+C670,10,Solid tumour without metastasis
+C671,10,Solid tumour without metastasis
+C672,10,Solid tumour without metastasis
+C673,10,Solid tumour without metastasis
+C674,10,Solid tumour without metastasis
+C675,10,Solid tumour without metastasis
+C676,10,Solid tumour without metastasis
+C677,10,Solid tumour without metastasis
+C678,10,Solid tumour without metastasis
+C679,10,Solid tumour without metastasis
+C68,10,Solid tumour without metastasis
+C680,10,Solid tumour without metastasis
+C681,10,Solid tumour without metastasis
+C688,10,Solid tumour without metastasis
+C689,10,Solid tumour without metastasis
+C69,10,Solid tumour without metastasis
+C690,10,Solid tumour without metastasis
+C6900,10,Solid tumour without metastasis
+C6901,10,Solid tumour without metastasis
+C6902,10,Solid tumour without metastasis
+C691,10,Solid tumour without metastasis
+C6910,10,Solid tumour without metastasis
+C6911,10,Solid tumour without metastasis
+C6912,10,Solid tumour without metastasis
+C692,10,Solid tumour without metastasis
+C6920,10,Solid tumour without metastasis
+C6921,10,Solid tumour without metastasis
+C6922,10,Solid tumour without metastasis
+C693,10,Solid tumour without metastasis
+C6930,10,Solid tumour without metastasis
+C6931,10,Solid tumour without metastasis
+C6932,10,Solid tumour without metastasis
+C694,10,Solid tumour without metastasis
+C6940,10,Solid tumour without metastasis
+C6941,10,Solid tumour without metastasis
+C6942,10,Solid tumour without metastasis
+C695,10,Solid tumour without metastasis
+C6950,10,Solid tumour without metastasis
+C6951,10,Solid tumour without metastasis
+C6952,10,Solid tumour without metastasis
+C696,10,Solid tumour without metastasis
+C6960,10,Solid tumour without metastasis
+C6961,10,Solid tumour without metastasis
+C6962,10,Solid tumour without metastasis
+C698,10,Solid tumour without metastasis
+C6980,10,Solid tumour without metastasis
+C6981,10,Solid tumour without metastasis
+C6982,10,Solid tumour without metastasis
+C699,10,Solid tumour without metastasis
+C6990,10,Solid tumour without metastasis
+C6991,10,Solid tumour without metastasis
+C6992,10,Solid tumour without metastasis
+C70,10,Solid tumour without metastasis
+C700,10,Solid tumour without metastasis
+C701,10,Solid tumour without metastasis
+C709,10,Solid tumour without metastasis
+C71,10,Solid tumour without metastasis
+C710,10,Solid tumour without metastasis
+C711,10,Solid tumour without metastasis
+C712,10,Solid tumour without metastasis
+C713,10,Solid tumour without metastasis
+C714,10,Solid tumour without metastasis
+C715,10,Solid tumour without metastasis
+C716,10,Solid tumour without metastasis
+C717,10,Solid tumour without metastasis
+C718,10,Solid tumour without metastasis
+C719,10,Solid tumour without metastasis
+C72,10,Solid tumour without metastasis
+C720,10,Solid tumour without metastasis
+C721,10,Solid tumour without metastasis
+C722,10,Solid tumour without metastasis
+C7220,10,Solid tumour without metastasis
+C7221,10,Solid tumour without metastasis
+C7222,10,Solid tumour without metastasis
+C723,10,Solid tumour without metastasis
+C7230,10,Solid tumour without metastasis
+C7231,10,Solid tumour without metastasis
+C7232,10,Solid tumour without metastasis
+C724,10,Solid tumour without metastasis
+C7240,10,Solid tumour without metastasis
+C7241,10,Solid tumour without metastasis
+C7242,10,Solid tumour without metastasis
+C725,10,Solid tumour without metastasis
+C7250,10,Solid tumour without metastasis
+C7259,10,Solid tumour without metastasis
+C729,10,Solid tumour without metastasis
+C73,10,Solid tumour without metastasis
+C74,10,Solid tumour without metastasis
+C740,10,Solid tumour without metastasis
+C7400,10,Solid tumour without metastasis
+C7401,10,Solid tumour without metastasis
+C7402,10,Solid tumour without metastasis
+C741,10,Solid tumour without metastasis
+C7410,10,Solid tumour without metastasis
+C7411,10,Solid tumour without metastasis
+C7412,10,Solid tumour without metastasis
+C749,10,Solid tumour without metastasis
+C7490,10,Solid tumour without metastasis
+C7491,10,Solid tumour without metastasis
+C7492,10,Solid tumour without metastasis
+C75,10,Solid tumour without metastasis
+C750,10,Solid tumour without metastasis
+C751,10,Solid tumour without metastasis
+C752,10,Solid tumour without metastasis
+C753,10,Solid tumour without metastasis
+C754,10,Solid tumour without metastasis
+C755,10,Solid tumour without metastasis
+C758,10,Solid tumour without metastasis
+C759,10,Solid tumour without metastasis
+C76,10,Solid tumour without metastasis
+C760,10,Solid tumour without metastasis
+C761,10,Solid tumour without metastasis
+C762,10,Solid tumour without metastasis
+C763,10,Solid tumour without metastasis
+C764,10,Solid tumour without metastasis
+C7640,10,Solid tumour without metastasis
+C7641,10,Solid tumour without metastasis
+C7642,10,Solid tumour without metastasis
+C765,10,Solid tumour without metastasis
+C7650,10,Solid tumour without metastasis
+C7651,10,Solid tumour without metastasis
+C7652,10,Solid tumour without metastasis
+C768,10,Solid tumour without metastasis
+4460,9,Rheumatoid arthritis/collagen vascular diseases
+4461,9,Rheumatoid arthritis/collagen vascular diseases
+44620,9,Rheumatoid arthritis/collagen vascular diseases
+44621,9,Rheumatoid arthritis/collagen vascular diseases
+44629,9,Rheumatoid arthritis/collagen vascular diseases
+4463,9,Rheumatoid arthritis/collagen vascular diseases
+4464,9,Rheumatoid arthritis/collagen vascular diseases
+4465,9,Rheumatoid arthritis/collagen vascular diseases
+4466,9,Rheumatoid arthritis/collagen vascular diseases
+4467,9,Rheumatoid arthritis/collagen vascular diseases
+7010,9,Rheumatoid arthritis/collagen vascular diseases
+7100,9,Rheumatoid arthritis/collagen vascular diseases
+7101,9,Rheumatoid arthritis/collagen vascular diseases
+7102,9,Rheumatoid arthritis/collagen vascular diseases
+7103,9,Rheumatoid arthritis/collagen vascular diseases
+7104,9,Rheumatoid arthritis/collagen vascular diseases
+7108,9,Rheumatoid arthritis/collagen vascular diseases
+7109,9,Rheumatoid arthritis/collagen vascular diseases
+71120,9,Rheumatoid arthritis/collagen vascular diseases
+71121,9,Rheumatoid arthritis/collagen vascular diseases
+71122,9,Rheumatoid arthritis/collagen vascular diseases
+71123,9,Rheumatoid arthritis/collagen vascular diseases
+71124,9,Rheumatoid arthritis/collagen vascular diseases
+71125,9,Rheumatoid arthritis/collagen vascular diseases
+71126,9,Rheumatoid arthritis/collagen vascular diseases
+71127,9,Rheumatoid arthritis/collagen vascular diseases
+71128,9,Rheumatoid arthritis/collagen vascular diseases
+71129,9,Rheumatoid arthritis/collagen vascular diseases
+7140,9,Rheumatoid arthritis/collagen vascular diseases
+7141,9,Rheumatoid arthritis/collagen vascular diseases
+7142,9,Rheumatoid arthritis/collagen vascular diseases
+71430,9,Rheumatoid arthritis/collagen vascular diseases
+71431,9,Rheumatoid arthritis/collagen vascular diseases
+71432,9,Rheumatoid arthritis/collagen vascular diseases
+71433,9,Rheumatoid arthritis/collagen vascular diseases
+7144,9,Rheumatoid arthritis/collagen vascular diseases
+71481,9,Rheumatoid arthritis/collagen vascular diseases
+71489,9,Rheumatoid arthritis/collagen vascular diseases
+7149,9,Rheumatoid arthritis/collagen vascular diseases
+71930,9,Rheumatoid arthritis/collagen vascular diseases
+71931,9,Rheumatoid arthritis/collagen vascular diseases
+71932,9,Rheumatoid arthritis/collagen vascular diseases
+71933,9,Rheumatoid arthritis/collagen vascular diseases
+71934,9,Rheumatoid arthritis/collagen vascular diseases
+71935,9,Rheumatoid arthritis/collagen vascular diseases
+71936,9,Rheumatoid arthritis/collagen vascular diseases
+71937,9,Rheumatoid arthritis/collagen vascular diseases
+71938,9,Rheumatoid arthritis/collagen vascular diseases
+71939,9,Rheumatoid arthritis/collagen vascular diseases
+7200,9,Rheumatoid arthritis/collagen vascular diseases
+7201,9,Rheumatoid arthritis/collagen vascular diseases
+7202,9,Rheumatoid arthritis/collagen vascular diseases
+72081,9,Rheumatoid arthritis/collagen vascular diseases
+72089,9,Rheumatoid arthritis/collagen vascular diseases
+7209,9,Rheumatoid arthritis/collagen vascular diseases
+725,9,Rheumatoid arthritis/collagen vascular diseases
+7285,9,Rheumatoid arthritis/collagen vascular diseases
+72889,9,Rheumatoid arthritis/collagen vascular diseases
+72930,9,Rheumatoid arthritis/collagen vascular diseases
+L940,10,Rheumatoid arthritis/collagen vascular diseases
+L941,10,Rheumatoid arthritis/collagen vascular diseases
+L943,10,Rheumatoid arthritis/collagen vascular diseases
+M05,10,Rheumatoid arthritis/collagen vascular diseases
+M050,10,Rheumatoid arthritis/collagen vascular diseases
+M0500,10,Rheumatoid arthritis/collagen vascular diseases
+M0501,10,Rheumatoid arthritis/collagen vascular diseases
+M05011,10,Rheumatoid arthritis/collagen vascular diseases
+M05012,10,Rheumatoid arthritis/collagen vascular diseases
+M05019,10,Rheumatoid arthritis/collagen vascular diseases
+M0502,10,Rheumatoid arthritis/collagen vascular diseases
+M05021,10,Rheumatoid arthritis/collagen vascular diseases
+M05022,10,Rheumatoid arthritis/collagen vascular diseases
+M05029,10,Rheumatoid arthritis/collagen vascular diseases
+M0503,10,Rheumatoid arthritis/collagen vascular diseases
+M05031,10,Rheumatoid arthritis/collagen vascular diseases
+M05032,10,Rheumatoid arthritis/collagen vascular diseases
+M05039,10,Rheumatoid arthritis/collagen vascular diseases
+M0504,10,Rheumatoid arthritis/collagen vascular diseases
+M05041,10,Rheumatoid arthritis/collagen vascular diseases
+M05042,10,Rheumatoid arthritis/collagen vascular diseases
+M05049,10,Rheumatoid arthritis/collagen vascular diseases
+M0505,10,Rheumatoid arthritis/collagen vascular diseases
+M05051,10,Rheumatoid arthritis/collagen vascular diseases
+M05052,10,Rheumatoid arthritis/collagen vascular diseases
+M05059,10,Rheumatoid arthritis/collagen vascular diseases
+M0506,10,Rheumatoid arthritis/collagen vascular diseases
+M05061,10,Rheumatoid arthritis/collagen vascular diseases
+M05062,10,Rheumatoid arthritis/collagen vascular diseases
+M05069,10,Rheumatoid arthritis/collagen vascular diseases
+M0507,10,Rheumatoid arthritis/collagen vascular diseases
+M05071,10,Rheumatoid arthritis/collagen vascular diseases
+M05072,10,Rheumatoid arthritis/collagen vascular diseases
+M05079,10,Rheumatoid arthritis/collagen vascular diseases
+M0509,10,Rheumatoid arthritis/collagen vascular diseases
+M051,10,Rheumatoid arthritis/collagen vascular diseases
+M0510,10,Rheumatoid arthritis/collagen vascular diseases
+M0511,10,Rheumatoid arthritis/collagen vascular diseases
+M05111,10,Rheumatoid arthritis/collagen vascular diseases
+M05112,10,Rheumatoid arthritis/collagen vascular diseases
+M05119,10,Rheumatoid arthritis/collagen vascular diseases
+M0512,10,Rheumatoid arthritis/collagen vascular diseases
+M05121,10,Rheumatoid arthritis/collagen vascular diseases
+M05122,10,Rheumatoid arthritis/collagen vascular diseases
+M05129,10,Rheumatoid arthritis/collagen vascular diseases
+M0513,10,Rheumatoid arthritis/collagen vascular diseases
+M05131,10,Rheumatoid arthritis/collagen vascular diseases
+M05132,10,Rheumatoid arthritis/collagen vascular diseases
+M05139,10,Rheumatoid arthritis/collagen vascular diseases
+M0514,10,Rheumatoid arthritis/collagen vascular diseases
+M05141,10,Rheumatoid arthritis/collagen vascular diseases
+M05142,10,Rheumatoid arthritis/collagen vascular diseases
+M05149,10,Rheumatoid arthritis/collagen vascular diseases
+M0515,10,Rheumatoid arthritis/collagen vascular diseases
+M05151,10,Rheumatoid arthritis/collagen vascular diseases
+M05152,10,Rheumatoid arthritis/collagen vascular diseases
+M05159,10,Rheumatoid arthritis/collagen vascular diseases
+M0516,10,Rheumatoid arthritis/collagen vascular diseases
+M05161,10,Rheumatoid arthritis/collagen vascular diseases
+M05162,10,Rheumatoid arthritis/collagen vascular diseases
+M05169,10,Rheumatoid arthritis/collagen vascular diseases
+M0517,10,Rheumatoid arthritis/collagen vascular diseases
+M05171,10,Rheumatoid arthritis/collagen vascular diseases
+M05172,10,Rheumatoid arthritis/collagen vascular diseases
+M05179,10,Rheumatoid arthritis/collagen vascular diseases
+M0519,10,Rheumatoid arthritis/collagen vascular diseases
+M052,10,Rheumatoid arthritis/collagen vascular diseases
+M0520,10,Rheumatoid arthritis/collagen vascular diseases
+M0521,10,Rheumatoid arthritis/collagen vascular diseases
+M05211,10,Rheumatoid arthritis/collagen vascular diseases
+M05212,10,Rheumatoid arthritis/collagen vascular diseases
+M05219,10,Rheumatoid arthritis/collagen vascular diseases
+M0522,10,Rheumatoid arthritis/collagen vascular diseases
+M05221,10,Rheumatoid arthritis/collagen vascular diseases
+M05222,10,Rheumatoid arthritis/collagen vascular diseases
+M05229,10,Rheumatoid arthritis/collagen vascular diseases
+M0523,10,Rheumatoid arthritis/collagen vascular diseases
+M05231,10,Rheumatoid arthritis/collagen vascular diseases
+M05232,10,Rheumatoid arthritis/collagen vascular diseases
+M05239,10,Rheumatoid arthritis/collagen vascular diseases
+M0524,10,Rheumatoid arthritis/collagen vascular diseases
+M05241,10,Rheumatoid arthritis/collagen vascular diseases
+M05242,10,Rheumatoid arthritis/collagen vascular diseases
+M05249,10,Rheumatoid arthritis/collagen vascular diseases
+M0525,10,Rheumatoid arthritis/collagen vascular diseases
+M05251,10,Rheumatoid arthritis/collagen vascular diseases
+M05252,10,Rheumatoid arthritis/collagen vascular diseases
+M05259,10,Rheumatoid arthritis/collagen vascular diseases
+M0526,10,Rheumatoid arthritis/collagen vascular diseases
+M05261,10,Rheumatoid arthritis/collagen vascular diseases
+M05262,10,Rheumatoid arthritis/collagen vascular diseases
+M05269,10,Rheumatoid arthritis/collagen vascular diseases
+M0527,10,Rheumatoid arthritis/collagen vascular diseases
+M05271,10,Rheumatoid arthritis/collagen vascular diseases
+M05272,10,Rheumatoid arthritis/collagen vascular diseases
+M05279,10,Rheumatoid arthritis/collagen vascular diseases
+M0529,10,Rheumatoid arthritis/collagen vascular diseases
+M053,10,Rheumatoid arthritis/collagen vascular diseases
+M0530,10,Rheumatoid arthritis/collagen vascular diseases
+M0531,10,Rheumatoid arthritis/collagen vascular diseases
+M05311,10,Rheumatoid arthritis/collagen vascular diseases
+M05312,10,Rheumatoid arthritis/collagen vascular diseases
+M05319,10,Rheumatoid arthritis/collagen vascular diseases
+M0532,10,Rheumatoid arthritis/collagen vascular diseases
+M05321,10,Rheumatoid arthritis/collagen vascular diseases
+M05322,10,Rheumatoid arthritis/collagen vascular diseases
+M05329,10,Rheumatoid arthritis/collagen vascular diseases
+M0533,10,Rheumatoid arthritis/collagen vascular diseases
+M05331,10,Rheumatoid arthritis/collagen vascular diseases
+M05332,10,Rheumatoid arthritis/collagen vascular diseases
+M05339,10,Rheumatoid arthritis/collagen vascular diseases
+M0534,10,Rheumatoid arthritis/collagen vascular diseases
+M05341,10,Rheumatoid arthritis/collagen vascular diseases
+M05342,10,Rheumatoid arthritis/collagen vascular diseases
+M05349,10,Rheumatoid arthritis/collagen vascular diseases
+M0535,10,Rheumatoid arthritis/collagen vascular diseases
+M05351,10,Rheumatoid arthritis/collagen vascular diseases
+M05352,10,Rheumatoid arthritis/collagen vascular diseases
+M05359,10,Rheumatoid arthritis/collagen vascular diseases
+M0536,10,Rheumatoid arthritis/collagen vascular diseases
+M05361,10,Rheumatoid arthritis/collagen vascular diseases
+M05362,10,Rheumatoid arthritis/collagen vascular diseases
+M05369,10,Rheumatoid arthritis/collagen vascular diseases
+M0537,10,Rheumatoid arthritis/collagen vascular diseases
+M05371,10,Rheumatoid arthritis/collagen vascular diseases
+M05372,10,Rheumatoid arthritis/collagen vascular diseases
+M05379,10,Rheumatoid arthritis/collagen vascular diseases
+M0539,10,Rheumatoid arthritis/collagen vascular diseases
+M054,10,Rheumatoid arthritis/collagen vascular diseases
+M0540,10,Rheumatoid arthritis/collagen vascular diseases
+M0541,10,Rheumatoid arthritis/collagen vascular diseases
+M05411,10,Rheumatoid arthritis/collagen vascular diseases
+M05412,10,Rheumatoid arthritis/collagen vascular diseases
+M05419,10,Rheumatoid arthritis/collagen vascular diseases
+M0542,10,Rheumatoid arthritis/collagen vascular diseases
+M05421,10,Rheumatoid arthritis/collagen vascular diseases
+M05422,10,Rheumatoid arthritis/collagen vascular diseases
+M05429,10,Rheumatoid arthritis/collagen vascular diseases
+M0543,10,Rheumatoid arthritis/collagen vascular diseases
+M05431,10,Rheumatoid arthritis/collagen vascular diseases
+M05432,10,Rheumatoid arthritis/collagen vascular diseases
+M05439,10,Rheumatoid arthritis/collagen vascular diseases
+M0544,10,Rheumatoid arthritis/collagen vascular diseases
+M05441,10,Rheumatoid arthritis/collagen vascular diseases
+M05442,10,Rheumatoid arthritis/collagen vascular diseases
+M05449,10,Rheumatoid arthritis/collagen vascular diseases
+M0545,10,Rheumatoid arthritis/collagen vascular diseases
+M05451,10,Rheumatoid arthritis/collagen vascular diseases
+M05452,10,Rheumatoid arthritis/collagen vascular diseases
+M05459,10,Rheumatoid arthritis/collagen vascular diseases
+M0546,10,Rheumatoid arthritis/collagen vascular diseases
+M05461,10,Rheumatoid arthritis/collagen vascular diseases
+M05462,10,Rheumatoid arthritis/collagen vascular diseases
+M05469,10,Rheumatoid arthritis/collagen vascular diseases
+M0547,10,Rheumatoid arthritis/collagen vascular diseases
+M05471,10,Rheumatoid arthritis/collagen vascular diseases
+M05472,10,Rheumatoid arthritis/collagen vascular diseases
+M05479,10,Rheumatoid arthritis/collagen vascular diseases
+M0549,10,Rheumatoid arthritis/collagen vascular diseases
+M055,10,Rheumatoid arthritis/collagen vascular diseases
+M0550,10,Rheumatoid arthritis/collagen vascular diseases
+M0551,10,Rheumatoid arthritis/collagen vascular diseases
+M05511,10,Rheumatoid arthritis/collagen vascular diseases
+M05512,10,Rheumatoid arthritis/collagen vascular diseases
+M05519,10,Rheumatoid arthritis/collagen vascular diseases
+M0552,10,Rheumatoid arthritis/collagen vascular diseases
+M05521,10,Rheumatoid arthritis/collagen vascular diseases
+M05522,10,Rheumatoid arthritis/collagen vascular diseases
+M05529,10,Rheumatoid arthritis/collagen vascular diseases
+M0553,10,Rheumatoid arthritis/collagen vascular diseases
+M05531,10,Rheumatoid arthritis/collagen vascular diseases
+M05532,10,Rheumatoid arthritis/collagen vascular diseases
+M05539,10,Rheumatoid arthritis/collagen vascular diseases
+M0554,10,Rheumatoid arthritis/collagen vascular diseases
+M05541,10,Rheumatoid arthritis/collagen vascular diseases
+M05542,10,Rheumatoid arthritis/collagen vascular diseases
+M05549,10,Rheumatoid arthritis/collagen vascular diseases
+M0555,10,Rheumatoid arthritis/collagen vascular diseases
+M05551,10,Rheumatoid arthritis/collagen vascular diseases
+M05552,10,Rheumatoid arthritis/collagen vascular diseases
+M05559,10,Rheumatoid arthritis/collagen vascular diseases
+M0556,10,Rheumatoid arthritis/collagen vascular diseases
+M05561,10,Rheumatoid arthritis/collagen vascular diseases
+M05562,10,Rheumatoid arthritis/collagen vascular diseases
+M05569,10,Rheumatoid arthritis/collagen vascular diseases
+M0557,10,Rheumatoid arthritis/collagen vascular diseases
+M05571,10,Rheumatoid arthritis/collagen vascular diseases
+M05572,10,Rheumatoid arthritis/collagen vascular diseases
+M05579,10,Rheumatoid arthritis/collagen vascular diseases
+M0559,10,Rheumatoid arthritis/collagen vascular diseases
+M056,10,Rheumatoid arthritis/collagen vascular diseases
+M0560,10,Rheumatoid arthritis/collagen vascular diseases
+M0561,10,Rheumatoid arthritis/collagen vascular diseases
+M05611,10,Rheumatoid arthritis/collagen vascular diseases
+M05612,10,Rheumatoid arthritis/collagen vascular diseases
+M05619,10,Rheumatoid arthritis/collagen vascular diseases
+M0562,10,Rheumatoid arthritis/collagen vascular diseases
+M05621,10,Rheumatoid arthritis/collagen vascular diseases
+M05622,10,Rheumatoid arthritis/collagen vascular diseases
+M05629,10,Rheumatoid arthritis/collagen vascular diseases
+M0563,10,Rheumatoid arthritis/collagen vascular diseases
+M05631,10,Rheumatoid arthritis/collagen vascular diseases
+M05632,10,Rheumatoid arthritis/collagen vascular diseases
+M05639,10,Rheumatoid arthritis/collagen vascular diseases
+M0564,10,Rheumatoid arthritis/collagen vascular diseases
+M05641,10,Rheumatoid arthritis/collagen vascular diseases
+M05642,10,Rheumatoid arthritis/collagen vascular diseases
+M05649,10,Rheumatoid arthritis/collagen vascular diseases
+M0565,10,Rheumatoid arthritis/collagen vascular diseases
+M05651,10,Rheumatoid arthritis/collagen vascular diseases
+M05652,10,Rheumatoid arthritis/collagen vascular diseases
+M05659,10,Rheumatoid arthritis/collagen vascular diseases
+M0566,10,Rheumatoid arthritis/collagen vascular diseases
+M05661,10,Rheumatoid arthritis/collagen vascular diseases
+M05662,10,Rheumatoid arthritis/collagen vascular diseases
+M05669,10,Rheumatoid arthritis/collagen vascular diseases
+M0567,10,Rheumatoid arthritis/collagen vascular diseases
+M05671,10,Rheumatoid arthritis/collagen vascular diseases
+M05672,10,Rheumatoid arthritis/collagen vascular diseases
+M05679,10,Rheumatoid arthritis/collagen vascular diseases
+M0569,10,Rheumatoid arthritis/collagen vascular diseases
+M057,10,Rheumatoid arthritis/collagen vascular diseases
+M0570,10,Rheumatoid arthritis/collagen vascular diseases
+M0571,10,Rheumatoid arthritis/collagen vascular diseases
+M05711,10,Rheumatoid arthritis/collagen vascular diseases
+M05712,10,Rheumatoid arthritis/collagen vascular diseases
+M05719,10,Rheumatoid arthritis/collagen vascular diseases
+M0572,10,Rheumatoid arthritis/collagen vascular diseases
+M05721,10,Rheumatoid arthritis/collagen vascular diseases
+M05722,10,Rheumatoid arthritis/collagen vascular diseases
+M05729,10,Rheumatoid arthritis/collagen vascular diseases
+M0573,10,Rheumatoid arthritis/collagen vascular diseases
+M05731,10,Rheumatoid arthritis/collagen vascular diseases
+M05732,10,Rheumatoid arthritis/collagen vascular diseases
+M05739,10,Rheumatoid arthritis/collagen vascular diseases
+M0574,10,Rheumatoid arthritis/collagen vascular diseases
+M05741,10,Rheumatoid arthritis/collagen vascular diseases
+M05742,10,Rheumatoid arthritis/collagen vascular diseases
+M05749,10,Rheumatoid arthritis/collagen vascular diseases
+M0575,10,Rheumatoid arthritis/collagen vascular diseases
+M05751,10,Rheumatoid arthritis/collagen vascular diseases
+M05752,10,Rheumatoid arthritis/collagen vascular diseases
+M05759,10,Rheumatoid arthritis/collagen vascular diseases
+M0576,10,Rheumatoid arthritis/collagen vascular diseases
+M05761,10,Rheumatoid arthritis/collagen vascular diseases
+M05762,10,Rheumatoid arthritis/collagen vascular diseases
+M05769,10,Rheumatoid arthritis/collagen vascular diseases
+M0577,10,Rheumatoid arthritis/collagen vascular diseases
+M05771,10,Rheumatoid arthritis/collagen vascular diseases
+M05772,10,Rheumatoid arthritis/collagen vascular diseases
+M05779,10,Rheumatoid arthritis/collagen vascular diseases
+M0579,10,Rheumatoid arthritis/collagen vascular diseases
+M058,10,Rheumatoid arthritis/collagen vascular diseases
+M0580,10,Rheumatoid arthritis/collagen vascular diseases
+M0581,10,Rheumatoid arthritis/collagen vascular diseases
+M05811,10,Rheumatoid arthritis/collagen vascular diseases
+M05812,10,Rheumatoid arthritis/collagen vascular diseases
+M05819,10,Rheumatoid arthritis/collagen vascular diseases
+M0582,10,Rheumatoid arthritis/collagen vascular diseases
+M05821,10,Rheumatoid arthritis/collagen vascular diseases
+M05822,10,Rheumatoid arthritis/collagen vascular diseases
+M05829,10,Rheumatoid arthritis/collagen vascular diseases
+M0583,10,Rheumatoid arthritis/collagen vascular diseases
+M05831,10,Rheumatoid arthritis/collagen vascular diseases
+M05832,10,Rheumatoid arthritis/collagen vascular diseases
+M05839,10,Rheumatoid arthritis/collagen vascular diseases
+M0584,10,Rheumatoid arthritis/collagen vascular diseases
+M05841,10,Rheumatoid arthritis/collagen vascular diseases
+M05842,10,Rheumatoid arthritis/collagen vascular diseases
+M05849,10,Rheumatoid arthritis/collagen vascular diseases
+M0585,10,Rheumatoid arthritis/collagen vascular diseases
+M05851,10,Rheumatoid arthritis/collagen vascular diseases
+M05852,10,Rheumatoid arthritis/collagen vascular diseases
+M05859,10,Rheumatoid arthritis/collagen vascular diseases
+M0586,10,Rheumatoid arthritis/collagen vascular diseases
+M05861,10,Rheumatoid arthritis/collagen vascular diseases
+M05862,10,Rheumatoid arthritis/collagen vascular diseases
+M05869,10,Rheumatoid arthritis/collagen vascular diseases
+M0587,10,Rheumatoid arthritis/collagen vascular diseases
+M05871,10,Rheumatoid arthritis/collagen vascular diseases
+M05872,10,Rheumatoid arthritis/collagen vascular diseases
+M05879,10,Rheumatoid arthritis/collagen vascular diseases
+M0589,10,Rheumatoid arthritis/collagen vascular diseases
+M059,10,Rheumatoid arthritis/collagen vascular diseases
+M06,10,Rheumatoid arthritis/collagen vascular diseases
+M060,10,Rheumatoid arthritis/collagen vascular diseases
+M0600,10,Rheumatoid arthritis/collagen vascular diseases
+M0601,10,Rheumatoid arthritis/collagen vascular diseases
+M06011,10,Rheumatoid arthritis/collagen vascular diseases
+M06012,10,Rheumatoid arthritis/collagen vascular diseases
+M06019,10,Rheumatoid arthritis/collagen vascular diseases
+M0602,10,Rheumatoid arthritis/collagen vascular diseases
+M06021,10,Rheumatoid arthritis/collagen vascular diseases
+M06022,10,Rheumatoid arthritis/collagen vascular diseases
+M06029,10,Rheumatoid arthritis/collagen vascular diseases
+M0603,10,Rheumatoid arthritis/collagen vascular diseases
+M06031,10,Rheumatoid arthritis/collagen vascular diseases
+M06032,10,Rheumatoid arthritis/collagen vascular diseases
+M06039,10,Rheumatoid arthritis/collagen vascular diseases
+M0604,10,Rheumatoid arthritis/collagen vascular diseases
+M06041,10,Rheumatoid arthritis/collagen vascular diseases
+M06042,10,Rheumatoid arthritis/collagen vascular diseases
+M06049,10,Rheumatoid arthritis/collagen vascular diseases
+M0605,10,Rheumatoid arthritis/collagen vascular diseases
+M06051,10,Rheumatoid arthritis/collagen vascular diseases
+M06052,10,Rheumatoid arthritis/collagen vascular diseases
+M06059,10,Rheumatoid arthritis/collagen vascular diseases
+M0606,10,Rheumatoid arthritis/collagen vascular diseases
+M06061,10,Rheumatoid arthritis/collagen vascular diseases
+M06062,10,Rheumatoid arthritis/collagen vascular diseases
+M06069,10,Rheumatoid arthritis/collagen vascular diseases
+M0607,10,Rheumatoid arthritis/collagen vascular diseases
+M06071,10,Rheumatoid arthritis/collagen vascular diseases
+M06072,10,Rheumatoid arthritis/collagen vascular diseases
+M06079,10,Rheumatoid arthritis/collagen vascular diseases
+M0608,10,Rheumatoid arthritis/collagen vascular diseases
+M0609,10,Rheumatoid arthritis/collagen vascular diseases
+M061,10,Rheumatoid arthritis/collagen vascular diseases
+M062,10,Rheumatoid arthritis/collagen vascular diseases
+M0620,10,Rheumatoid arthritis/collagen vascular diseases
+M0621,10,Rheumatoid arthritis/collagen vascular diseases
+M06211,10,Rheumatoid arthritis/collagen vascular diseases
+M06212,10,Rheumatoid arthritis/collagen vascular diseases
+M06219,10,Rheumatoid arthritis/collagen vascular diseases
+M0622,10,Rheumatoid arthritis/collagen vascular diseases
+M06221,10,Rheumatoid arthritis/collagen vascular diseases
+M06222,10,Rheumatoid arthritis/collagen vascular diseases
+M06229,10,Rheumatoid arthritis/collagen vascular diseases
+M0623,10,Rheumatoid arthritis/collagen vascular diseases
+M06231,10,Rheumatoid arthritis/collagen vascular diseases
+M06232,10,Rheumatoid arthritis/collagen vascular diseases
+M06239,10,Rheumatoid arthritis/collagen vascular diseases
+M0624,10,Rheumatoid arthritis/collagen vascular diseases
+M06241,10,Rheumatoid arthritis/collagen vascular diseases
+M06242,10,Rheumatoid arthritis/collagen vascular diseases
+M06249,10,Rheumatoid arthritis/collagen vascular diseases
+M0625,10,Rheumatoid arthritis/collagen vascular diseases
+M06251,10,Rheumatoid arthritis/collagen vascular diseases
+M06252,10,Rheumatoid arthritis/collagen vascular diseases
+M06259,10,Rheumatoid arthritis/collagen vascular diseases
+M0626,10,Rheumatoid arthritis/collagen vascular diseases
+M06261,10,Rheumatoid arthritis/collagen vascular diseases
+M06262,10,Rheumatoid arthritis/collagen vascular diseases
+M06269,10,Rheumatoid arthritis/collagen vascular diseases
+M0627,10,Rheumatoid arthritis/collagen vascular diseases
+M06271,10,Rheumatoid arthritis/collagen vascular diseases
+M06272,10,Rheumatoid arthritis/collagen vascular diseases
+M06279,10,Rheumatoid arthritis/collagen vascular diseases
+M0628,10,Rheumatoid arthritis/collagen vascular diseases
+M0629,10,Rheumatoid arthritis/collagen vascular diseases
+M063,10,Rheumatoid arthritis/collagen vascular diseases
+M0630,10,Rheumatoid arthritis/collagen vascular diseases
+M0631,10,Rheumatoid arthritis/collagen vascular diseases
+M06311,10,Rheumatoid arthritis/collagen vascular diseases
+M06312,10,Rheumatoid arthritis/collagen vascular diseases
+M06319,10,Rheumatoid arthritis/collagen vascular diseases
+M0632,10,Rheumatoid arthritis/collagen vascular diseases
+M06321,10,Rheumatoid arthritis/collagen vascular diseases
+M06322,10,Rheumatoid arthritis/collagen vascular diseases
+M06329,10,Rheumatoid arthritis/collagen vascular diseases
+M0633,10,Rheumatoid arthritis/collagen vascular diseases
+M06331,10,Rheumatoid arthritis/collagen vascular diseases
+M06332,10,Rheumatoid arthritis/collagen vascular diseases
+M06339,10,Rheumatoid arthritis/collagen vascular diseases
+M0634,10,Rheumatoid arthritis/collagen vascular diseases
+M06341,10,Rheumatoid arthritis/collagen vascular diseases
+M06349,10,Rheumatoid arthritis/collagen vascular diseases
+M0635,10,Rheumatoid arthritis/collagen vascular diseases
+M06351,10,Rheumatoid arthritis/collagen vascular diseases
+M06352,10,Rheumatoid arthritis/collagen vascular diseases
+M06359,10,Rheumatoid arthritis/collagen vascular diseases
+M0636,10,Rheumatoid arthritis/collagen vascular diseases
+M06361,10,Rheumatoid arthritis/collagen vascular diseases
+M06362,10,Rheumatoid arthritis/collagen vascular diseases
+M06369,10,Rheumatoid arthritis/collagen vascular diseases
+M0637,10,Rheumatoid arthritis/collagen vascular diseases
+M06371,10,Rheumatoid arthritis/collagen vascular diseases
+M06372,10,Rheumatoid arthritis/collagen vascular diseases
+M06379,10,Rheumatoid arthritis/collagen vascular diseases
+M0638,10,Rheumatoid arthritis/collagen vascular diseases
+M0639,10,Rheumatoid arthritis/collagen vascular diseases
+M064,10,Rheumatoid arthritis/collagen vascular diseases
+M068,10,Rheumatoid arthritis/collagen vascular diseases
+M0680,10,Rheumatoid arthritis/collagen vascular diseases
+M0681,10,Rheumatoid arthritis/collagen vascular diseases
+M06811,10,Rheumatoid arthritis/collagen vascular diseases
+M06812,10,Rheumatoid arthritis/collagen vascular diseases
+M06819,10,Rheumatoid arthritis/collagen vascular diseases
+M0682,10,Rheumatoid arthritis/collagen vascular diseases
+M06821,10,Rheumatoid arthritis/collagen vascular diseases
+M06822,10,Rheumatoid arthritis/collagen vascular diseases
+M06829,10,Rheumatoid arthritis/collagen vascular diseases
+M0683,10,Rheumatoid arthritis/collagen vascular diseases
+M06831,10,Rheumatoid arthritis/collagen vascular diseases
+M06832,10,Rheumatoid arthritis/collagen vascular diseases
+M06839,10,Rheumatoid arthritis/collagen vascular diseases
+M0684,10,Rheumatoid arthritis/collagen vascular diseases
+M06841,10,Rheumatoid arthritis/collagen vascular diseases
+M06842,10,Rheumatoid arthritis/collagen vascular diseases
+M06849,10,Rheumatoid arthritis/collagen vascular diseases
+M0685,10,Rheumatoid arthritis/collagen vascular diseases
+M06851,10,Rheumatoid arthritis/collagen vascular diseases
+M06852,10,Rheumatoid arthritis/collagen vascular diseases
+M06859,10,Rheumatoid arthritis/collagen vascular diseases
+M0686,10,Rheumatoid arthritis/collagen vascular diseases
+M06861,10,Rheumatoid arthritis/collagen vascular diseases
+M06862,10,Rheumatoid arthritis/collagen vascular diseases
+M06869,10,Rheumatoid arthritis/collagen vascular diseases
+M0687,10,Rheumatoid arthritis/collagen vascular diseases
+M06871,10,Rheumatoid arthritis/collagen vascular diseases
+M06872,10,Rheumatoid arthritis/collagen vascular diseases
+M06879,10,Rheumatoid arthritis/collagen vascular diseases
+M0688,10,Rheumatoid arthritis/collagen vascular diseases
+M0689,10,Rheumatoid arthritis/collagen vascular diseases
+M069,10,Rheumatoid arthritis/collagen vascular diseases
+M08,10,Rheumatoid arthritis/collagen vascular diseases
+M080,10,Rheumatoid arthritis/collagen vascular diseases
+M0800,10,Rheumatoid arthritis/collagen vascular diseases
+M0801,10,Rheumatoid arthritis/collagen vascular diseases
+M08011,10,Rheumatoid arthritis/collagen vascular diseases
+M08012,10,Rheumatoid arthritis/collagen vascular diseases
+M08019,10,Rheumatoid arthritis/collagen vascular diseases
+M0802,10,Rheumatoid arthritis/collagen vascular diseases
+M08021,10,Rheumatoid arthritis/collagen vascular diseases
+M08022,10,Rheumatoid arthritis/collagen vascular diseases
+M08029,10,Rheumatoid arthritis/collagen vascular diseases
+M0803,10,Rheumatoid arthritis/collagen vascular diseases
+M08031,10,Rheumatoid arthritis/collagen vascular diseases
+M08032,10,Rheumatoid arthritis/collagen vascular diseases
+M08039,10,Rheumatoid arthritis/collagen vascular diseases
+M0804,10,Rheumatoid arthritis/collagen vascular diseases
+M08041,10,Rheumatoid arthritis/collagen vascular diseases
+M08042,10,Rheumatoid arthritis/collagen vascular diseases
+M08049,10,Rheumatoid arthritis/collagen vascular diseases
+M0805,10,Rheumatoid arthritis/collagen vascular diseases
+M08051,10,Rheumatoid arthritis/collagen vascular diseases
+M08052,10,Rheumatoid arthritis/collagen vascular diseases
+M08059,10,Rheumatoid arthritis/collagen vascular diseases
+M0806,10,Rheumatoid arthritis/collagen vascular diseases
+M08061,10,Rheumatoid arthritis/collagen vascular diseases
+M08062,10,Rheumatoid arthritis/collagen vascular diseases
+M08069,10,Rheumatoid arthritis/collagen vascular diseases
+M0807,10,Rheumatoid arthritis/collagen vascular diseases
+M08071,10,Rheumatoid arthritis/collagen vascular diseases
+M08072,10,Rheumatoid arthritis/collagen vascular diseases
+M08079,10,Rheumatoid arthritis/collagen vascular diseases
+M0808,10,Rheumatoid arthritis/collagen vascular diseases
+M0809,10,Rheumatoid arthritis/collagen vascular diseases
+M081,10,Rheumatoid arthritis/collagen vascular diseases
+M082,10,Rheumatoid arthritis/collagen vascular diseases
+M0820,10,Rheumatoid arthritis/collagen vascular diseases
+M0821,10,Rheumatoid arthritis/collagen vascular diseases
+M08211,10,Rheumatoid arthritis/collagen vascular diseases
+M08212,10,Rheumatoid arthritis/collagen vascular diseases
+M08219,10,Rheumatoid arthritis/collagen vascular diseases
+M0822,10,Rheumatoid arthritis/collagen vascular diseases
+M08221,10,Rheumatoid arthritis/collagen vascular diseases
+M08222,10,Rheumatoid arthritis/collagen vascular diseases
+M08229,10,Rheumatoid arthritis/collagen vascular diseases
+M0823,10,Rheumatoid arthritis/collagen vascular diseases
+M08231,10,Rheumatoid arthritis/collagen vascular diseases
+M08232,10,Rheumatoid arthritis/collagen vascular diseases
+M08239,10,Rheumatoid arthritis/collagen vascular diseases
+M0824,10,Rheumatoid arthritis/collagen vascular diseases
+M08241,10,Rheumatoid arthritis/collagen vascular diseases
+M08242,10,Rheumatoid arthritis/collagen vascular diseases
+M08249,10,Rheumatoid arthritis/collagen vascular diseases
+M0825,10,Rheumatoid arthritis/collagen vascular diseases
+M08251,10,Rheumatoid arthritis/collagen vascular diseases
+M08252,10,Rheumatoid arthritis/collagen vascular diseases
+M08259,10,Rheumatoid arthritis/collagen vascular diseases
+M0826,10,Rheumatoid arthritis/collagen vascular diseases
+M08261,10,Rheumatoid arthritis/collagen vascular diseases
+M08262,10,Rheumatoid arthritis/collagen vascular diseases
+M08269,10,Rheumatoid arthritis/collagen vascular diseases
+M0827,10,Rheumatoid arthritis/collagen vascular diseases
+M08271,10,Rheumatoid arthritis/collagen vascular diseases
+M08272,10,Rheumatoid arthritis/collagen vascular diseases
+M08279,10,Rheumatoid arthritis/collagen vascular diseases
+M0828,10,Rheumatoid arthritis/collagen vascular diseases
+M0829,10,Rheumatoid arthritis/collagen vascular diseases
+M083,10,Rheumatoid arthritis/collagen vascular diseases
+M084,10,Rheumatoid arthritis/collagen vascular diseases
+M0840,10,Rheumatoid arthritis/collagen vascular diseases
+M0841,10,Rheumatoid arthritis/collagen vascular diseases
+M08411,10,Rheumatoid arthritis/collagen vascular diseases
+M08412,10,Rheumatoid arthritis/collagen vascular diseases
+M08419,10,Rheumatoid arthritis/collagen vascular diseases
+M0842,10,Rheumatoid arthritis/collagen vascular diseases
+M08421,10,Rheumatoid arthritis/collagen vascular diseases
+M08422,10,Rheumatoid arthritis/collagen vascular diseases
+M08429,10,Rheumatoid arthritis/collagen vascular diseases
+M0843,10,Rheumatoid arthritis/collagen vascular diseases
+M08431,10,Rheumatoid arthritis/collagen vascular diseases
+M08432,10,Rheumatoid arthritis/collagen vascular diseases
+M08439,10,Rheumatoid arthritis/collagen vascular diseases
+M0844,10,Rheumatoid arthritis/collagen vascular diseases
+M08441,10,Rheumatoid arthritis/collagen vascular diseases
+M08442,10,Rheumatoid arthritis/collagen vascular diseases
+M08449,10,Rheumatoid arthritis/collagen vascular diseases
+M0845,10,Rheumatoid arthritis/collagen vascular diseases
+M08451,10,Rheumatoid arthritis/collagen vascular diseases
+M08452,10,Rheumatoid arthritis/collagen vascular diseases
+M08459,10,Rheumatoid arthritis/collagen vascular diseases
+M0846,10,Rheumatoid arthritis/collagen vascular diseases
+M08461,10,Rheumatoid arthritis/collagen vascular diseases
+M08462,10,Rheumatoid arthritis/collagen vascular diseases
+M08469,10,Rheumatoid arthritis/collagen vascular diseases
+M0847,10,Rheumatoid arthritis/collagen vascular diseases
+M08471,10,Rheumatoid arthritis/collagen vascular diseases
+M08472,10,Rheumatoid arthritis/collagen vascular diseases
+M08479,10,Rheumatoid arthritis/collagen vascular diseases
+M0848,10,Rheumatoid arthritis/collagen vascular diseases
+M088,10,Rheumatoid arthritis/collagen vascular diseases
+M0880,10,Rheumatoid arthritis/collagen vascular diseases
+M0881,10,Rheumatoid arthritis/collagen vascular diseases
+M08811,10,Rheumatoid arthritis/collagen vascular diseases
+M08812,10,Rheumatoid arthritis/collagen vascular diseases
+M08819,10,Rheumatoid arthritis/collagen vascular diseases
+M0882,10,Rheumatoid arthritis/collagen vascular diseases
+M08821,10,Rheumatoid arthritis/collagen vascular diseases
+M08822,10,Rheumatoid arthritis/collagen vascular diseases
+M08829,10,Rheumatoid arthritis/collagen vascular diseases
+M0883,10,Rheumatoid arthritis/collagen vascular diseases
+M08831,10,Rheumatoid arthritis/collagen vascular diseases
+M08832,10,Rheumatoid arthritis/collagen vascular diseases
+M08839,10,Rheumatoid arthritis/collagen vascular diseases
+M0884,10,Rheumatoid arthritis/collagen vascular diseases
+M08841,10,Rheumatoid arthritis/collagen vascular diseases
+M08842,10,Rheumatoid arthritis/collagen vascular diseases
+M08849,10,Rheumatoid arthritis/collagen vascular diseases
+M0885,10,Rheumatoid arthritis/collagen vascular diseases
+M08851,10,Rheumatoid arthritis/collagen vascular diseases
+M08852,10,Rheumatoid arthritis/collagen vascular diseases
+M08859,10,Rheumatoid arthritis/collagen vascular diseases
+M0886,10,Rheumatoid arthritis/collagen vascular diseases
+M08861,10,Rheumatoid arthritis/collagen vascular diseases
+M08862,10,Rheumatoid arthritis/collagen vascular diseases
+M08869,10,Rheumatoid arthritis/collagen vascular diseases
+M0887,10,Rheumatoid arthritis/collagen vascular diseases
+M08871,10,Rheumatoid arthritis/collagen vascular diseases
+M08872,10,Rheumatoid arthritis/collagen vascular diseases
+M08879,10,Rheumatoid arthritis/collagen vascular diseases
+M0888,10,Rheumatoid arthritis/collagen vascular diseases
+M0889,10,Rheumatoid arthritis/collagen vascular diseases
+M089,10,Rheumatoid arthritis/collagen vascular diseases
+M0890,10,Rheumatoid arthritis/collagen vascular diseases
+M0891,10,Rheumatoid arthritis/collagen vascular diseases
+M08911,10,Rheumatoid arthritis/collagen vascular diseases
+M08912,10,Rheumatoid arthritis/collagen vascular diseases
+M08919,10,Rheumatoid arthritis/collagen vascular diseases
+M0892,10,Rheumatoid arthritis/collagen vascular diseases
+M08921,10,Rheumatoid arthritis/collagen vascular diseases
+M08922,10,Rheumatoid arthritis/collagen vascular diseases
+M08929,10,Rheumatoid arthritis/collagen vascular diseases
+M0893,10,Rheumatoid arthritis/collagen vascular diseases
+M08931,10,Rheumatoid arthritis/collagen vascular diseases
+M08932,10,Rheumatoid arthritis/collagen vascular diseases
+M08939,10,Rheumatoid arthritis/collagen vascular diseases
+M0894,10,Rheumatoid arthritis/collagen vascular diseases
+M08941,10,Rheumatoid arthritis/collagen vascular diseases
+M08942,10,Rheumatoid arthritis/collagen vascular diseases
+M08949,10,Rheumatoid arthritis/collagen vascular diseases
+M0895,10,Rheumatoid arthritis/collagen vascular diseases
+M08951,10,Rheumatoid arthritis/collagen vascular diseases
+M08952,10,Rheumatoid arthritis/collagen vascular diseases
+M08959,10,Rheumatoid arthritis/collagen vascular diseases
+M0896,10,Rheumatoid arthritis/collagen vascular diseases
+M08961,10,Rheumatoid arthritis/collagen vascular diseases
+M08962,10,Rheumatoid arthritis/collagen vascular diseases
+M08969,10,Rheumatoid arthritis/collagen vascular diseases
+M0897,10,Rheumatoid arthritis/collagen vascular diseases
+M08971,10,Rheumatoid arthritis/collagen vascular diseases
+M08972,10,Rheumatoid arthritis/collagen vascular diseases
+M08979,10,Rheumatoid arthritis/collagen vascular diseases
+M0898,10,Rheumatoid arthritis/collagen vascular diseases
+M0899,10,Rheumatoid arthritis/collagen vascular diseases
+M120,10,Rheumatoid arthritis/collagen vascular diseases
+M1200,10,Rheumatoid arthritis/collagen vascular diseases
+M1201,10,Rheumatoid arthritis/collagen vascular diseases
+M12011,10,Rheumatoid arthritis/collagen vascular diseases
+M12012,10,Rheumatoid arthritis/collagen vascular diseases
+M12019,10,Rheumatoid arthritis/collagen vascular diseases
+M1202,10,Rheumatoid arthritis/collagen vascular diseases
+M12021,10,Rheumatoid arthritis/collagen vascular diseases
+M12022,10,Rheumatoid arthritis/collagen vascular diseases
+M12029,10,Rheumatoid arthritis/collagen vascular diseases
+M1203,10,Rheumatoid arthritis/collagen vascular diseases
+M12031,10,Rheumatoid arthritis/collagen vascular diseases
+M12032,10,Rheumatoid arthritis/collagen vascular diseases
+M12039,10,Rheumatoid arthritis/collagen vascular diseases
+M1204,10,Rheumatoid arthritis/collagen vascular diseases
+M12041,10,Rheumatoid arthritis/collagen vascular diseases
+M12042,10,Rheumatoid arthritis/collagen vascular diseases
+M12049,10,Rheumatoid arthritis/collagen vascular diseases
+M1205,10,Rheumatoid arthritis/collagen vascular diseases
+M12051,10,Rheumatoid arthritis/collagen vascular diseases
+M12052,10,Rheumatoid arthritis/collagen vascular diseases
+M12059,10,Rheumatoid arthritis/collagen vascular diseases
+M1206,10,Rheumatoid arthritis/collagen vascular diseases
+M12061,10,Rheumatoid arthritis/collagen vascular diseases
+M12062,10,Rheumatoid arthritis/collagen vascular diseases
+M12069,10,Rheumatoid arthritis/collagen vascular diseases
+M1207,10,Rheumatoid arthritis/collagen vascular diseases
+M12071,10,Rheumatoid arthritis/collagen vascular diseases
+M12072,10,Rheumatoid arthritis/collagen vascular diseases
+M12079,10,Rheumatoid arthritis/collagen vascular diseases
+M1208,10,Rheumatoid arthritis/collagen vascular diseases
+M1209,10,Rheumatoid arthritis/collagen vascular diseases
+M123,10,Rheumatoid arthritis/collagen vascular diseases
+M1230,10,Rheumatoid arthritis/collagen vascular diseases
+M1231,10,Rheumatoid arthritis/collagen vascular diseases
+M12311,10,Rheumatoid arthritis/collagen vascular diseases
+M12312,10,Rheumatoid arthritis/collagen vascular diseases
+M12319,10,Rheumatoid arthritis/collagen vascular diseases
+M1232,10,Rheumatoid arthritis/collagen vascular diseases
+M12321,10,Rheumatoid arthritis/collagen vascular diseases
+M12322,10,Rheumatoid arthritis/collagen vascular diseases
+M12329,10,Rheumatoid arthritis/collagen vascular diseases
+M1233,10,Rheumatoid arthritis/collagen vascular diseases
+M12331,10,Rheumatoid arthritis/collagen vascular diseases
+M12332,10,Rheumatoid arthritis/collagen vascular diseases
+M12339,10,Rheumatoid arthritis/collagen vascular diseases
+M1234,10,Rheumatoid arthritis/collagen vascular diseases
+M12341,10,Rheumatoid arthritis/collagen vascular diseases
+M12342,10,Rheumatoid arthritis/collagen vascular diseases
+M12349,10,Rheumatoid arthritis/collagen vascular diseases
+M1235,10,Rheumatoid arthritis/collagen vascular diseases
+M12351,10,Rheumatoid arthritis/collagen vascular diseases
+M12352,10,Rheumatoid arthritis/collagen vascular diseases
+M12359,10,Rheumatoid arthritis/collagen vascular diseases
+M1236,10,Rheumatoid arthritis/collagen vascular diseases
+M12361,10,Rheumatoid arthritis/collagen vascular diseases
+M12362,10,Rheumatoid arthritis/collagen vascular diseases
+M12369,10,Rheumatoid arthritis/collagen vascular diseases
+M1237,10,Rheumatoid arthritis/collagen vascular diseases
+M12371,10,Rheumatoid arthritis/collagen vascular diseases
+M12372,10,Rheumatoid arthritis/collagen vascular diseases
+M12379,10,Rheumatoid arthritis/collagen vascular diseases
+M1238,10,Rheumatoid arthritis/collagen vascular diseases
+M1239,10,Rheumatoid arthritis/collagen vascular diseases
+M30,10,Rheumatoid arthritis/collagen vascular diseases
+M300,10,Rheumatoid arthritis/collagen vascular diseases
+M301,10,Rheumatoid arthritis/collagen vascular diseases
+M302,10,Rheumatoid arthritis/collagen vascular diseases
+M303,10,Rheumatoid arthritis/collagen vascular diseases
+M308,10,Rheumatoid arthritis/collagen vascular diseases
+M310,10,Rheumatoid arthritis/collagen vascular diseases
+M311,10,Rheumatoid arthritis/collagen vascular diseases
+M312,10,Rheumatoid arthritis/collagen vascular diseases
+M313,10,Rheumatoid arthritis/collagen vascular diseases
+M3130,10,Rheumatoid arthritis/collagen vascular diseases
+M3131,10,Rheumatoid arthritis/collagen vascular diseases
+M32,10,Rheumatoid arthritis/collagen vascular diseases
+M320,10,Rheumatoid arthritis/collagen vascular diseases
+M321,10,Rheumatoid arthritis/collagen vascular diseases
+M3210,10,Rheumatoid arthritis/collagen vascular diseases
+M3211,10,Rheumatoid arthritis/collagen vascular diseases
+M3212,10,Rheumatoid arthritis/collagen vascular diseases
+M3213,10,Rheumatoid arthritis/collagen vascular diseases
+M3214,10,Rheumatoid arthritis/collagen vascular diseases
+M3215,10,Rheumatoid arthritis/collagen vascular diseases
+M3219,10,Rheumatoid arthritis/collagen vascular diseases
+M328,10,Rheumatoid arthritis/collagen vascular diseases
+M329,10,Rheumatoid arthritis/collagen vascular diseases
+M33,10,Rheumatoid arthritis/collagen vascular diseases
+M330,10,Rheumatoid arthritis/collagen vascular diseases
+M3300,10,Rheumatoid arthritis/collagen vascular diseases
+M3301,10,Rheumatoid arthritis/collagen vascular diseases
+M3302,10,Rheumatoid arthritis/collagen vascular diseases
+M3303,10,Rheumatoid arthritis/collagen vascular diseases
+M3309,10,Rheumatoid arthritis/collagen vascular diseases
+M331,10,Rheumatoid arthritis/collagen vascular diseases
+M3310,10,Rheumatoid arthritis/collagen vascular diseases
+M3311,10,Rheumatoid arthritis/collagen vascular diseases
+M3312,10,Rheumatoid arthritis/collagen vascular diseases
+M3313,10,Rheumatoid arthritis/collagen vascular diseases
+M3319,10,Rheumatoid arthritis/collagen vascular diseases
+M332,10,Rheumatoid arthritis/collagen vascular diseases
+M3320,10,Rheumatoid arthritis/collagen vascular diseases
+M3321,10,Rheumatoid arthritis/collagen vascular diseases
+M3322,10,Rheumatoid arthritis/collagen vascular diseases
+M3329,10,Rheumatoid arthritis/collagen vascular diseases
+M339,10,Rheumatoid arthritis/collagen vascular diseases
+M3390,10,Rheumatoid arthritis/collagen vascular diseases
+M3391,10,Rheumatoid arthritis/collagen vascular diseases
+M3392,10,Rheumatoid arthritis/collagen vascular diseases
+M3393,10,Rheumatoid arthritis/collagen vascular diseases
+M3399,10,Rheumatoid arthritis/collagen vascular diseases
+M34,10,Rheumatoid arthritis/collagen vascular diseases
+M340,10,Rheumatoid arthritis/collagen vascular diseases
+M341,10,Rheumatoid arthritis/collagen vascular diseases
+M342,10,Rheumatoid arthritis/collagen vascular diseases
+M348,10,Rheumatoid arthritis/collagen vascular diseases
+M3481,10,Rheumatoid arthritis/collagen vascular diseases
+M3482,10,Rheumatoid arthritis/collagen vascular diseases
+M3483,10,Rheumatoid arthritis/collagen vascular diseases
+M3489,10,Rheumatoid arthritis/collagen vascular diseases
+M349,10,Rheumatoid arthritis/collagen vascular diseases
+M35,10,Rheumatoid arthritis/collagen vascular diseases
+M350,10,Rheumatoid arthritis/collagen vascular diseases
+M3500,10,Rheumatoid arthritis/collagen vascular diseases
+M3501,10,Rheumatoid arthritis/collagen vascular diseases
+M3502,10,Rheumatoid arthritis/collagen vascular diseases
+M3503,10,Rheumatoid arthritis/collagen vascular diseases
+M3504,10,Rheumatoid arthritis/collagen vascular diseases
+M3509,10,Rheumatoid arthritis/collagen vascular diseases
+M351,10,Rheumatoid arthritis/collagen vascular diseases
+M352,10,Rheumatoid arthritis/collagen vascular diseases
+M353,10,Rheumatoid arthritis/collagen vascular diseases
+M354,10,Rheumatoid arthritis/collagen vascular diseases
+M355,10,Rheumatoid arthritis/collagen vascular diseases
+M356,10,Rheumatoid arthritis/collagen vascular diseases
+M357,10,Rheumatoid arthritis/collagen vascular diseases
+M358,10,Rheumatoid arthritis/collagen vascular diseases
+M359,10,Rheumatoid arthritis/collagen vascular diseases
+M45,10,Rheumatoid arthritis/collagen vascular diseases
+M450,10,Rheumatoid arthritis/collagen vascular diseases
+M451,10,Rheumatoid arthritis/collagen vascular diseases
+M452,10,Rheumatoid arthritis/collagen vascular diseases
+M453,10,Rheumatoid arthritis/collagen vascular diseases
+M454,10,Rheumatoid arthritis/collagen vascular diseases
+M455,10,Rheumatoid arthritis/collagen vascular diseases
+M456,10,Rheumatoid arthritis/collagen vascular diseases
+M457,10,Rheumatoid arthritis/collagen vascular diseases
+M458,10,Rheumatoid arthritis/collagen vascular diseases
+M459,10,Rheumatoid arthritis/collagen vascular diseases
+M461,10,Rheumatoid arthritis/collagen vascular diseases
+M468,10,Rheumatoid arthritis/collagen vascular diseases
+M4680,10,Rheumatoid arthritis/collagen vascular diseases
+M4681,10,Rheumatoid arthritis/collagen vascular diseases
+M4682,10,Rheumatoid arthritis/collagen vascular diseases
+M4683,10,Rheumatoid arthritis/collagen vascular diseases
+M4684,10,Rheumatoid arthritis/collagen vascular diseases
+M4685,10,Rheumatoid arthritis/collagen vascular diseases
+M4686,10,Rheumatoid arthritis/collagen vascular diseases
+M4687,10,Rheumatoid arthritis/collagen vascular diseases
+M4688,10,Rheumatoid arthritis/collagen vascular diseases
+M4689,10,Rheumatoid arthritis/collagen vascular diseases
+M469,10,Rheumatoid arthritis/collagen vascular diseases
+M4690,10,Rheumatoid arthritis/collagen vascular diseases
+M4691,10,Rheumatoid arthritis/collagen vascular diseases
+M4692,10,Rheumatoid arthritis/collagen vascular diseases
+M4693,10,Rheumatoid arthritis/collagen vascular diseases
+M4694,10,Rheumatoid arthritis/collagen vascular diseases
+M4695,10,Rheumatoid arthritis/collagen vascular diseases
+M4696,10,Rheumatoid arthritis/collagen vascular diseases
+M4697,10,Rheumatoid arthritis/collagen vascular diseases
+M4698,10,Rheumatoid arthritis/collagen vascular diseases
+M4699,10,Rheumatoid arthritis/collagen vascular diseases
+2860,9,Coagulopathy
+2861,9,Coagulopathy
+2862,9,Coagulopathy
+2863,9,Coagulopathy
+2864,9,Coagulopathy
+2865,9,Coagulopathy
+28652,9,Coagulopathy
+28653,9,Coagulopathy
+28659,9,Coagulopathy
+2866,9,Coagulopathy
+2867,9,Coagulopathy
+2869,9,Coagulopathy
+2871,9,Coagulopathy
+28730,9,Coagulopathy
+28731,9,Coagulopathy
+28732,9,Coagulopathy
+28733,9,Coagulopathy
+28739,9,Coagulopathy
+2874,9,Coagulopathy
+28741,9,Coagulopathy
+28749,9,Coagulopathy
+2875,9,Coagulopathy
+D65,10,Coagulopathy
+D66,10,Coagulopathy
+D67,10,Coagulopathy
+D68,10,Coagulopathy
+D682,10,Coagulopathy
+D683,10,Coagulopathy
+D6831,10,Coagulopathy
+D68311,10,Coagulopathy
+D68312,10,Coagulopathy
+D68318,10,Coagulopathy
+D6832,10,Coagulopathy
+D684,10,Coagulopathy
+D685,10,Coagulopathy
+D6851,10,Coagulopathy
+D6852,10,Coagulopathy
+D6859,10,Coagulopathy
+D686,10,Coagulopathy
+D6861,10,Coagulopathy
+D6862,10,Coagulopathy
+D6869,10,Coagulopathy
+D688,10,Coagulopathy
+D689,10,Coagulopathy
+D680,10,Coagulopathy
+D681,10,Coagulopathy
+D691,10,Coagulopathy
+D693,10,Coagulopathy
+D694,10,Coagulopathy
+D6941,10,Coagulopathy
+D6942,10,Coagulopathy
+D6949,10,Coagulopathy
+D695,10,Coagulopathy
+D6951,10,Coagulopathy
+D6959,10,Coagulopathy
+D696,10,Coagulopathy
+27800,9,Obesity
+27801,9,Obesity
+27802,9,Obesity
+27803,9,Obesity
+E66,10,Obesity
+E660,10,Obesity
+E6601,10,Obesity
+E6609,10,Obesity
+E661,10,Obesity
+E662,10,Obesity
+E663,10,Obesity
+E668,10,Obesity
+E669,10,Obesity
+260,9,Weight loss
+261,9,Weight loss
+262,9,Weight loss
+2630,9,Weight loss
+2631,9,Weight loss
+2632,9,Weight loss
+2638,9,Weight loss
+2639,9,Weight loss
+78321,9,Weight loss
+78322,9,Weight loss
+7994,9,Weight loss
+E40,10,Weight loss
+E41,10,Weight loss
+E42,10,Weight loss
+E43,10,Weight loss
+E44,10,Weight loss
+E440,10,Weight loss
+E441,10,Weight loss
+E45,10,Weight loss
+E46,10,Weight loss
+R634,10,Weight loss
+R64,10,Weight loss
+2536,9,Fluid and electrolyte disorders
+2760,9,Fluid and electrolyte disorders
+2761,9,Fluid and electrolyte disorders
+2762,9,Fluid and electrolyte disorders
+2763,9,Fluid and electrolyte disorders
+2764,9,Fluid and electrolyte disorders
+27650,9,Fluid and electrolyte disorders
+27651,9,Fluid and electrolyte disorders
+27652,9,Fluid and electrolyte disorders
+2766,9,Fluid and electrolyte disorders
+27661,9,Fluid and electrolyte disorders
+27669,9,Fluid and electrolyte disorders
+2767,9,Fluid and electrolyte disorders
+2768,9,Fluid and electrolyte disorders
+2769,9,Fluid and electrolyte disorders
+E222,10,Fluid and electrolyte disorders
+E86,10,Fluid and electrolyte disorders
+E860,10,Fluid and electrolyte disorders
+E861,10,Fluid and electrolyte disorders
+E869,10,Fluid and electrolyte disorders
+E87,10,Fluid and electrolyte disorders
+E870,10,Fluid and electrolyte disorders
+E871,10,Fluid and electrolyte disorders
+E872,10,Fluid and electrolyte disorders
+E873,10,Fluid and electrolyte disorders
+E874,10,Fluid and electrolyte disorders
+E875,10,Fluid and electrolyte disorders
+E876,10,Fluid and electrolyte disorders
+E877,10,Fluid and electrolyte disorders
+E8770,10,Fluid and electrolyte disorders
+E8771,10,Fluid and electrolyte disorders
+E8779,10,Fluid and electrolyte disorders
+E878,10,Fluid and electrolyte disorders
+2800,9,Blood loss anaemia
+D500,10,Blood loss anaemia
+2801,9,Deficiency anaemia
+2808,9,Deficiency anaemia
+2809,9,Deficiency anaemia
+2810,9,Deficiency anaemia
+2811,9,Deficiency anaemia
+2812,9,Deficiency anaemia
+2813,9,Deficiency anaemia
+2814,9,Deficiency anaemia
+2818,9,Deficiency anaemia
+2819,9,Deficiency anaemia
+D508,10,Deficiency anaemia
+D509,10,Deficiency anaemia
+D51,10,Deficiency anaemia
+D510,10,Deficiency anaemia
+D511,10,Deficiency anaemia
+D512,10,Deficiency anaemia
+D513,10,Deficiency anaemia
+D518,10,Deficiency anaemia
+D519,10,Deficiency anaemia
+D52,10,Deficiency anaemia
+D520,10,Deficiency anaemia
+D521,10,Deficiency anaemia
+D528,10,Deficiency anaemia
+D529,10,Deficiency anaemia
+D53,10,Deficiency anaemia
+D530,10,Deficiency anaemia
+D531,10,Deficiency anaemia
+D532,10,Deficiency anaemia
+D538,10,Deficiency anaemia
+D539,10,Deficiency anaemia
+2652,9,Alcohol abuse
+2911,9,Alcohol abuse
+2912,9,Alcohol abuse
+2913,9,Alcohol abuse
+2915,9,Alcohol abuse
+29181,9,Alcohol abuse
+29182,9,Alcohol abuse
+29189,9,Alcohol abuse
+2919,9,Alcohol abuse
+30300,9,Alcohol abuse
+30301,9,Alcohol abuse
+30302,9,Alcohol abuse
+30303,9,Alcohol abuse
+30390,9,Alcohol abuse
+30391,9,Alcohol abuse
+30392,9,Alcohol abuse
+30393,9,Alcohol abuse
+30500,9,Alcohol abuse
+30501,9,Alcohol abuse
+30502,9,Alcohol abuse
+30503,9,Alcohol abuse
+3575,9,Alcohol abuse
+4255,9,Alcohol abuse
+53530,9,Alcohol abuse
+53531,9,Alcohol abuse
+5710,9,Alcohol abuse
+5711,9,Alcohol abuse
+5712,9,Alcohol abuse
+5713,9,Alcohol abuse
+9800,9,Alcohol abuse
+9801,9,Alcohol abuse
+9802,9,Alcohol abuse
+9803,9,Alcohol abuse
+9808,9,Alcohol abuse
+9809,9,Alcohol abuse
+V113,9,Alcohol abuse
+F10,10,Alcohol abuse
+F101,10,Alcohol abuse
+F1010,10,Alcohol abuse
+F1011,10,Alcohol abuse
+F1012,10,Alcohol abuse
+F10120,10,Alcohol abuse
+F10121,10,Alcohol abuse
+F10129,10,Alcohol abuse
+F1014,10,Alcohol abuse
+F1015,10,Alcohol abuse
+F10150,10,Alcohol abuse
+F10151,10,Alcohol abuse
+F10159,10,Alcohol abuse
+F1018,10,Alcohol abuse
+F10180,10,Alcohol abuse
+F10181,10,Alcohol abuse
+F10182,10,Alcohol abuse
+F10188,10,Alcohol abuse
+F1019,10,Alcohol abuse
+F102,10,Alcohol abuse
+F1020,10,Alcohol abuse
+F1021,10,Alcohol abuse
+F1022,10,Alcohol abuse
+F10220,10,Alcohol abuse
+F10221,10,Alcohol abuse
+F10229,10,Alcohol abuse
+F1023,10,Alcohol abuse
+F10230,10,Alcohol abuse
+F10231,10,Alcohol abuse
+F10232,10,Alcohol abuse
+F10239,10,Alcohol abuse
+F1024,10,Alcohol abuse
+F1025,10,Alcohol abuse
+F10250,10,Alcohol abuse
+F10251,10,Alcohol abuse
+F10259,10,Alcohol abuse
+F1026,10,Alcohol abuse
+F1027,10,Alcohol abuse
+F1028,10,Alcohol abuse
+F10280,10,Alcohol abuse
+F10281,10,Alcohol abuse
+F10282,10,Alcohol abuse
+F10288,10,Alcohol abuse
+F1029,10,Alcohol abuse
+F109,10,Alcohol abuse
+F1092,10,Alcohol abuse
+F10920,10,Alcohol abuse
+F10921,10,Alcohol abuse
+F10929,10,Alcohol abuse
+F1094,10,Alcohol abuse
+F1095,10,Alcohol abuse
+F10950,10,Alcohol abuse
+F10951,10,Alcohol abuse
+F10959,10,Alcohol abuse
+F1096,10,Alcohol abuse
+F1097,10,Alcohol abuse
+F1098,10,Alcohol abuse
+F10980,10,Alcohol abuse
+F10981,10,Alcohol abuse
+F10982,10,Alcohol abuse
+F10988,10,Alcohol abuse
+F1099,10,Alcohol abuse
+E52,10,Alcohol abuse
+G621,10,Alcohol abuse
+I426,10,Alcohol abuse
+K292,10,Alcohol abuse
+K2920,10,Alcohol abuse
+K2921,10,Alcohol abuse
+K700,10,Alcohol abuse
+K703,10,Alcohol abuse
+K7030,10,Alcohol abuse
+K7031,10,Alcohol abuse
+K709,10,Alcohol abuse
+T512,10,Alcohol abuse
+T512X,10,Alcohol abuse
+T51,10,Alcohol abuse
+T510,10,Alcohol abuse
+T510X,10,Alcohol abuse
+T510X1,10,Alcohol abuse
+T510X1A,10,Alcohol abuse
+T510X1D,10,Alcohol abuse
+T510X1S,10,Alcohol abuse
+T510X2,10,Alcohol abuse
+T510X2A,10,Alcohol abuse
+T510X2D,10,Alcohol abuse
+T510X2S,10,Alcohol abuse
+T510X3,10,Alcohol abuse
+T510X3A,10,Alcohol abuse
+T510X3D,10,Alcohol abuse
+T510X3S,10,Alcohol abuse
+T510X4,10,Alcohol abuse
+T510X4A,10,Alcohol abuse
+T510X4D,10,Alcohol abuse
+T510X4S,10,Alcohol abuse
+T511,10,Alcohol abuse
+T511X,10,Alcohol abuse
+T511X1,10,Alcohol abuse
+T511X1A,10,Alcohol abuse
+T511X1D,10,Alcohol abuse
+T511X1S,10,Alcohol abuse
+T511X2,10,Alcohol abuse
+T511X2A,10,Alcohol abuse
+T511X2D,10,Alcohol abuse
+T511X2S,10,Alcohol abuse
+T511X3,10,Alcohol abuse
+T511X3A,10,Alcohol abuse
+T511X3D,10,Alcohol abuse
+T511X3S,10,Alcohol abuse
+T511X4,10,Alcohol abuse
+T511X4A,10,Alcohol abuse
+T511X4D,10,Alcohol abuse
+T511X4S,10,Alcohol abuse
+T512X1,10,Alcohol abuse
+T512X1A,10,Alcohol abuse
+T512X1D,10,Alcohol abuse
+T512X1S,10,Alcohol abuse
+T512X2,10,Alcohol abuse
+T512X2A,10,Alcohol abuse
+T512X2D,10,Alcohol abuse
+T512X2S,10,Alcohol abuse
+T512X3,10,Alcohol abuse
+T512X3A,10,Alcohol abuse
+T512X3D,10,Alcohol abuse
+T512X3S,10,Alcohol abuse
+T512X4,10,Alcohol abuse
+T512X4A,10,Alcohol abuse
+T512X4D,10,Alcohol abuse
+T512X4S,10,Alcohol abuse
+T513,10,Alcohol abuse
+T513X,10,Alcohol abuse
+T513X1,10,Alcohol abuse
+T513X1A,10,Alcohol abuse
+T513X1D,10,Alcohol abuse
+T513X1S,10,Alcohol abuse
+T513X2,10,Alcohol abuse
+T513X2A,10,Alcohol abuse
+T513X2D,10,Alcohol abuse
+T513X2S,10,Alcohol abuse
+T513X3,10,Alcohol abuse
+T513X3A,10,Alcohol abuse
+T513X3D,10,Alcohol abuse
+T513X3S,10,Alcohol abuse
+T513X4,10,Alcohol abuse
+T513X4A,10,Alcohol abuse
+T513X4D,10,Alcohol abuse
+T513X4S,10,Alcohol abuse
+T518,10,Alcohol abuse
+T518X,10,Alcohol abuse
+T518X1,10,Alcohol abuse
+T518X1A,10,Alcohol abuse
+T518X1D,10,Alcohol abuse
+T518X1S,10,Alcohol abuse
+T518X2,10,Alcohol abuse
+T518X2A,10,Alcohol abuse
+T518X2D,10,Alcohol abuse
+T518X2S,10,Alcohol abuse
+T518X3,10,Alcohol abuse
+T518X3A,10,Alcohol abuse
+T518X3D,10,Alcohol abuse
+T518X3S,10,Alcohol abuse
+T518X4,10,Alcohol abuse
+T518X4A,10,Alcohol abuse
+T518X4D,10,Alcohol abuse
+T518X4S,10,Alcohol abuse
+T519,10,Alcohol abuse
+T5191,10,Alcohol abuse
+T5191XA,10,Alcohol abuse
+T5191XD,10,Alcohol abuse
+T5191XS,10,Alcohol abuse
+T5192,10,Alcohol abuse
+T5192XA,10,Alcohol abuse
+T5192XD,10,Alcohol abuse
+T5192XS,10,Alcohol abuse
+T5193,10,Alcohol abuse
+T5193XA,10,Alcohol abuse
+T5193XD,10,Alcohol abuse
+T5193XS,10,Alcohol abuse
+T5194,10,Alcohol abuse
+T5194XA,10,Alcohol abuse
+T5194XD,10,Alcohol abuse
+T5194XS,10,Alcohol abuse
+Z502,10,Alcohol abuse
+Z714,10,Alcohol abuse
+Z7141,10,Alcohol abuse
+Z7142,10,Alcohol abuse
+Z721,10,Alcohol abuse
+2920,9,Drug abuse
+29211,9,Drug abuse
+29212,9,Drug abuse
+2922,9,Drug abuse
+29281,9,Drug abuse
+29282,9,Drug abuse
+29283,9,Drug abuse
+29284,9,Drug abuse
+29285,9,Drug abuse
+29289,9,Drug abuse
+2929,9,Drug abuse
+30400,9,Drug abuse
+30401,9,Drug abuse
+30402,9,Drug abuse
+30403,9,Drug abuse
+30410,9,Drug abuse
+30411,9,Drug abuse
+30412,9,Drug abuse
+30413,9,Drug abuse
+30420,9,Drug abuse
+30421,9,Drug abuse
+30422,9,Drug abuse
+30423,9,Drug abuse
+30430,9,Drug abuse
+30431,9,Drug abuse
+30432,9,Drug abuse
+30433,9,Drug abuse
+30440,9,Drug abuse
+30441,9,Drug abuse
+30442,9,Drug abuse
+30443,9,Drug abuse
+30450,9,Drug abuse
+30451,9,Drug abuse
+30452,9,Drug abuse
+30453,9,Drug abuse
+30460,9,Drug abuse
+30461,9,Drug abuse
+30462,9,Drug abuse
+30463,9,Drug abuse
+30470,9,Drug abuse
+30471,9,Drug abuse
+30472,9,Drug abuse
+30473,9,Drug abuse
+30480,9,Drug abuse
+30481,9,Drug abuse
+30482,9,Drug abuse
+30483,9,Drug abuse
+30490,9,Drug abuse
+30491,9,Drug abuse
+30492,9,Drug abuse
+30493,9,Drug abuse
+30520,9,Drug abuse
+30521,9,Drug abuse
+30522,9,Drug abuse
+30523,9,Drug abuse
+30530,9,Drug abuse
+30531,9,Drug abuse
+30532,9,Drug abuse
+30533,9,Drug abuse
+30540,9,Drug abuse
+30541,9,Drug abuse
+30542,9,Drug abuse
+30543,9,Drug abuse
+30550,9,Drug abuse
+30551,9,Drug abuse
+30552,9,Drug abuse
+30553,9,Drug abuse
+30560,9,Drug abuse
+30561,9,Drug abuse
+30562,9,Drug abuse
+30563,9,Drug abuse
+30570,9,Drug abuse
+30571,9,Drug abuse
+30572,9,Drug abuse
+30573,9,Drug abuse
+30580,9,Drug abuse
+30581,9,Drug abuse
+30582,9,Drug abuse
+30583,9,Drug abuse
+30590,9,Drug abuse
+30591,9,Drug abuse
+30592,9,Drug abuse
+30593,9,Drug abuse
+V6542,9,Drug abuse
+F11,10,Drug abuse
+F111,10,Drug abuse
+F1110,10,Drug abuse
+F1111,10,Drug abuse
+F1112,10,Drug abuse
+F11120,10,Drug abuse
+F11121,10,Drug abuse
+F11122,10,Drug abuse
+F11129,10,Drug abuse
+F1114,10,Drug abuse
+F1115,10,Drug abuse
+F11150,10,Drug abuse
+F11151,10,Drug abuse
+F11159,10,Drug abuse
+F1118,10,Drug abuse
+F11181,10,Drug abuse
+F11182,10,Drug abuse
+F11188,10,Drug abuse
+F1119,10,Drug abuse
+F112,10,Drug abuse
+F1120,10,Drug abuse
+F1121,10,Drug abuse
+F1122,10,Drug abuse
+F11220,10,Drug abuse
+F11221,10,Drug abuse
+F11222,10,Drug abuse
+F11229,10,Drug abuse
+F1123,10,Drug abuse
+F1124,10,Drug abuse
+F1125,10,Drug abuse
+F11250,10,Drug abuse
+F11251,10,Drug abuse
+F11259,10,Drug abuse
+F1128,10,Drug abuse
+F11281,10,Drug abuse
+F11282,10,Drug abuse
+F11288,10,Drug abuse
+F1129,10,Drug abuse
+F119,10,Drug abuse
+F1190,10,Drug abuse
+F1192,10,Drug abuse
+F11920,10,Drug abuse
+F11921,10,Drug abuse
+F11922,10,Drug abuse
+F11929,10,Drug abuse
+F1193,10,Drug abuse
+F1194,10,Drug abuse
+F1195,10,Drug abuse
+F11950,10,Drug abuse
+F11951,10,Drug abuse
+F11959,10,Drug abuse
+F1198,10,Drug abuse
+F11981,10,Drug abuse
+F11982,10,Drug abuse
+F11988,10,Drug abuse
+F1199,10,Drug abuse
+F12,10,Drug abuse
+F121,10,Drug abuse
+F1210,10,Drug abuse
+F1211,10,Drug abuse
+F1212,10,Drug abuse
+F12120,10,Drug abuse
+F12121,10,Drug abuse
+F12122,10,Drug abuse
+F12129,10,Drug abuse
+F1215,10,Drug abuse
+F12150,10,Drug abuse
+F12151,10,Drug abuse
+F12159,10,Drug abuse
+F1218,10,Drug abuse
+F12180,10,Drug abuse
+F12188,10,Drug abuse
+F1219,10,Drug abuse
+F122,10,Drug abuse
+F1220,10,Drug abuse
+F1221,10,Drug abuse
+F1222,10,Drug abuse
+F12220,10,Drug abuse
+F12221,10,Drug abuse
+F12222,10,Drug abuse
+F12229,10,Drug abuse
+F1223,10,Drug abuse
+F1225,10,Drug abuse
+F12250,10,Drug abuse
+F12251,10,Drug abuse
+F12259,10,Drug abuse
+F1228,10,Drug abuse
+F12280,10,Drug abuse
+F12288,10,Drug abuse
+F1229,10,Drug abuse
+F129,10,Drug abuse
+F1290,10,Drug abuse
+F1292,10,Drug abuse
+F12920,10,Drug abuse
+F12921,10,Drug abuse
+F12922,10,Drug abuse
+F12929,10,Drug abuse
+F1293,10,Drug abuse
+F1295,10,Drug abuse
+F12950,10,Drug abuse
+F12951,10,Drug abuse
+F12959,10,Drug abuse
+F1298,10,Drug abuse
+F12980,10,Drug abuse
+F12988,10,Drug abuse
+F1299,10,Drug abuse
+F13,10,Drug abuse
+F131,10,Drug abuse
+F1310,10,Drug abuse
+F1311,10,Drug abuse
+F1312,10,Drug abuse
+F13120,10,Drug abuse
+F13121,10,Drug abuse
+F13129,10,Drug abuse
+F1314,10,Drug abuse
+F1315,10,Drug abuse
+F13150,10,Drug abuse
+F13151,10,Drug abuse
+F13159,10,Drug abuse
+F1318,10,Drug abuse
+F13180,10,Drug abuse
+F13181,10,Drug abuse
+F13182,10,Drug abuse
+F13188,10,Drug abuse
+F1319,10,Drug abuse
+F132,10,Drug abuse
+F1320,10,Drug abuse
+F1321,10,Drug abuse
+F1322,10,Drug abuse
+F13220,10,Drug abuse
+F13221,10,Drug abuse
+F13229,10,Drug abuse
+F1323,10,Drug abuse
+F13230,10,Drug abuse
+F13231,10,Drug abuse
+F13232,10,Drug abuse
+F13239,10,Drug abuse
+F1324,10,Drug abuse
+F1325,10,Drug abuse
+F13250,10,Drug abuse
+F13251,10,Drug abuse
+F13259,10,Drug abuse
+F1326,10,Drug abuse
+F1327,10,Drug abuse
+F1328,10,Drug abuse
+F13280,10,Drug abuse
+F13281,10,Drug abuse
+F13282,10,Drug abuse
+F13288,10,Drug abuse
+F1329,10,Drug abuse
+F139,10,Drug abuse
+F1390,10,Drug abuse
+F1392,10,Drug abuse
+F13920,10,Drug abuse
+F13921,10,Drug abuse
+F13929,10,Drug abuse
+F1393,10,Drug abuse
+F13930,10,Drug abuse
+F13931,10,Drug abuse
+F13932,10,Drug abuse
+F13939,10,Drug abuse
+F1394,10,Drug abuse
+F1395,10,Drug abuse
+F13950,10,Drug abuse
+F13951,10,Drug abuse
+F13959,10,Drug abuse
+F1396,10,Drug abuse
+F1397,10,Drug abuse
+F1398,10,Drug abuse
+F13980,10,Drug abuse
+F13981,10,Drug abuse
+F13982,10,Drug abuse
+F13988,10,Drug abuse
+F1399,10,Drug abuse
+F14,10,Drug abuse
+F141,10,Drug abuse
+F1410,10,Drug abuse
+F1411,10,Drug abuse
+F1412,10,Drug abuse
+F14120,10,Drug abuse
+F14121,10,Drug abuse
+F14122,10,Drug abuse
+F14129,10,Drug abuse
+F1414,10,Drug abuse
+F1415,10,Drug abuse
+F14150,10,Drug abuse
+F14151,10,Drug abuse
+F14159,10,Drug abuse
+F1418,10,Drug abuse
+F14180,10,Drug abuse
+F14181,10,Drug abuse
+F14182,10,Drug abuse
+F14188,10,Drug abuse
+F1419,10,Drug abuse
+F142,10,Drug abuse
+F1420,10,Drug abuse
+F1421,10,Drug abuse
+F1422,10,Drug abuse
+F14220,10,Drug abuse
+F14221,10,Drug abuse
+F14222,10,Drug abuse
+F14229,10,Drug abuse
+F1423,10,Drug abuse
+F1424,10,Drug abuse
+F1425,10,Drug abuse
+F14250,10,Drug abuse
+F14251,10,Drug abuse
+F14259,10,Drug abuse
+F1428,10,Drug abuse
+F14280,10,Drug abuse
+F14281,10,Drug abuse
+F14282,10,Drug abuse
+F14288,10,Drug abuse
+F1429,10,Drug abuse
+F149,10,Drug abuse
+F1490,10,Drug abuse
+F1492,10,Drug abuse
+F14920,10,Drug abuse
+F14921,10,Drug abuse
+F14922,10,Drug abuse
+F14929,10,Drug abuse
+F1494,10,Drug abuse
+F1495,10,Drug abuse
+F14950,10,Drug abuse
+F14951,10,Drug abuse
+F14959,10,Drug abuse
+F1498,10,Drug abuse
+F14980,10,Drug abuse
+F14981,10,Drug abuse
+F14982,10,Drug abuse
+F14988,10,Drug abuse
+F1499,10,Drug abuse
+F15,10,Drug abuse
+F151,10,Drug abuse
+F1510,10,Drug abuse
+F1511,10,Drug abuse
+F1512,10,Drug abuse
+F15120,10,Drug abuse
+F15121,10,Drug abuse
+F15122,10,Drug abuse
+F15129,10,Drug abuse
+F1514,10,Drug abuse
+F1515,10,Drug abuse
+F15150,10,Drug abuse
+F15151,10,Drug abuse
+F15159,10,Drug abuse
+F1518,10,Drug abuse
+F15180,10,Drug abuse
+F15181,10,Drug abuse
+F15182,10,Drug abuse
+F15188,10,Drug abuse
+F1519,10,Drug abuse
+F152,10,Drug abuse
+F1520,10,Drug abuse
+F1521,10,Drug abuse
+F1522,10,Drug abuse
+F15220,10,Drug abuse
+F15221,10,Drug abuse
+F15222,10,Drug abuse
+F15229,10,Drug abuse
+F1523,10,Drug abuse
+F1524,10,Drug abuse
+F1525,10,Drug abuse
+F15250,10,Drug abuse
+F15251,10,Drug abuse
+F15259,10,Drug abuse
+F1528,10,Drug abuse
+F15280,10,Drug abuse
+F15281,10,Drug abuse
+F15282,10,Drug abuse
+F15288,10,Drug abuse
+F1529,10,Drug abuse
+F159,10,Drug abuse
+F1590,10,Drug abuse
+F1592,10,Drug abuse
+F15920,10,Drug abuse
+F15921,10,Drug abuse
+F15922,10,Drug abuse
+F15929,10,Drug abuse
+F1593,10,Drug abuse
+F1594,10,Drug abuse
+F1595,10,Drug abuse
+F15950,10,Drug abuse
+F15951,10,Drug abuse
+F15959,10,Drug abuse
+F1598,10,Drug abuse
+F15980,10,Drug abuse
+F15981,10,Drug abuse
+F15982,10,Drug abuse
+F15988,10,Drug abuse
+F1599,10,Drug abuse
+F16,10,Drug abuse
+F161,10,Drug abuse
+F1610,10,Drug abuse
+F1611,10,Drug abuse
+F1612,10,Drug abuse
+F16120,10,Drug abuse
+F16121,10,Drug abuse
+F16122,10,Drug abuse
+F16129,10,Drug abuse
+F1614,10,Drug abuse
+F1615,10,Drug abuse
+F16150,10,Drug abuse
+F16151,10,Drug abuse
+F16159,10,Drug abuse
+F1618,10,Drug abuse
+F16180,10,Drug abuse
+F16183,10,Drug abuse
+F16188,10,Drug abuse
+F1619,10,Drug abuse
+F162,10,Drug abuse
+F1620,10,Drug abuse
+F1621,10,Drug abuse
+F1622,10,Drug abuse
+F16220,10,Drug abuse
+F16221,10,Drug abuse
+F16229,10,Drug abuse
+F1624,10,Drug abuse
+F1625,10,Drug abuse
+F16250,10,Drug abuse
+F16251,10,Drug abuse
+F16259,10,Drug abuse
+F1628,10,Drug abuse
+F16280,10,Drug abuse
+F16283,10,Drug abuse
+F16288,10,Drug abuse
+F1629,10,Drug abuse
+F169,10,Drug abuse
+F1690,10,Drug abuse
+F1692,10,Drug abuse
+F16920,10,Drug abuse
+F16921,10,Drug abuse
+F16929,10,Drug abuse
+F1694,10,Drug abuse
+F1695,10,Drug abuse
+F16950,10,Drug abuse
+F16951,10,Drug abuse
+F16959,10,Drug abuse
+F1698,10,Drug abuse
+F16980,10,Drug abuse
+F16983,10,Drug abuse
+F16988,10,Drug abuse
+F1699,10,Drug abuse
+F18,10,Drug abuse
+F181,10,Drug abuse
+F1810,10,Drug abuse
+F1811,10,Drug abuse
+F1812,10,Drug abuse
+F18120,10,Drug abuse
+F18121,10,Drug abuse
+F18129,10,Drug abuse
+F1814,10,Drug abuse
+F1815,10,Drug abuse
+F18150,10,Drug abuse
+F18151,10,Drug abuse
+F18159,10,Drug abuse
+F1817,10,Drug abuse
+F1818,10,Drug abuse
+F18180,10,Drug abuse
+F18188,10,Drug abuse
+F1819,10,Drug abuse
+F182,10,Drug abuse
+F1820,10,Drug abuse
+F1821,10,Drug abuse
+F1822,10,Drug abuse
+F18220,10,Drug abuse
+F18221,10,Drug abuse
+F18229,10,Drug abuse
+F1824,10,Drug abuse
+F1825,10,Drug abuse
+F18250,10,Drug abuse
+F18251,10,Drug abuse
+F18259,10,Drug abuse
+F1827,10,Drug abuse
+F1828,10,Drug abuse
+F18280,10,Drug abuse
+F18288,10,Drug abuse
+F1829,10,Drug abuse
+F189,10,Drug abuse
+F1890,10,Drug abuse
+F1892,10,Drug abuse
+F18920,10,Drug abuse
+F18921,10,Drug abuse
+F18929,10,Drug abuse
+F1894,10,Drug abuse
+F1895,10,Drug abuse
+F18950,10,Drug abuse
+F18951,10,Drug abuse
+F18959,10,Drug abuse
+F1897,10,Drug abuse
+F1898,10,Drug abuse
+F18980,10,Drug abuse
+F18988,10,Drug abuse
+F1899,10,Drug abuse
+F19,10,Drug abuse
+F191,10,Drug abuse
+F1910,10,Drug abuse
+F1911,10,Drug abuse
+F1912,10,Drug abuse
+F19120,10,Drug abuse
+F19121,10,Drug abuse
+F19122,10,Drug abuse
+F19129,10,Drug abuse
+F1914,10,Drug abuse
+F1915,10,Drug abuse
+F19150,10,Drug abuse
+F19151,10,Drug abuse
+F19159,10,Drug abuse
+F1916,10,Drug abuse
+F1917,10,Drug abuse
+F1918,10,Drug abuse
+F19180,10,Drug abuse
+F19181,10,Drug abuse
+F19182,10,Drug abuse
+F19188,10,Drug abuse
+F1919,10,Drug abuse
+F192,10,Drug abuse
+F1920,10,Drug abuse
+F1921,10,Drug abuse
+F1922,10,Drug abuse
+F19220,10,Drug abuse
+F19221,10,Drug abuse
+F19222,10,Drug abuse
+F19229,10,Drug abuse
+F1923,10,Drug abuse
+F19230,10,Drug abuse
+F19231,10,Drug abuse
+F19232,10,Drug abuse
+F19239,10,Drug abuse
+F1924,10,Drug abuse
+F1925,10,Drug abuse
+F19250,10,Drug abuse
+F19251,10,Drug abuse
+F19259,10,Drug abuse
+F1926,10,Drug abuse
+F1927,10,Drug abuse
+F1928,10,Drug abuse
+F19280,10,Drug abuse
+F19281,10,Drug abuse
+F19282,10,Drug abuse
+F19288,10,Drug abuse
+F1929,10,Drug abuse
+F199,10,Drug abuse
+F1990,10,Drug abuse
+F1992,10,Drug abuse
+F19920,10,Drug abuse
+F19921,10,Drug abuse
+F19922,10,Drug abuse
+F19929,10,Drug abuse
+F1993,10,Drug abuse
+F19930,10,Drug abuse
+F19931,10,Drug abuse
+F19932,10,Drug abuse
+F19939,10,Drug abuse
+F1994,10,Drug abuse
+F1995,10,Drug abuse
+F19950,10,Drug abuse
+F19951,10,Drug abuse
+F19959,10,Drug abuse
+F1996,10,Drug abuse
+F1997,10,Drug abuse
+F1998,10,Drug abuse
+F19980,10,Drug abuse
+F19981,10,Drug abuse
+F19982,10,Drug abuse
+F19988,10,Drug abuse
+F1999,10,Drug abuse
+Z715,10,Drug abuse
+Z7151,10,Drug abuse
+Z7152,10,Drug abuse
+Z722,10,Drug abuse
+29381,9,Psychoses
+29382,9,Psychoses
+29383,9,Psychoses
+29384,9,Psychoses
+29389,9,Psychoses
+29500,9,Psychoses
+29501,9,Psychoses
+29502,9,Psychoses
+29503,9,Psychoses
+29504,9,Psychoses
+29505,9,Psychoses
+29510,9,Psychoses
+29511,9,Psychoses
+29512,9,Psychoses
+29513,9,Psychoses
+29514,9,Psychoses
+29515,9,Psychoses
+29520,9,Psychoses
+29521,9,Psychoses
+29522,9,Psychoses
+29523,9,Psychoses
+29524,9,Psychoses
+29525,9,Psychoses
+29530,9,Psychoses
+29531,9,Psychoses
+29532,9,Psychoses
+29533,9,Psychoses
+29534,9,Psychoses
+29535,9,Psychoses
+29540,9,Psychoses
+29541,9,Psychoses
+29542,9,Psychoses
+29543,9,Psychoses
+29544,9,Psychoses
+29545,9,Psychoses
+29550,9,Psychoses
+29551,9,Psychoses
+29552,9,Psychoses
+29553,9,Psychoses
+29554,9,Psychoses
+29555,9,Psychoses
+29560,9,Psychoses
+29561,9,Psychoses
+29562,9,Psychoses
+29563,9,Psychoses
+29564,9,Psychoses
+29565,9,Psychoses
+29570,9,Psychoses
+29571,9,Psychoses
+29572,9,Psychoses
+29573,9,Psychoses
+29574,9,Psychoses
+29575,9,Psychoses
+29580,9,Psychoses
+29581,9,Psychoses
+29582,9,Psychoses
+29583,9,Psychoses
+29584,9,Psychoses
+29585,9,Psychoses
+29590,9,Psychoses
+29591,9,Psychoses
+29592,9,Psychoses
+29593,9,Psychoses
+29594,9,Psychoses
+29595,9,Psychoses
+29604,9,Psychoses
+29614,9,Psychoses
+29644,9,Psychoses
+29654,9,Psychoses
+2970,9,Psychoses
+2971,9,Psychoses
+2972,9,Psychoses
+2973,9,Psychoses
+2978,9,Psychoses
+2979,9,Psychoses
+2980,9,Psychoses
+2981,9,Psychoses
+2982,9,Psychoses
+2983,9,Psychoses
+2984,9,Psychoses
+2988,9,Psychoses
+2989,9,Psychoses
+F20,10,Psychoses
+F200,10,Psychoses
+F201,10,Psychoses
+F202,10,Psychoses
+F203,10,Psychoses
+F205,10,Psychoses
+F208,10,Psychoses
+F2081,10,Psychoses
+F2089,10,Psychoses
+F209,10,Psychoses
+F22,10,Psychoses
+F23,10,Psychoses
+F24,10,Psychoses
+F25,10,Psychoses
+F250,10,Psychoses
+F251,10,Psychoses
+F258,10,Psychoses
+F259,10,Psychoses
+F28,10,Psychoses
+F29,10,Psychoses
+F302,10,Psychoses
+F312,10,Psychoses
+F315,10,Psychoses
+29620,9,Depression
+29621,9,Depression
+29622,9,Depression
+29623,9,Depression
+29624,9,Depression
+29625,9,Depression
+29626,9,Depression
+29630,9,Depression
+29631,9,Depression
+29632,9,Depression
+29633,9,Depression
+29634,9,Depression
+29635,9,Depression
+29636,9,Depression
+29650,9,Depression
+29651,9,Depression
+29652,9,Depression
+29653,9,Depression
+29654,9,Depression
+29655,9,Depression
+29656,9,Depression
+3004,9,Depression
+3090,9,Depression
+3091,9,Depression
+30921,9,Depression
+30922,9,Depression
+30923,9,Depression
+30924,9,Depression
+30928,9,Depression
+30929,9,Depression
+3093,9,Depression
+3094,9,Depression
+30981,9,Depression
+30982,9,Depression
+30983,9,Depression
+30989,9,Depression
+3099,9,Depression
+311,9,Depression
+F204,10,Depression
+F313,10,Depression
+F3130,10,Depression
+F3131,10,Depression
+F3132,10,Depression
+F314,10,Depression
+F315,10,Depression
+F32,10,Depression
+F320,10,Depression
+F321,10,Depression
+F322,10,Depression
+F323,10,Depression
+F324,10,Depression
+F325,10,Depression
+F328,10,Depression
+F3281,10,Depression
+F3289,10,Depression
+F329,10,Depression
+F33,10,Depression
+F330,10,Depression
+F331,10,Depression
+F332,10,Depression
+F333,10,Depression
+F334,10,Depression
+F3340,10,Depression
+F3341,10,Depression
+F3342,10,Depression
+F338,10,Depression
+F339,10,Depression
+F341,10,Depression
+F412,10,Depression
+F432,10,Depression
+F4320,10,Depression
+F4321,10,Depression
+F4322,10,Depression
+F4323,10,Depression
+F4324,10,Depression
+F4325,10,Depression
+F4329,10,Depression
