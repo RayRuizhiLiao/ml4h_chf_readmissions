@@ -38,12 +38,12 @@ parser.add_argument('--data_dir', type=str,
 					default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/images/',
 					help='The image data directory')
 parser.add_argument('--dataset_metadata', type=str,
-					default=os.path.join(current_dir, 'data/train_readmission-14d_hf.csv'),
+					default=os.path.join(current_dir, 'data/train_readmission-er_hf.csv'),
 					help='The metadata for the model training ')
 parser.add_argument('--save_dir', type=str,
 					default='physionet.org/files/mimic-cxr-jpg/2.0.0/files/experiments/')
 parser.add_argument('--label_key', type=str,
-                    default='14d_hf',
+                    default='er_hf',
                     help='The supervised task (the key of the corresponding label column)')
 
 

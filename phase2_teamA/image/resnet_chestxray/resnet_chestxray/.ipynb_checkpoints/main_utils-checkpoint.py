@@ -35,8 +35,8 @@ import eval_metrics
 from PIL import Image
 
 # label = '14d_hf'
-def build_training_dataset(data_dir, img_size: int, dataset_metadata='../data/train_readmission-14d_hf.csv',
-        random_degrees=[-20,20], random_translate=[0.1,0.1], label_key='14d_hf'):
+def build_training_dataset(data_dir, img_size: int, dataset_metadata='../data/train_readmission-er_hf.csv',
+        random_degrees=[-20,20], random_translate=[0.1,0.1], label_key='er_hf'):
     transform=torchvision.transforms.Compose([
         torchvision.transforms.Lambda(lambda img: img.astype(np.int16)),
         torchvision.transforms.ToPILImage(),
@@ -54,7 +54,7 @@ def build_training_dataset(data_dir, img_size: int, dataset_metadata='../data/tr
 
     return training_dataset
 
-def build_evaluation_dataset(data_dir, img_size: int, dataset_metadata='../data/test_readmission-14d_hf.csv', label_key='14d_hf'):
+def build_evaluation_dataset(data_dir, img_size: int, dataset_metadata='../data/test_readmission-er_hf.csv', label_key='er_hf'):
     transform=torchvision.transforms.Compose([
         torchvision.transforms.Lambda(lambda img: img.astype(np.int16)),
         torchvision.transforms.ToPILImage(),
@@ -268,11 +268,11 @@ class ModelManager:
                                                      'all_labels': all_labels}
             eval_results = {}
 
-            if args.label_key in ['14d_hf', '30d_hf', '48h_hf']:
-                    all_preds_prob = [1 / (1 + np.exp(-logit)) for logit in all_preds_logit]
-                    #all_preds_prob = all_preds_logit
-                    aucs = eval_metrics.compute_binary_auc(all_labels, all_preds_prob)
-                    eval_results['aucs'] = aucs
+            #if args.label_key in ['14d_hf', '30d_hf', '48h_hf']:
+            all_preds_prob = [1 / (1 + np.exp(-logit)) for logit in all_preds_logit]
+            #all_preds_prob = all_preds_logit
+            aucs = eval_metrics.compute_binary_auc(all_labels, all_preds_prob)
+            eval_results['aucs'] = aucs
 # 			all_onehot_labels = [convert_to_onehot(label) for label in all_labels]
 
 # 			ordinal_aucs = eval_metrics.compute_ordinal_auc(all_onehot_labels, all_preds_prob)
@@ -284,13 +284,13 @@ class ModelManager:
 
 # 			eval_results['mse'] = eval_metrics.compute_mse(all_labels, all_preds_prob)
 
-                    results_acc_f1, _, _ = eval_metrics.compute_acc_f1_metrics(all_labels, all_preds_prob)
-                    eval_results.update(results_acc_f1)
-            else:
-                    all_preds_prob = [1 / (1 + np.exp(-logit)) for logit in all_preds_logit]
-                    all_preds_class = np.argmax(all_preds_prob, axis=1)
-                    aucs = eval_metrics.compute_multiclass_auc(all_labels, all_preds_prob)
-                    eval_results['aucs'] = aucs
+            results_acc_f1, _, _ = eval_metrics.compute_acc_f1_metrics(all_labels, all_preds_prob)
+            eval_results.update(results_acc_f1)
+#             else:
+#                     all_preds_prob = [1 / (1 + np.exp(-logit)) for logit in all_preds_logit]
+#                     all_preds_class = np.argmax(all_preds_prob, axis=1)
+#                     aucs = eval_metrics.compute_multiclass_auc(all_labels, all_preds_prob)
+#                     eval_results['aucs'] = aucs
 
             return inference_results, eval_results
 

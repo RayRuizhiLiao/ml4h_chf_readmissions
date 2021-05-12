@@ -201,6 +201,7 @@ def compute_binary_auc(labels, preds):
     #ind = np.argmax(scores)
     gmeans = np.sqrt(tpr * (1-fpr))
     gmeans[thresholds < 5e-2] = 0
+    gmeans[thresholds >= 1] = 0
     ind = np.argmax(gmeans)
     print(gmeans)
     print(ind)
