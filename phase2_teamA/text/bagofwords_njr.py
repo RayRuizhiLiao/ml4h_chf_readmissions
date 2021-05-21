@@ -10,6 +10,7 @@ reports_test = []
 labels_test = []
 x = pd.read_excel("adm_with_cxr.xlsx")
 training = set()
+#load radiology report data
 #ensure that the same subject_id does not appear in the training and testing
 for i in range(len(x["path"])):
     try:
@@ -24,6 +25,7 @@ for i in range(len(x["path"])):
     except:
         continue
 
+#ngram inputs list of reports string and n = 1 for unigram, n = 2 for bigram etc.
 def ngram(reports, n):
   #convert text to lower case, remove non-word characters, remove punctuation
   for i in range(len(reports)):
@@ -61,6 +63,7 @@ def ngram(reports, n):
   final_vec = np.asarray(final_vec) # returns a 2D array #reports x vector
   return final_vec, freq_words
 
+# split data into training, test, and validation
 cutoff = len(reports_train)
 cutoff_val = int(7/8*len(reports_train))
 reports,freq_words = ngram(reports_train + reports_test,1)
@@ -84,38 +87,32 @@ print(reports_train.shape)
 print(reports_val.shape)
 print(reports_test.shape)
 
-def oversample(reports_train, labels_train):
-  x = reports_train
-  y = labels_train[:,7]
-  y = labels_val[:,7]
-  y = labels_test[:,7]
-  
-oversample(reports_train,labels_train)
+#hyperparameter optimization
+def model(i):
+  wmax = 0
+  fmax = 0
+  for w in range(1,250,1):
+    clf = RandomForestClassifier(class_weight = {0: 1, 1: w})
+    clf.fit(reports_train,labels_train[:,i])
+    y_pred = clf.predict(reports_val)
+    p, r, f, s = precision_recall_fscore_support(labels_val[:,i],y_pred=y_pred,labels=(0,1))
+    if f[1] > fmax: 
+      wmax = w
+      fmax = f[1]
+  clf = RandomForestClassifier(class_weight = {0: 1, 1: wmax})
+  clf.fit(reports_train,labels_train[:,i])
+  y_pred = clf.predict(reports_test)
+  # print(confusion_matrix(y_true = labels_test[:,i], y_pred = y_pred, labels=(0,1)))
+  p, r, f, s = precision_recall_fscore_support(labels_test[:,i],y_pred=y_pred,labels=(0,1))
+  auc = sklearn.metrics.roc_auc_score(labels_test[:,i],clf.predict_proba(reports_test)[:,1],labels=(0,1))
+  return [p[1],r[1],f[1],auc,clf.feature_importances_]
 
-##def model(i):
-##  wmax = 0
-##  fmax = 0
-##  for w in range(2,250,1):
-##    clf = RandomForestClassifier(class_weight = {0: 1, 1: w})
-##    clf.fit(reports_train,labels_train[:,i])
-##    y_pred = clf.predict(reports_val)
-##    p, r, f, s = precision_recall_fscore_support(labels_val[:,i],y_pred=y_pred,labels=(0,1))
-##    if f[1] > fmax: 
-##      wmax = w
-##      fmax = f[1]
-##  clf = RandomForestClassifier(class_weight = {0: 1, 1: wmax})
-##  clf.fit(reports_train,labels_train[:,i])
-##  y_pred = clf.predict(reports_test)
-##  # print(confusion_matrix(y_true = labels_test[:,i], y_pred = y_pred, labels=(0,1)))
-##  p, r, f, s = precision_recall_fscore_support(labels_test[:,i],y_pred=y_pred,labels=(0,1))
-##  auc = sklearn.metrics.roc_auc_score(labels_test[:,i],clf.predict_proba(reports_test)[:,1],labels=(0,1))
-##  return [p[1],r[1],f[1],auc,clf.feature_importances_]
-## 
-##score = [] 
-##print(freq_words)
-##for i in range(8):
-##  score.append(model(i))
-##print(score)
+# print final scores
+score = [] 
+print(freq_words)
+for i in range(8):
+  score.append(model(i))
+print(score)
 
 clf = RandomForestClassifier()
 clf.fit(reports_train,labels_train[:,7])

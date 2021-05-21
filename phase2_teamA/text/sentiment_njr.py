@@ -12,15 +12,23 @@ reports_test = []
 labels_test = []
 x = pd.read_excel("adm_with_cxr.xlsx")
 training = set()
+#load data
 #ensure that the same subject_id does not appear in the training and testing
+
+most_pos = 0
+report_most_pos = 0
 for i in range(len(x["path"])):
     try:
         f = open(x["path"][i], "r")
         if x["subject_id"][i] not in training:
           training.add(x["subject_id"][i])
           rreport = f.read()
+          #define sentiment analysis for each report
           sia = SentimentIntensityAnalyzer()
           sentiment = sia.polarity_scores(rreport)
+          if sentiment['pos'] > most_pos:
+            most_pos = sentiment['pos']
+            report_mos_pos = rreport
           reports_train.append(list(sentiment.values())[:3])
           labels_train.append([x["48h_hf"][i],x["14d_hf"][i],x["30d_hf"][i],x["er_hf"][i],x["48h"][i],x["14d"][i],x["30d"][i],x["er"][i]])
         else:
@@ -31,6 +39,12 @@ for i in range(len(x["path"])):
           labels_test.append([x["48h_hf"][i],x["14d_hf"][i],x["30d_hf"][i],x["er_hf"][i],x["48h"][i],x["14d"][i],x["30d"][i],x["er"][i]])
     except:
         continue
+  
+#print most positive report
+print(most_pos)
+print(report_mos_pos)
+      
+#split data
 
 cutoff = len(reports_train)
 cutoff_val = int(7/8*len(reports_train))
@@ -50,21 +64,17 @@ import sklearn
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import precision_recall_fscore_support, confusion_matrix
 
+#ensure sizes are consistent with split
 print('Sizes')
 print(reports_train.shape)
 print(reports_val.shape)
 print(reports_test.shape)
 
-def oversample(reports_train, labels_train):
-  x = reports_train
-  y = labels_train[:,7]
-  y = labels_val[:,7]
-  y = labels_test[:,7]
-
+# iterate through each outcome for hyperparameter optimization, maximizing F1 score
 def model(i):
   wmax = 0
   fmax = 0
-  for w in range(2,250,1):
+  for w in range(1,250,1):
     clf = RandomForestClassifier(class_weight = {0: 1, 1: w})
     clf.fit(reports_train,labels_train[:,i])
     y_pred = clf.predict(reports_val)
@@ -79,6 +89,7 @@ def model(i):
   auc = sklearn.metrics.roc_auc_score(labels_test[:,i],clf.predict_proba(reports_test)[:,1],labels=(0,1))
   return [p[1],r[1],f[1],auc]
 
+iterate through eachmodel, print out final scores
 score = []
 for i in range(8):
   score.append(model(i))
